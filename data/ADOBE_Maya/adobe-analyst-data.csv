@@ -1,0 +1,836 @@
+date,company_Name,ticker,broker,analytst,rating_before,rating_after,price_target_before,price_target_after
+12/11/2015,Adobe Systems Inc,ADBE,STEPHENS,ALEX ZUKIN,                             ,OVERWEIGHT                   ,100,115
+3/17/2017,Adobe Systems Inc,ADBE,PIPER SANDLER,ALEX ZUKIN,,                             ,,160
+9/20/2017,Adobe Systems Inc,ADBE,PIPER SANDLER,ALEX ZUKIN,OVERWEIGHT,OVERWEIGHT,,180
+3/16/2018,Adobe Systems Inc,ADBE,PIPER SANDLER,ALEX ZUKIN,                             ,OVERWEIGHT                   ,220,260
+9/14/2018,Adobe Systems Inc,ADBE,PIPER SANDLER,ALEX ZUKIN,,                             ,,290
+10/16/2018,Adobe Systems Inc,ADBE,PIPER SANDLER,ALEX ZUKIN,OVERWEIGHT,OVERWEIGHT,,310
+9/18/2019,Adobe Systems Inc,ADBE,RBC,ALEX ZUKIN,,                             ,,                  
+11/5/2019,Adobe Systems Inc,ADBE,RBC,ALEX ZUKIN,OUTPERFORM,IN LINE,,345
+3/13/2020,Adobe Systems Inc,ADBE,RBC,ALEX ZUKIN,OUTPERFORM,OUTPERFORM,345,325
+6/12/2020,Adobe Systems Inc,ADBE,RBC,ALEX ZUKIN,                             ,OUTPERFORM                   ,325,440
+9/10/2020,Adobe Systems Inc,ADBE,RBC,ALEX ZUKIN,                             ,OUTPERFORM                   ,440,550
+9/16/2020,Adobe Systems Inc,ADBE,RBC,ALEX ZUKIN,                             ,OUTPERFORM                   ,550,570
+12/11/2020,Adobe Systems Inc,ADBE,RBC,ALEX ZUKIN,                             ,OUTPERFORM                   ,570,575
+6/17/2022,Adobe Systems Inc,ADBE,WOLFE,ALEX ZUKIN,                             ,OUTPERFORM                   ,500,400
+9/16/2022,Adobe Systems Inc,ADBE,WOLFE,ALEX ZUKIN,                             ,OUTPERFORM                   ,470,340
+3/24/2021,Adobe Systems Inc,ADBE,RBC,ALEX ZUKIN,,OUTPERFORM                   ,,575
+6/21/2017,Adobe Systems Inc,ADBE,PIPER SANDLER,ALEX ZUKIN,                             ,OVERWEIGHT                   ,160,180
+10/19/2017,Adobe Systems Inc,ADBE,PIPER SANDLER,ALEX ZUKIN,OVERWEIGHT,OVERWEIGHT,180,195
+7/26/2016,Adobe Systems Inc,ADBE,PIPER SANDLER,ALEX ZUKIN,OVERWEIGHT,OVERWEIGHT,,125
+9/13/2019,Adobe Systems Inc,ADBE,RBC,ALEX ZUKIN,OUTPERFORM,OUTPERFORM,,                  
+3/16/2023,Adobe Systems Inc,ADBE,WOLFE,ALEX ZUKIN,                             ,OUTPERFORM                   ,440,420
+9/15/2023,Adobe Systems Inc,ADBE,WOLFE,ALEX ZUKIN,                             ,OUTPERFORM                   ,580,650
+3/22/2017,Adobe Systems Inc,ADBE,PIPER SANDLER,ALEX ZUKIN,OVERWEIGHT,OVERWEIGHT,,160
+4/22/2021,Adobe Systems Inc,ADBE,WOLFE,ALEX ZUKIN,,OUTPERFORM                   ,,650
+2/24/2023,Adobe Systems Inc,ADBE,WOLFE,ALEX ZUKIN,Outperform                   ,Outperform                   ,440,440
+4/30/2020,Adobe Systems Inc,ADBE,,AMBRISH SRIVASTAVA,Outperform                   ,Outperform                   ,375,375
+4/5/2022,Adobe Systems Inc,ADBE,,AMBRISH SRIVASTAVA,Outperform                   ,Outperform                   ,730,730
+12/17/2021,Adobe Systems Inc,ADBE,,AMBRISH SRIVASTAVA,Outperform                   ,Outperform                   ,720 » 650       ,720 » 650
+6/18/2021,Adobe Systems Inc,ADBE,,AMBRISH SRIVASTAVA,Outperform                   ,Outperform                   ,600,600
+3/13/2020,Adobe Systems Inc,ADBE,,AMBRISH SRIVASTAVA,Outperform                   ,Outperform                   ,370,370
+9/16/2020,Adobe Systems Inc,ADBE,,AMBRISH SRIVASTAVA,Outperform                   ,Outperform                   ,560,560
+9/17/2021,Adobe Systems Inc,ADBE,,AMBRISH SRIVASTAVA,Outperform                   ,Outperform                   ,,
+12/11/2019,Adobe Systems Inc,ADBE,BMO,AMBRISH SRIVASTAVA,                             ,OUTPERFORM                   ,300,350
+11/5/2019,Adobe Systems Inc,ADBE,BMO,AMBRISH SRIVASTAVA,,MARKET PERFORM               ,,310
+10/15/2019,Adobe Systems Inc,ADBE,CLEVELAND RESEARCH,ARI TERJANIAN,,NEUTRAL                      ,,283
+1/27/2020,Adobe Systems Inc,ADBE,CLEVELAND RESEARCH,ARI TERJANIAN,BUY,NEUTRAL,,                  
+3/15/2024,Adobe Systems Inc,ADBE,MELIUS,BEN REITZES,                             ,BUY                          ,735,685
+4/8/2021,Adobe Systems Inc,ADBE,BAML,BRAD SILLS,,BUY                          ,,570
+6/17/2022,Adobe Systems Inc,ADBE,BAML,BRAD SILLS,                             ,BUY                          ,560,450
+9/16/2022,Adobe Systems Inc,ADBE,BAML,BRAD SILLS,NEUTRAL,BUY,450,350
+8/17/2023,Adobe Systems Inc,ADBE,BAML,BRAD SILLS,BUY,NEUTRAL,575,630
+9/15/2023,Adobe Systems Inc,ADBE,BAML,BRAD SILLS,                             ,BUY                          ,630,660
+8/20/2021,Adobe Systems Inc,ADBE,BAML,BRAD SILLS,,BUY                          ,,640
+12/16/2022,Adobe Systems Inc,ADBE,BAML,BRAD SILLS,                             ,NEUTRAL                      ,350,400
+3/13/2025,Adobe Systems Inc,ADBE,BAML,BRAD SILLS,                             ,BUY                          ,605,528
+12/17/2021,Adobe Systems Inc,ADBE,BAML,BRAD SILLS,Buy                          ,Buy                          ,640,640
+6/2/2023,Adobe Systems Inc,ADBE,BAML,BRAD SILLS,Buy,Buy,480,480
+9/13/2024,Adobe Systems Inc,ADBE,,BRAD SILLS,Buy,Buy,640,640
+12/12/2024,Adobe Systems Inc,ADBE,,BRAD SILLS,Buy,Buy,605,605
+10/7/2015,Adobe Systems Inc,ADBE,JEFFERIES,BRAD ZELNICK,BUY,BUY,,92
+9/14/2018,Adobe Systems Inc,ADBE,CREDIT SUISSE,BRAD ZELNICK,                             ,OUTPERFORM                   ,275,300
+10/10/2018,Adobe Systems Inc,ADBE,CREDIT SUISSE,BRAD ZELNICK,,OUTPERFORM                   ,,300
+6/19/2019,Adobe Systems Inc,ADBE,CREDIT SUISSE,BRAD ZELNICK,                             ,                             ,300,325
+12/13/2019,Adobe Systems Inc,ADBE,CREDIT SUISSE,BRAD ZELNICK,                             ,OUTPERFORM                   ,325,350
+1/13/2020,Adobe Systems Inc,ADBE,CREDIT SUISSE,BRAD ZELNICK,,                             ,,385
+3/13/2020,Adobe Systems Inc,ADBE,CREDIT SUISSE,BRAD ZELNICK,                             ,OUTPERFORM                   ,385,370
+6/12/2020,Adobe Systems Inc,ADBE,CREDIT SUISSE,BRAD ZELNICK,                             ,OUTPERFORM                   ,415,425
+9/16/2020,Adobe Systems Inc,ADBE,CREDIT SUISSE,BRAD ZELNICK,                             ,OUTPERFORM                   ,425,560
+12/17/2021,Adobe Systems Inc,ADBE,DEUTSCHE BANK,BRAD ZELNICK,                             ,BUY                          ,770,715
+1/21/2022,Adobe Systems Inc,ADBE,DEUTSCHE BANK,BRAD ZELNICK,                             ,BUY                          ,715,660
+3/23/2022,Adobe Systems Inc,ADBE,DEUTSCHE BANK,BRAD ZELNICK,                             ,BUY                          ,660,575
+6/17/2022,Adobe Systems Inc,ADBE,DEUTSCHE BANK,BRAD ZELNICK,                             ,BUY                          ,575,500
+9/16/2022,Adobe Systems Inc,ADBE,DEUTSCHE BANK,BRAD ZELNICK,                             ,BUY                          ,500,400
+12/16/2022,Adobe Systems Inc,ADBE,DEUTSCHE BANK,BRAD ZELNICK,                             ,BUY                          ,400,430
+1/23/2018,Adobe Systems Inc,ADBE,,BRAD ZELNICK,Outperform                   ,Outperform                   ,225,225
+3/16/2018,Adobe Systems Inc,ADBE,,BRAD ZELNICK,Outperform                   ,Outperform                   ,260,260
+3/16/2021,Adobe Systems Inc,ADBE,,BRAD ZELNICK,Outperform                   ,Outperform                   ,575,575
+3/24/2017,Adobe Systems Inc,ADBE,,BRAD ZELNICK,Neutral,Outperform,,
+5/10/2018,Adobe Systems Inc,ADBE,,BRAD ZELNICK,Outperform                   ,Outperform                   ,250,250
+10/19/2017,Adobe Systems Inc,ADBE,,BRAD ZELNICK,Outperform                   ,Outperform                   ,187,187
+6/17/2015,Adobe Systems Inc,ADBE,JEFFERIES,BRAD ZELNICK,BUY,BUY,,90
+12/11/2020,Adobe Systems Inc,ADBE,CREDIT SUISSE,BRAD ZELNICK,                             ,OUTPERFORM                   ,560,575
+9/15/2023,Adobe Systems Inc,ADBE,DEUTSCHE BANK,BRAD ZELNICK,                             ,BUY                          ,550,610
+12/14/2023,Adobe Systems Inc,ADBE,DEUTSCHE BANK,BRAD ZELNICK,                             ,BUY                          ,610,650
+9/18/2015,Adobe Systems Inc,ADBE,JEFFERIES,BRAD ZELNICK,BUY,BUY,90,92
+11/1/2021,Adobe Systems Inc,ADBE,DEUTSCHE BANK,BRAD ZELNICK,,BUY                          ,,770
+12/12/2024,Adobe Systems Inc,ADBE,DEUTSCHE BANK,BRAD ZELNICK,                             ,BUY                          ,650,600
+6/8/2023,Adobe Systems Inc,ADBE,DEUTSCHE BANK,BRAD ZELNICK,Buy                          ,Buy                          ,500,500
+1/23/2018,Adobe Systems Inc,ADBE,KEYBANK,BRENT BRACELIN,                             ,                             ,220,225
+3/16/2018,Adobe Systems Inc,ADBE,KEYBANK,BRENT BRACELIN,,                             ,,252
+12/14/2018,Adobe Systems Inc,ADBE,KEYBANK,BRENT BRACELIN,                             ,OVERWEIGHT                   ,286,282
+11/13/2019,Adobe Systems Inc,ADBE,PIPER SANDLER,BRENT BRACELIN,NOT FOUND,NOT FOUND,,                  
+12/13/2019,Adobe Systems Inc,ADBE,PIPER SANDLER,BRENT BRACELIN,                             ,                             ,339,360
+9/16/2020,Adobe Systems Inc,ADBE,PIPER SANDLER,BRENT BRACELIN,                             ,OVERWEIGHT                   ,430,570
+6/18/2021,Adobe Systems Inc,ADBE,PIPER SANDLER,BRENT BRACELIN,                             ,OVERWEIGHT                   ,570,600
+12/17/2021,Adobe Systems Inc,ADBE,PIPER SANDLER,BRENT BRACELIN,                             ,OVERWEIGHT                   ,670,630
+1/10/2022,Adobe Systems Inc,ADBE,PIPER SANDLER,BRENT BRACELIN,,OVERWEIGHT                   ,,600
+3/23/2022,Adobe Systems Inc,ADBE,PIPER SANDLER,BRENT BRACELIN,                             ,OVERWEIGHT                   ,600,545
+6/17/2022,Adobe Systems Inc,ADBE,PIPER SANDLER,BRENT BRACELIN,                             ,OVERWEIGHT                   ,545,430
+9/16/2022,Adobe Systems Inc,ADBE,PIPER SANDLER,BRENT BRACELIN,OVERWEIGHT,OVERWEIGHT,430,358
+10/17/2022,Adobe Systems Inc,ADBE,PIPER SANDLER,BRENT BRACELIN,,OVERWEIGHT                   ,,345
+9/20/2017,Adobe Systems Inc,ADBE,KEYBANK,BRENT BRACELIN,,                             ,,174
+9/14/2018,Adobe Systems Inc,ADBE,KEYBANK,BRENT BRACELIN,OVERWEIGHT,OVERWEIGHT,276,286
+3/15/2019,Adobe Systems Inc,ADBE,,BRENT BRACELIN,Overweight,Sector Weight,,
+3/31/2020,Adobe Systems Inc,ADBE,PIPER SANDLER,BRENT BRACELIN,Overweight                   ,Overweight                   ,350,350
+12/15/2017,Adobe Systems Inc,ADBE,KEYBANK,BRENT BRACELIN,                             ,OVERWEIGHT                   ,216,220
+9/15/2023,Adobe Systems Inc,ADBE,PIPER SANDLER,BRENT BRACELIN,                             ,OVERWEIGHT                   ,572,650
+12/14/2023,Adobe Systems Inc,ADBE,PIPER SANDLER,BRENT BRACELIN,,OVERWEIGHT                   ,,650
+1/2/2024,Adobe Systems Inc,ADBE,PIPER SANDLER,BRENT BRACELIN,,OVERWEIGHT                   ,,705
+6/21/2017,Adobe Systems Inc,ADBE,KEYBANK,BRENT BRACELIN,                             ,OVERWEIGHT                   ,142,174
+11/22/2017,Adobe Systems Inc,ADBE,KEYBANK,BRENT BRACELIN,                             ,OVERWEIGHT                   ,178,216
+9/22/2021,Adobe Systems Inc,ADBE,PIPER SANDLER,BRENT BRACELIN,OVERWEIGHT,OVERWEIGHT,600,670
+4/23/2025,Adobe Systems Inc,ADBE,PIPER SANDLER,BRENT BRACELIN,                             ,OVERWEIGHT                   ,600,500
+12/12/2024,Adobe Systems Inc,ADBE,PIPER SANDLER,BRENT BRACELIN,OVERWEIGHT,OVERWEIGHT,635,600
+7/12/2024,Adobe Systems Inc,ADBE,PIPER SANDLER,BRENT BRACELIN,                             ,OVERWEIGHT                   ,700,635
+12/16/2022,Adobe Systems Inc,ADBE,PIPER SANDLER,BRENT BRACELIN,Overweight                   ,Overweight                   ,380,380
+1/9/2023,Adobe Systems Inc,ADBE,PIPER SANDLER,BRENT BRACELIN,Overweight                   ,Overweight                   ,415,415
+3/16/2023,Adobe Systems Inc,ADBE,PIPER SANDLER,BRENT BRACELIN,Overweight                   ,Overweight                   ,415,415
+3/22/2023,Adobe Systems Inc,ADBE,PIPER SANDLER,BRENT BRACELIN,Overweight                   ,Overweight                   ,415,415
+6/8/2023,Adobe Systems Inc,ADBE,PIPER SANDLER,BRENT BRACELIN,Overweight                   ,Overweight                   ,500,500
+6/16/2023,Adobe Systems Inc,ADBE,PIPER SANDLER,BRENT BRACELIN,Overweight,Overweight,572,572
+10/11/2023,Adobe Systems Inc,ADBE,,BRENT BRACELIN,Overweight,Overweight,650,650
+11/9/2023,Adobe Systems Inc,ADBE,,BRENT BRACELIN,Overweight,Overweight,650,650
+3/27/2024,Adobe Systems Inc,ADBE,PIPER SANDLER,BRENT BRACELIN,Overweight,Overweight,700,700
+6/14/2024,Adobe Systems Inc,ADBE,PIPER SANDLER,BRENT BRACELIN,Overweight,Overweight,700,700
+9/13/2024,Adobe Systems Inc,ADBE,PIPER SANDLER,BRENT BRACELIN,Overweight,Overweight,635,635
+12/5/2024,Adobe Systems Inc,ADBE,PIPER SANDLER,BRENT BRACELIN,Overweight,Overweight,635,635
+12/16/2016,Adobe Systems Inc,ADBE,UBS,BRENT THILL,                             ,                             ,130,134
+12/15/2017,Adobe Systems Inc,ADBE,JEFFERIES,BRENT THILL,,                             ,,205
+3/16/2018,Adobe Systems Inc,ADBE,JEFFERIES,BRENT THILL,,                             ,,263
+9/10/2018,Adobe Systems Inc,ADBE,JEFFERIES,BRENT THILL,BUY,BUY,,300
+10/25/2019,Adobe Systems Inc,ADBE,JEFFERIES,BRENT THILL,BUY,TOP PICK,,340
+11/5/2019,Adobe Systems Inc,ADBE,JEFFERIES,BRENT THILL,                             ,                             ,340,350
+12/13/2019,Adobe Systems Inc,ADBE,JEFFERIES,BRENT THILL,                             ,BUY                          ,350,370
+1/9/2020,Adobe Systems Inc,ADBE,JEFFERIES,BRENT THILL,                             ,BUY                          ,370,390
+3/13/2020,Adobe Systems Inc,ADBE,JEFFERIES,BRENT THILL,                             ,BUY                          ,385,370
+6/4/2020,Adobe Systems Inc,ADBE,JEFFERIES,BRENT THILL,                             ,BUY                          ,370,450
+6/12/2020,Adobe Systems Inc,ADBE,JEFFERIES,BRENT THILL,                             ,BUY                          ,450,470
+9/16/2020,Adobe Systems Inc,ADBE,JEFFERIES,BRENT THILL,                             ,BUY                          ,570,600
+5/18/2021,Adobe Systems Inc,ADBE,JEFFERIES,BRENT THILL,                             ,BUY                          ,610,560
+6/14/2021,Adobe Systems Inc,ADBE,JEFFERIES,BRENT THILL,,BUY                          ,,630
+6/18/2021,Adobe Systems Inc,ADBE,JEFFERIES,BRENT THILL,                             ,BUY                          ,630,660
+8/20/2021,Adobe Systems Inc,ADBE,JEFFERIES,BRENT THILL,,BUY                          ,,750
+12/10/2021,Adobe Systems Inc,ADBE,JEFFERIES,BRENT THILL,POSITIVE,BUY,,760
+12/17/2021,Adobe Systems Inc,ADBE,JEFFERIES,BRENT THILL,                             ,BUY                          ,760,680
+3/23/2022,Adobe Systems Inc,ADBE,JEFFERIES,BRENT THILL,BUY,POSITIVE,550,570
+5/23/2022,Adobe Systems Inc,ADBE,JEFFERIES,BRENT THILL,,BUY                          ,,550
+9/2/2022,Adobe Systems Inc,ADBE,JEFFERIES,BRENT THILL,                             ,BUY                          ,500,475
+9/15/2022,Adobe Systems Inc,ADBE,JEFFERIES,BRENT THILL,                             ,BUY                          ,475,440
+10/19/2022,Adobe Systems Inc,ADBE,JEFFERIES,BRENT THILL,                             ,BUY                          ,440,420
+6/20/2016,Adobe Systems Inc,ADBE,UBS,BRENT THILL,,BUY                          ,,114
+3/18/2016,Adobe Systems Inc,ADBE,UBS,BRENT THILL,Buy                          ,Buy                          ,116,116
+9/14/2018,Adobe Systems Inc,ADBE,JEFFERIES,BRENT THILL,                             ,                             ,300,315
+3/17/2021,Adobe Systems Inc,ADBE,JEFFERIES,BRENT THILL,,BUY                          ,,600
+12/14/2018,Adobe Systems Inc,ADBE,JEFFERIES,BRENT THILL,,BUY                          ,,315
+9/22/2021,Adobe Systems Inc,ADBE,JEFFERIES,BRENT THILL,BUY,BUY,750,760
+9/21/2016,Adobe Systems Inc,ADBE,UBS,BRENT THILL,BUY,BUY,122,130
+9/11/2023,Adobe Systems Inc,ADBE,JEFFERIES,BRENT THILL,,BUY                          ,,660
+12/14/2023,Adobe Systems Inc,ADBE,JEFFERIES,BRENT THILL,                             ,BUY                          ,660,700
+8/24/2017,Adobe Systems Inc,ADBE,JEFFERIES,BRENT THILL,,BUY                          ,,175
+12/11/2015,Adobe Systems Inc,ADBE,UBS,BRENT THILL,                             ,BUY                          ,90,105
+9/20/2017,Adobe Systems Inc,ADBE,JEFFERIES,BRENT THILL,                             ,BUY                          ,175,180
+10/19/2017,Adobe Systems Inc,ADBE,JEFFERIES,BRENT THILL,                             ,BUY                          ,180,190
+9/9/2020,Adobe Systems Inc,ADBE,JEFFERIES,BRENT THILL,                             ,                             ,470,570
+3/17/2022,Adobe Systems Inc,ADBE,JEFFERIES,BRENT THILL,                             ,                             ,680,550
+6/17/2022,Adobe Systems Inc,ADBE,JEFFERIES,BRENT THILL,                             ,BUY                          ,550,500
+12/12/2024,Adobe Systems Inc,ADBE,JEFFERIES,BRENT THILL,BUY,BUY,700,650
+6/12/2023,Adobe Systems Inc,ADBE,,BRENT THILL,Buy,Buy,530,530
+6/11/2020,Adobe Systems Inc,ADBE,OPPENHEIMER,BRIAN SCHWARTZ,                             ,OUTPERFORM                   ,410,430
+9/16/2020,Adobe Systems Inc,ADBE,OPPENHEIMER,BRIAN SCHWARTZ,                             ,OUTPERFORM                   ,430,550
+12/10/2020,Adobe Systems Inc,ADBE,OPPENHEIMER,BRIAN SCHWARTZ,,OUTPERFORM                   ,,550
+6/18/2021,Adobe Systems Inc,ADBE,OPPENHEIMER,BRIAN SCHWARTZ,                             ,OUTPERFORM                   ,550,600
+9/22/2021,Adobe Systems Inc,ADBE,OPPENHEIMER,BRIAN SCHWARTZ,                             ,OUTPERFORM                   ,600,680
+12/17/2021,Adobe Systems Inc,ADBE,OPPENHEIMER,BRIAN SCHWARTZ,NOT FOUND,NOT FOUND,,                  
+6/17/2022,Adobe Systems Inc,ADBE,OPPENHEIMER,BRIAN SCHWARTZ,                             ,OUTPERFORM                   ,560,400
+9/15/2022,Adobe Systems Inc,ADBE,OPPENHEIMER,BRIAN SCHWARTZ,,OUTPERFORM                   ,,                  
+12/16/2022,Adobe Systems Inc,ADBE,OPPENHEIMER,BRIAN SCHWARTZ,NOT FOUND,NOT FOUND,,                  
+4/14/2022,Adobe Systems Inc,ADBE,OPPENHEIMER,BRIAN SCHWARTZ,Outperform                   ,Outperform                   ,680,680
+3/17/2020,Adobe Systems Inc,ADBE,OPPENHEIMER,BRIAN SCHWARTZ,Outperform                   ,Outperform                   ,410,410
+1/17/2020,Adobe Systems Inc,ADBE,OPPENHEIMER,BRIAN SCHWARTZ,OUTPERFORM,OUTPERFORM,,410
+3/23/2022,Adobe Systems Inc,ADBE,OPPENHEIMER,BRIAN SCHWARTZ,                             ,                             ,660,560
+4/21/2022,Adobe Systems Inc,ADBE,OPPENHEIMER,BRIAN SCHWARTZ,,OUTPERFORM                   ,,560
+6/13/2025,Adobe Systems Inc,ADBE,OPPENHEIMER,BRIAN SCHWARTZ,OUTPERFORM,OUTPERFORM,530,500
+3/13/2025,Adobe Systems Inc,ADBE,OPPENHEIMER,BRIAN SCHWARTZ,OUTPERFORM,OUTPERFORM,560,530
+1/16/2025,Adobe Systems Inc,ADBE,OPPENHEIMER,BRIAN SCHWARTZ,                             ,OUTPERFORM                   ,600,560
+6/6/2024,Adobe Systems Inc,ADBE,OPPENHEIMER,BRIAN SCHWARTZ,OUTPERFORM,OUTPERFORM,660,580
+12/12/2024,Adobe Systems Inc,ADBE,OPPENHEIMER,BRIAN SCHWARTZ,OUTPERFORM,OUTPERFORM,625,600
+10/26/2023,Adobe Systems Inc,ADBE,OPPENHEIMER,BRIAN SCHWARTZ,Perform,Outperform,660,660
+3/27/2024,Adobe Systems Inc,ADBE,OPPENHEIMER,BRIAN SCHWARTZ,Outperform,Outperform,660,660
+6/14/2024,Adobe Systems Inc,ADBE,OPPENHEIMER,BRIAN SCHWARTZ,Outperform,Outperform,580,580
+9/4/2024,Adobe Systems Inc,ADBE,OPPENHEIMER,BRIAN SCHWARTZ,Outperform,Outperform,625,625
+9/13/2024,Adobe Systems Inc,ADBE,OPPENHEIMER,BRIAN SCHWARTZ,Outperform,Outperform,625,625
+1/12/2017,Adobe Systems Inc,ADBE,PIVOTAL RESEARCH,BRIAN WIESER,                             ,                             ,136,104
+9/14/2018,Adobe Systems Inc,ADBE,PIVOTAL RESEARCH,BRIAN WIESER,                             ,HOLD                         ,235,254
+6/12/2017,Adobe Systems Inc,ADBE,PIVOTAL RESEARCH,BRIAN WIESER,HOLD,SELL,,109
+1/4/2019,Adobe Systems Inc,ADBE,PIVOTAL RESEARCH,BRIAN WIESER,HOLD,BUY,252,262
+2/25/2015,Adobe Systems Inc,ADBE,PIVOTAL RESEARCH,BRIAN WIESER,,BUY                          ,,98
+10/19/2017,Adobe Systems Inc,ADBE,PIVOTAL RESEARCH,BRIAN WIESER,SELL,HOLD,118,160
+11/5/2019,Adobe Systems Inc,ADBE,NOMURA,CHRISTOPHER EBERLE,,BUY                          ,,310
+3/27/2019,Adobe Systems Inc,ADBE,NOMURA,CHRISTOPHER EBERLE,,BUY                          ,,315
+11/15/2018,Adobe Systems Inc,ADBE,NOMURA,CHRISTOPHER EBERLE,,BUY                          ,,315
+9/18/2019,Adobe Systems Inc,ADBE,NOMURA,CHRISTOPHER EBERLE,                             ,                             ,315,310
+10/19/2018,Adobe Systems Inc,ADBE,WEDBUSH,DANIEL IVES,,NEUTRAL                      ,,270
+6/19/2019,Adobe Systems Inc,ADBE,WEDBUSH,DANIEL IVES,                             ,                             ,270,290
+12/13/2019,Adobe Systems Inc,ADBE,WEDBUSH,DANIEL IVES,NEUTRAL,IN LINE,290,315
+6/12/2020,Adobe Systems Inc,ADBE,WEDBUSH,DANIEL IVES,                             ,OUTPERFORM                   ,315,410
+2/3/2021,Adobe Systems Inc,ADBE,WEDBUSH,DANIEL IVES,                             ,NEUTRAL                      ,410,510
+3/10/2017,Adobe Systems Inc,ADBE,TD COWEN,DERRICK WOOD,                             ,OUTPERFORM                   ,120,140
+9/11/2020,Adobe Systems Inc,ADBE,TD COWEN,DERRICK WOOD,MARKET PERFORM,OUTPERFORM,400,555
+10/17/2018,Adobe Systems Inc,ADBE,TD COWEN,DERRICK WOOD,                             ,                             ,295,300
+6/21/2017,Adobe Systems Inc,ADBE,TD COWEN,DERRICK WOOD,                             ,OUTPERFORM                   ,145,160
+9/12/2018,Adobe Systems Inc,ADBE,TD COWEN,DERRICK WOOD,                             ,OUTPERFORM                   ,275,285
+2/15/2019,Adobe Systems Inc,ADBE,TD COWEN,DERRICK WOOD,OUTPERFORM,MARKET PERFORM,300,280
+3/12/2019,Adobe Systems Inc,ADBE,TD COWEN,DERRICK WOOD,,MARKET PERFORM               ,,280
+9/16/2016,Adobe Systems Inc,ADBE,TD COWEN,DERRICK WOOD,,OUTPERFORM                   ,,115
+11/3/2016,Adobe Systems Inc,ADBE,TD COWEN,DERRICK WOOD,,OUTPERFORM                   ,,120
+6/23/2016,Adobe Systems Inc,ADBE,TD COWEN,DERRICK WOOD,,OUTPERFORM                   ,,115
+6/18/2021,Adobe Systems Inc,ADBE,TD COWEN,DERRICK WOOD,                             ,OUTPERFORM                   ,600,650
+9/20/2017,Adobe Systems Inc,ADBE,TD COWEN,DERRICK WOOD,                             ,OUTPERFORM                   ,160,165
+12/11/2020,Adobe Systems Inc,ADBE,TD COWEN,DERRICK WOOD,OUTPERFORM,OUTPERFORM,585,600
+6/9/2022,Adobe Systems Inc,ADBE,,DERRICK WOOD,Outperform                   ,Outperform                   ,550,550
+6/17/2022,Adobe Systems Inc,ADBE,,DERRICK WOOD,Outperform                   ,Outperform                   ,520,520
+9/16/2022,Adobe Systems Inc,ADBE,,DERRICK WOOD,Outperform                   ,Outperform                   ,400,400
+9/8/2023,Adobe Systems Inc,ADBE,,DERRICK WOOD,Outperform,Outperform,600,600
+9/15/2023,Adobe Systems Inc,ADBE,,DERRICK WOOD,Outperform,Outperform,630,630
+6/10/2024,Adobe Systems Inc,ADBE,,DERRICK WOOD,Buy,Buy,625,625
+1/9/2019,Adobe Systems Inc,ADBE,ATLANTIC EQUITIES,DMITRY KALLIANIOTIS,,NEUTRAL                      ,,250
+11/22/2021,Adobe Systems Inc,ADBE,ATLANTIC EQUITIES,DMITRY KALLIANIOTIS,NEUTRAL,OVERWEIGHT,,820
+1/17/2023,Adobe Systems Inc,ADBE,D.A. DAVIDSON,GIL LURIA,,NEUTRAL                      ,,350
+3/16/2023,Adobe Systems Inc,ADBE,D.A. DAVIDSON,GIL LURIA,,NEUTRAL                      ,,350
+3/24/2023,Adobe Systems Inc,ADBE,D.A. DAVIDSON,GIL LURIA,,NEUTRAL                      ,,350
+12/14/2023,Adobe Systems Inc,ADBE,D.A. DAVIDSON,GIL LURIA,                             ,BUY                          ,640,685
+3/13/2025,Adobe Systems Inc,ADBE,D.A. DAVIDSON,GIL LURIA,BUY,BUY,625,600
+12/12/2024,Adobe Systems Inc,ADBE,D.A. DAVIDSON,GIL LURIA,BUY,BUY,685,625
+6/13/2025,Adobe Systems Inc,ADBE,D.A. DAVIDSON,GIL LURIA,BUY,BUY,450,500
+10/26/2023,Adobe Systems Inc,ADBE,D.A. DAVIDSON,GIL LURIA,Neutral,Buy,640,640
+3/28/2024,Adobe Systems Inc,ADBE,D.A. DAVIDSON,GIL LURIA,Buy,Buy,685,685
+4/14/2025,Adobe Systems Inc,ADBE,D.A. DAVIDSON,GIL LURIA,Buy,Buy,450,450
+6/20/2025,Adobe Systems Inc,ADBE,,GIL LURIA,Buy,Buy,500,500
+6/18/2021,Adobe Systems Inc,ADBE,MIZUHO,GREGG MOSKOWITZ,                             ,BUY                          ,600,640
+9/17/2021,Adobe Systems Inc,ADBE,MIZUHO,GREGG MOSKOWITZ,                             ,BUY                          ,640,695
+3/11/2022,Adobe Systems Inc,ADBE,MIZUHO,GREGG MOSKOWITZ,                             ,BUY                          ,685,600
+6/17/2022,Adobe Systems Inc,ADBE,MIZUHO,GREGG MOSKOWITZ,                             ,BUY                          ,530,480
+9/16/2022,Adobe Systems Inc,ADBE,MIZUHO,GREGG MOSKOWITZ,                             ,NEUTRAL                      ,440,360
+12/16/2022,Adobe Systems Inc,ADBE,MIZUHO,GREGG MOSKOWITZ,                             ,NEUTRAL                      ,360,370
+3/16/2023,Adobe Systems Inc,ADBE,MIZUHO,GREGG MOSKOWITZ,                             ,NEUTRAL                      ,370,375
+4/5/2022,Adobe Systems Inc,ADBE,MIZUHO,GREGG MOSKOWITZ,Buy                          ,Buy                          ,695,695
+9/12/2022,Adobe Systems Inc,ADBE,MIZUHO,GREGG MOSKOWITZ,NEUTRAL,BUY,,440
+6/16/2023,Adobe Systems Inc,ADBE,MIZUHO,GREGG MOSKOWITZ,                             ,NEUTRAL                      ,450,520
+12/8/2023,Adobe Systems Inc,ADBE,MIZUHO,GREGG MOSKOWITZ,                             ,BUY                          ,630,680
+9/8/2023,Adobe Systems Inc,ADBE,MIZUHO,GREGG MOSKOWITZ,NEUTRAL,BUY,520,630
+6/9/2021,Adobe Systems Inc,ADBE,MIZUHO,GREGG MOSKOWITZ,,BUY                          ,,600
+12/17/2021,Adobe Systems Inc,ADBE,MIZUHO,GREGG MOSKOWITZ,BUY,BUY,695,685
+6/10/2022,Adobe Systems Inc,ADBE,MIZUHO,GREGG MOSKOWITZ,                             ,                             ,600,530
+6/13/2025,Adobe Systems Inc,ADBE,MIZUHO,GREGG MOSKOWITZ,OUTPERFORM,OUTPERFORM,575,530
+12/12/2024,Adobe Systems Inc,ADBE,MIZUHO,GREGG MOSKOWITZ,OUTPERFORM,OUTPERFORM,640,620
+9/15/2023,Adobe Systems Inc,ADBE,MIZUHO,GREGG MOSKOWITZ,Buy,Buy,630,630
+3/27/2024,Adobe Systems Inc,ADBE,MIZUHO,GREGG MOSKOWITZ,Buy,Buy,680,680
+6/7/2024,Adobe Systems Inc,ADBE,MIZUHO,GREGG MOSKOWITZ,Buy,Buy,640,640
+3/13/2025,Adobe Systems Inc,ADBE,MIZUHO,GREGG MOSKOWITZ,Outperform,Outperform,575,575
+6/24/2020,Adobe Systems Inc,ADBE,GOLDMAN SACHS,HEATHER BELLINI,                             ,NEUTRAL                      ,350,460
+3/18/2016,Adobe Systems Inc,ADBE,GOLDMAN SACHS,HEATHER BELLINI,                             ,NEUTRAL                      ,60,64
+6/9/2016,Adobe Systems Inc,ADBE,GOLDMAN SACHS,HEATHER BELLINI,,NEUTRAL                      ,,100
+6/22/2016,Adobe Systems Inc,ADBE,GOLDMAN SACHS,HEATHER BELLINI,                             ,NEUTRAL                      ,100,105
+9/21/2016,Adobe Systems Inc,ADBE,GOLDMAN SACHS,HEATHER BELLINI,                             ,NEUTRAL                      ,104,112
+9/16/2020,Adobe Systems Inc,ADBE,,HEATHER BELLINI,Neutral                      ,Neutral                      ,460 » 520       ,460 » 520
+6/21/2017,Adobe Systems Inc,ADBE,GOLDMAN SACHS,HEATHER BELLINI,                             ,NEUTRAL                      ,141,147
+12/11/2017,Adobe Systems Inc,ADBE,GOLDMAN SACHS,HEATHER BELLINI,NEUTRAL,NEUTRAL,,175
+1/10/2017,Adobe Systems Inc,ADBE,GOLDMAN SACHS,HEATHER BELLINI,,NEUTRAL                      ,,114
+12/16/2019,Adobe Systems Inc,ADBE,GOLDMAN SACHS,HEATHER BELLINI,,NEUTRAL                      ,,320
+6/15/2020,Adobe Systems Inc,ADBE,GOLDMAN SACHS,HEATHER BELLINI,,NEUTRAL                      ,,350
+3/3/2020,Adobe Systems Inc,ADBE,GOLDMAN SACHS,HEATHER BELLINI,                             ,NEUTRAL                      ,320,355
+3/10/2017,Adobe Systems Inc,ADBE,GOLDMAN SACHS,HEATHER BELLINI,                             ,NEUTRAL                      ,114,121
+2/22/2019,Adobe Systems Inc,ADBE,GOLDMAN SACHS,HEATHER BELLINI,Buy,Hold,,
+12/27/2018,Adobe Systems Inc,ADBE,DZ BANK,INGO WERMANN,BUY,HOLD,,260
+2/21/2019,Adobe Systems Inc,ADBE,DZ BANK,INGO WERMANN,,HOLD                         ,,260
+5/14/2020,Adobe Systems Inc,ADBE,DZ BANK,INGO WERMANN,BUY,HOLD,,370
+9/17/2020,Adobe Systems Inc,ADBE,DZ BANK,INGO WERMANN,HOLD,BUY,,570
+12/18/2023,Adobe Systems Inc,ADBE,DZ BANK,INGO WERMANN,,BUY                          ,,650
+3/25/2021,Adobe Systems Inc,ADBE,DZ BANK,INGO WERMANN,                             ,BUY                          ,562,570
+3/20/2024,Adobe Systems Inc,ADBE,DZ BANK,INGO WERMANN,                             ,BUY                          ,650,640
+6/14/2024,Adobe Systems Inc,ADBE,KEYBANK,JACKSON ADER,                             ,UNDERWEIGHT                  ,445,450
+9/22/2022,Adobe Systems Inc,ADBE,,JACKSON ADER,Hold                         ,Hold                         ,354,354
+3/13/2025,Adobe Systems Inc,ADBE,,JACKSON ADER,Underweight,Underweight,390,390
+9/3/2019,Adobe Systems Inc,ADBE,STEPHENS,JAMES RUTHERFORD,,OVERWEIGHT                   ,,327
+9/18/2019,Adobe Systems Inc,ADBE,STEPHENS,JAMES RUTHERFORD,,OVERWEIGHT                   ,,327
+6/19/2019,Adobe Systems Inc,ADBE,STEPHENS,JAMES RUTHERFORD,EQUAL WEIGHT,OVERWEIGHT,288,327
+3/15/2019,Adobe Systems Inc,ADBE,STEPHENS,JAMES RUTHERFORD,                             ,EQUAL WEIGHT                 ,278,288
+1/16/2019,Adobe Systems Inc,ADBE,STEPHENS,JAMES RUTHERFORD,,EQUAL WEIGHT                 ,,278
+6/22/2021,Adobe Systems Inc,ADBE,GRIFFIN SECURITIES,JAY VLEESCHHOUWER,,BUY                          ,,620
+6/16/2023,Adobe Systems Inc,ADBE,GRIFFIN SECURITIES,JAY VLEESCHHOUWER,                             ,BUY                          ,430,570
+12/14/2023,Adobe Systems Inc,ADBE,GRIFFIN SECURITIES,JAY VLEESCHHOUWER,                             ,BUY                          ,610,650
+3/3/2021,Adobe Systems Inc,ADBE,GRIFFIN SECURITIES,JAY VLEESCHHOUWER,,BUY                          ,,597
+6/6/2022,Adobe Systems Inc,ADBE,GRIFFIN SECURITIES,JAY VLEESCHHOUWER,,BUY                          ,,640
+3/15/2019,Adobe Systems Inc,ADBE,UBS,JENNIFER SWANSON LOWE,,BUY                          ,,310
+7/17/2019,Adobe Systems Inc,ADBE,UBS,JENNIFER SWANSON LOWE,,BUY                          ,,330
+12/13/2019,Adobe Systems Inc,ADBE,UBS,JENNIFER SWANSON LOWE,,BUY                          ,,360
+9/10/2020,Adobe Systems Inc,ADBE,UBS,JENNIFER SWANSON LOWE,                             ,BUY                          ,450,540
+12/12/2014,Adobe Systems Inc,ADBE,MORGAN STANLEY,JENNIFER SWANSON LOWE,,EQUAL WEIGHT                 ,,70
+3/23/2021,Adobe Systems Inc,ADBE,UBS,JENNIFER SWANSON LOWE,,BUY                          ,,577
+2/19/2020,Adobe Systems Inc,ADBE,UBS,JENNIFER SWANSON LOWE,                             ,BUY                          ,360,430
+6/19/2019,Adobe Systems Inc,ADBE,UBS,JENNIFER SWANSON LOWE,                             ,BUY                          ,310,330
+6/8/2020,Adobe Systems Inc,ADBE,UBS,JENNIFER SWANSON LOWE,,BUY                          ,,450
+9/16/2020,Adobe Systems Inc,ADBE,UBS,JENNIFER SWANSON LOWE,                             ,BUY                          ,540,577
+6/18/2021,Adobe Systems Inc,ADBE,UBS,JENNIFER SWANSON LOWE,                             ,BUY                          ,577,625
+9/22/2021,Adobe Systems Inc,ADBE,UBS,JENNIFER SWANSON LOWE,                             ,BUY                          ,625,690
+10/25/2017,Adobe Systems Inc,ADBE,ARGUS,JOSEPH BONNER,,BUY                          ,,195
+1/30/2018,Adobe Systems Inc,ADBE,ARGUS,JOSEPH BONNER,,BUY                          ,,234
+3/18/2019,Adobe Systems Inc,ADBE,ARGUS,JOSEPH BONNER,,BUY                          ,,320
+6/20/2019,Adobe Systems Inc,ADBE,ARGUS,JOSEPH BONNER,,BUY                          ,,                  
+12/16/2019,Adobe Systems Inc,ADBE,ARGUS,JOSEPH BONNER,,                             ,,368
+6/15/2020,Adobe Systems Inc,ADBE,ARGUS,JOSEPH BONNER,,BUY                          ,,474
+9/3/2021,Adobe Systems Inc,ADBE,ARGUS,JOSEPH BONNER,                             ,BUY                          ,650,764
+3/28/2022,Adobe Systems Inc,ADBE,ARGUS,JOSEPH BONNER,,BUY                          ,,575
+9/23/2016,Adobe Systems Inc,ADBE,ARGUS,JOSEPH BONNER,                             ,                             ,110,127
+3/25/2021,Adobe Systems Inc,ADBE,ARGUS,JOSEPH BONNER,,BUY                          ,,520
+9/17/2018,Adobe Systems Inc,ADBE,ARGUS,JOSEPH BONNER,,BUY                          ,,320
+6/21/2023,Adobe Systems Inc,ADBE,ARGUS,JOSEPH BONNER,                             ,BUY                          ,410,565
+9/19/2023,Adobe Systems Inc,ADBE,ARGUS,JOSEPH BONNER,                             ,BUY                          ,565,610
+9/22/2021,Adobe Systems Inc,ADBE,UBS,KARL KEIRSTEAD,                             ,BUY                          ,625,690
+12/17/2021,Adobe Systems Inc,ADBE,UBS,KARL KEIRSTEAD,BUY,IN LINE,690,635
+6/7/2022,Adobe Systems Inc,ADBE,UBS,KARL KEIRSTEAD,                             ,NEUTRAL                      ,460,450
+6/17/2022,Adobe Systems Inc,ADBE,UBS,KARL KEIRSTEAD,                             ,NEUTRAL                      ,450,415
+12/12/2022,Adobe Systems Inc,ADBE,UBS,KARL KEIRSTEAD,,NEUTRAL                      ,,350
+2/15/2023,Adobe Systems Inc,ADBE,UBS,KARL KEIRSTEAD,                             ,NEUTRAL                      ,350,400
+4/14/2022,Adobe Systems Inc,ADBE,UBS,KARL KEIRSTEAD,Buy                          ,Buy                          ,765,765
+1/5/2022,Adobe Systems Inc,ADBE,UBS,KARL KEIRSTEAD,NEUTRAL,BUY,635,575
+2/27/2023,Adobe Systems Inc,ADBE,UBS,KARL KEIRSTEAD,,NEUTRAL                      ,,370
+5/30/2023,Adobe Systems Inc,ADBE,UBS,KARL KEIRSTEAD,,NEUTRAL                      ,,440
+9/6/2023,Adobe Systems Inc,ADBE,UBS,KARL KEIRSTEAD,                             ,NEUTRAL                      ,525,600
+2/23/2022,Adobe Systems Inc,ADBE,UBS,KARL KEIRSTEAD,                             ,NEUTRAL                      ,575,460
+4/11/2025,Adobe Systems Inc,ADBE,UBS,KARL KEIRSTEAD,NEUTRAL,NEUTRAL,410,380
+3/19/2025,Adobe Systems Inc,ADBE,UBS,KARL KEIRSTEAD,                             ,NEUTRAL                      ,460,410
+3/13/2025,Adobe Systems Inc,ADBE,UBS,KARL KEIRSTEAD,                             ,NEUTRAL                      ,475,460
+12/12/2024,Adobe Systems Inc,ADBE,UBS,KARL KEIRSTEAD,                             ,NEUTRAL                      ,550,525
+9/13/2024,Adobe Systems Inc,ADBE,UBS,KARL KEIRSTEAD,                             ,NEUTRAL                      ,560,550
+6/9/2025,Adobe Systems Inc,ADBE,UBS,KARL KEIRSTEAD,,NEUTRAL                      ,,430
+6/14/2024,Adobe Systems Inc,ADBE,UBS,KARL KEIRSTEAD,                             ,NEUTRAL                      ,540,560
+1/3/2025,Adobe Systems Inc,ADBE,UBS,KARL KEIRSTEAD,Neutral,Neutral,475,475
+8/29/2025,Adobe Systems Inc,ADBE,,KARL KEIRSTEAD,Neutral,Neutral,400,400
+6/18/2021,Adobe Systems Inc,ADBE,GOLDMAN SACHS,KASH RANGAN,                             ,BUY                          ,580,665
+4/14/2022,Adobe Systems Inc,ADBE,,KASH RANGAN,Buy                          ,Buy                          ,765,765
+3/13/2018,Adobe Systems Inc,ADBE,BAML,KASH RANGAN,Buy                          ,Buy                          ,269,269
+9/14/2018,Adobe Systems Inc,ADBE,BAML,KASH RANGAN,Buy                          ,Buy                          ,308,308
+9/16/2020,Adobe Systems Inc,ADBE,,KASH RANGAN,Buy                          ,Buy                          ,440 » 570       ,440 » 570
+10/19/2017,Adobe Systems Inc,ADBE,BAML,KASH RANGAN,                             ,BUY                          ,184,213
+9/22/2021,Adobe Systems Inc,ADBE,GOLDMAN SACHS,KASH RANGAN,                             ,                             ,735,765
+6/19/2019,Adobe Systems Inc,ADBE,BAML,KASH RANGAN,                             ,                             ,312,323
+3/13/2019,Adobe Systems Inc,ADBE,BAML,KASH RANGAN,                             ,BUY                          ,309,312
+1/10/2020,Adobe Systems Inc,ADBE,BAML,KASH RANGAN,                             ,BUY                          ,350,400
+6/12/2020,Adobe Systems Inc,ADBE,BAML,KASH RANGAN,                             ,BUY                          ,330,440
+6/20/2023,Adobe Systems Inc,ADBE,GOLDMAN SACHS,KASH RANGAN,,BUY                          ,,550
+9/15/2023,Adobe Systems Inc,ADBE,GOLDMAN SACHS,KASH RANGAN,                             ,BUY                          ,550,625
+1/23/2018,Adobe Systems Inc,ADBE,BAML,KASH RANGAN,                             ,BUY                          ,220,253
+1/22/2021,Adobe Systems Inc,ADBE,GOLDMAN SACHS,KASH RANGAN,BUY,BUY,,580
+9/7/2021,Adobe Systems Inc,ADBE,GOLDMAN SACHS,KASH RANGAN,,BUY                          ,,735
+10/19/2021,Adobe Systems Inc,ADBE,GOLDMAN SACHS,KASH RANGAN,,BUY                          ,,765
+3/24/2022,Adobe Systems Inc,ADBE,,KASH RANGAN,Buy                          ,Buy                          ,605,605
+1/5/2017,Adobe Systems Inc,ADBE,BMO,KEITH BACHMAN,,OUTPERFORM                   ,,125
+10/19/2017,Adobe Systems Inc,ADBE,BMO,KEITH BACHMAN,,                             ,,187
+12/15/2017,Adobe Systems Inc,ADBE,BMO,KEITH BACHMAN,,                             ,,205
+5/22/2018,Adobe Systems Inc,ADBE,BMO,KEITH BACHMAN,,OUTPERFORM                   ,,260
+6/15/2018,Adobe Systems Inc,ADBE,BMO,KEITH BACHMAN,,OUTPERFORM                   ,,278
+9/14/2018,Adobe Systems Inc,ADBE,BMO,KEITH BACHMAN,,OUTPERFORM                   ,,295
+10/11/2018,Adobe Systems Inc,ADBE,BMO,KEITH BACHMAN,,OUTPERFORM                   ,,295
+12/11/2019,Adobe Systems Inc,ADBE,BMO,KEITH BACHMAN,,OUTPERFORM                   ,,350
+3/13/2020,Adobe Systems Inc,ADBE,BMO,KEITH BACHMAN,                             ,OUTPERFORM                   ,358,350
+6/12/2020,Adobe Systems Inc,ADBE,BMO,KEITH BACHMAN,                             ,OUTPERFORM                   ,375,440
+9/14/2020,Adobe Systems Inc,ADBE,BMO,KEITH BACHMAN,,OUTPERFORM                   ,,535
+12/11/2020,Adobe Systems Inc,ADBE,BMO,KEITH BACHMAN,                             ,OUTPERFORM                   ,560,570
+3/24/2021,Adobe Systems Inc,ADBE,BMO,KEITH BACHMAN,                             ,OUTPERFORM                   ,570,535
+6/18/2021,Adobe Systems Inc,ADBE,BMO,KEITH BACHMAN,                             ,OUTPERFORM                   ,585,630
+9/16/2021,Adobe Systems Inc,ADBE,BMO,KEITH BACHMAN,                             ,OUTPERFORM                   ,630,730
+9/22/2021,Adobe Systems Inc,ADBE,BMO,KEITH BACHMAN,                             ,OUTPERFORM                   ,730,720
+12/17/2021,Adobe Systems Inc,ADBE,BMO,KEITH BACHMAN,OUTPERFORM,IN LINE,720,650
+3/21/2022,Adobe Systems Inc,ADBE,BMO,KEITH BACHMAN,,                             ,,535
+6/14/2022,Adobe Systems Inc,ADBE,BMO,KEITH BACHMAN,                             ,OUTPERFORM                   ,535,450
+9/13/2022,Adobe Systems Inc,ADBE,BMO,KEITH BACHMAN,MARKET PERFORM,OUTPERFORM,435,420
+10/17/2022,Adobe Systems Inc,ADBE,BMO,KEITH BACHMAN,,MARKET PERFORM               ,,332
+3/10/2023,Adobe Systems Inc,ADBE,BMO,KEITH BACHMAN,MARKET PERFORM,MARKET PERFO,390,395
+6/14/2024,Adobe Systems Inc,ADBE,BMO,KEITH BACHMAN,                             ,OUTPERFORM                   ,525,580
+11/10/2023,Adobe Systems Inc,ADBE,BMO,KEITH BACHMAN,                             ,OUTPERFORM                   ,645,670
+4/30/2020,Adobe Systems Inc,ADBE,BMO,KEITH BACHMAN,Outperform                   ,Outperform                   ,375,375
+4/5/2022,Adobe Systems Inc,ADBE,BMO,KEITH BACHMAN,Outperform                   ,Outperform                   ,730,730
+12/14/2018,Adobe Systems Inc,ADBE,BMO,KEITH BACHMAN,Outperform                   ,Outperform                   ,300,300
+6/21/2017,Adobe Systems Inc,ADBE,BMO,KEITH BACHMAN,Outperform                   ,Outperform                   ,165,165
+3/16/2018,Adobe Systems Inc,ADBE,BMO,KEITH BACHMAN,Outperform                   ,Outperform                   ,260,260
+3/17/2017,Adobe Systems Inc,ADBE,BMO,KEITH BACHMAN,Outperform                   ,Outperform                   ,140,140
+6/21/2023,Adobe Systems Inc,ADBE,BMO,KEITH BACHMAN,                             ,                             ,500,570
+6/19/2019,Adobe Systems Inc,ADBE,BMO,KEITH BACHMAN,                             ,OUTPERFORM                   ,300,315
+9/18/2019,Adobe Systems Inc,ADBE,BMO,KEITH BACHMAN,                             ,OUTPERFORM                   ,315,310
+9/12/2023,Adobe Systems Inc,ADBE,BMO,KEITH BACHMAN,                             ,POSITIVE                     ,600,640
+6/9/2017,Adobe Systems Inc,ADBE,BMO,KEITH BACHMAN,                             ,OUTPERFORM                   ,140,160
+10/21/2019,Adobe Systems Inc,ADBE,BMO,KEITH BACHMAN,,OUTPERFORM                   ,,300
+12/8/2023,Adobe Systems Inc,ADBE,BMO,KEITH BACHMAN,Outperform,Outperform,690,690
+3/11/2024,Adobe Systems Inc,ADBE,BMO,KEITH BACHMAN,Outperform,Outperform,660,660
+3/27/2024,Adobe Systems Inc,ADBE,BMO,KEITH BACHMAN,Outperform,Outperform,610,610
+6/6/2024,Adobe Systems Inc,ADBE,BMO,KEITH BACHMAN,Outperform,Outperform,525,525
+12/6/2024,Adobe Systems Inc,ADBE,,KEITH BACHMAN,Outperform,Outperform,600,600
+12/12/2024,Adobe Systems Inc,ADBE,,KEITH BACHMAN,Outperform,Outperform,570,570
+2/19/2025,Adobe Systems Inc,ADBE,,KEITH BACHMAN,Outperform,Outperform,515,515
+3/13/2025,Adobe Systems Inc,ADBE,,KEITH BACHMAN,Outperform,Outperform,495,495
+6/13/2025,Adobe Systems Inc,ADBE,,KEITH BACHMAN,Outperform,Outperform,450,450
+12/16/2022,Adobe Systems Inc,ADBE,BMO,KEITH BACHMAN,Market Perform               ,Market Perform               ,390,390
+3/16/2023,Adobe Systems Inc,ADBE,,KEITH BACHMAN,Market Perform               ,Market Perform               ,400,400
+6/9/2023,Adobe Systems Inc,ADBE,,KEITH BACHMAN,Market Perform,Market Perform,500,500
+12/13/2017,Adobe Systems Inc,ADBE,MORGAN STANLEY,KEITH WEISS,,                             ,,                  
+10/30/2019,Adobe Systems Inc,ADBE,MORGAN STANLEY,KEITH WEISS,,OVERWEIGHT                   ,,340
+12/9/2019,Adobe Systems Inc,ADBE,MORGAN STANLEY,KEITH WEISS,,                             ,,410
+2/27/2020,Adobe Systems Inc,ADBE,MORGAN STANLEY,KEITH WEISS,                             ,OVERWEIGHT                   ,410,450
+5/13/2020,Adobe Systems Inc,ADBE,MORGAN STANLEY,KEITH WEISS,,OVERWEIGHT                   ,,375
+6/12/2020,Adobe Systems Inc,ADBE,MORGAN STANLEY,KEITH WEISS,                             ,                             ,375,450
+3/24/2021,Adobe Systems Inc,ADBE,MORGAN STANLEY,KEITH WEISS,                             ,OVERWEIGHT                   ,560,575
+6/18/2021,Adobe Systems Inc,ADBE,MORGAN STANLEY,KEITH WEISS,                             ,OVERWEIGHT                   ,575,610
+9/15/2021,Adobe Systems Inc,ADBE,MORGAN STANLEY,KEITH WEISS,                             ,OVERWEIGHT                   ,610,736
+12/17/2021,Adobe Systems Inc,ADBE,MORGAN STANLEY,KEITH WEISS,                             ,OVERWEIGHT                   ,736,652
+3/18/2022,Adobe Systems Inc,ADBE,MORGAN STANLEY,KEITH WEISS,,OVERWEIGHT                   ,,652
+3/23/2022,Adobe Systems Inc,ADBE,MORGAN STANLEY,KEITH WEISS,                             ,OVERWEIGHT                   ,591,652
+9/16/2022,Adobe Systems Inc,ADBE,MORGAN STANLEY,KEITH WEISS,                             ,EQUAL WEIGHT                 ,362,337
+12/16/2022,Adobe Systems Inc,ADBE,MORGAN STANLEY,KEITH WEISS,                             ,EQUAL WEIGHT                 ,337,382
+9/14/2015,Adobe Systems Inc,ADBE,MORGAN STANLEY,KEITH WEISS,,EQUAL WEIGHT                 ,,80
+10/7/2015,Adobe Systems Inc,ADBE,MORGAN STANLEY,KEITH WEISS,,EQUAL WEIGHT                 ,,84
+9/21/2016,Adobe Systems Inc,ADBE,MORGAN STANLEY,KEITH WEISS,                             ,EQUAL WEIGHT                 ,100,110
+10/19/2017,Adobe Systems Inc,ADBE,MORGAN STANLEY,KEITH WEISS,EQUAL WEIGHT,SHORT,,155
+3/14/2018,Adobe Systems Inc,ADBE,MORGAN STANLEY,KEITH WEISS,EQUAL WEIGHT,EQUAL WEIGHT,,193
+4/29/2019,Adobe Systems Inc,ADBE,MORGAN STANLEY,KEITH WEISS,EQUAL WEIGHT,OVERWEIGHT,,340
+6/14/2019,Adobe Systems Inc,ADBE,MORGAN STANLEY,KEITH WEISS,OVERWEIGHT,OVERWEIGHT,,340
+4/5/2022,Adobe Systems Inc,ADBE,,KEITH WEISS,Overweight                   ,Overweight                   ,736,736
+12/14/2018,Adobe Systems Inc,ADBE,MORGAN STANLEY,KEITH WEISS,Equal Weight                 ,Equal Weight                 ,,
+6/15/2018,Adobe Systems Inc,ADBE,MORGAN STANLEY,KEITH WEISS,Equal Weight                 ,Equal Weight                 ,,
+3/25/2020,Adobe Systems Inc,ADBE,MORGAN STANLEY,KEITH WEISS,Overweight                   ,Overweight                   ,375,375
+6/16/2017,Adobe Systems Inc,ADBE,MORGAN STANLEY,KEITH WEISS,,                             ,,137
+3/16/2020,Adobe Systems Inc,ADBE,MORGAN STANLEY,KEITH WEISS,,OVERWEIGHT                   ,,366
+9/14/2018,Adobe Systems Inc,ADBE,MORGAN STANLEY,KEITH WEISS,                             ,                             ,250,255
+3/16/2023,Adobe Systems Inc,ADBE,MORGAN STANLEY,KEITH WEISS,                             ,                             ,382,385
+9/14/2020,Adobe Systems Inc,ADBE,MORGAN STANLEY,KEITH WEISS,,                             ,,560
+7/31/2023,Adobe Systems Inc,ADBE,MORGAN STANLEY,KEITH WEISS,,OVERWEIGHT                   ,,660
+3/17/2021,Adobe Systems Inc,ADBE,MORGAN STANLEY,KEITH WEISS,,OVERWEIGHT                   ,,560
+6/14/2021,Adobe Systems Inc,ADBE,MORGAN STANLEY,KEITH WEISS,OVERWEIGHT,POSITIVE,,575
+6/13/2022,Adobe Systems Inc,ADBE,MORGAN STANLEY,KEITH WEISS,,OVERWEIGHT                   ,,591
+6/21/2022,Adobe Systems Inc,ADBE,MORGAN STANLEY,KEITH WEISS,,OVERWEIGHT                   ,,362
+3/13/2025,Adobe Systems Inc,ADBE,MORGAN STANLEY,KEITH WEISS,                             ,OVERWEIGHT                   ,660,600
+6/16/2023,Adobe Systems Inc,ADBE,MORGAN STANLEY,KEITH WEISS,Equal Weight,Equal Weight,510,510
+9/13/2024,Adobe Systems Inc,ADBE,MORGAN STANLEY,KEITH WEISS,Overweight,Overweight,660,660
+6/13/2016,Adobe Systems Inc,ADBE,ROSENBLATT,KIRK ADAMS,POSITIVE,POSITIVE,,                  
+8/19/2015,Adobe Systems Inc,ADBE,ROSENBLATT,KIRK ADAMS,BUY,BUY,90,112
+5/19/2015,Adobe Systems Inc,ADBE,ROSENBLATT,KIRK ADAMS,,BUY                          ,,90
+6/17/2015,Adobe Systems Inc,ADBE,ROSENBLATT,KIRK ADAMS,,BUY                          ,,90
+3/28/2016,Adobe Systems Inc,ADBE,ROSENBLATT,KIRK ADAMS,,BUY                          ,,112
+12/11/2015,Adobe Systems Inc,ADBE,ROSENBLATT,KIRK ADAMS,,BUY                          ,,112
+6/18/2021,Adobe Systems Inc,ADBE,EVERCORE,KIRK MATERNE,OUTPERFORM,OUTPERFORM,550,625
+12/17/2021,Adobe Systems Inc,ADBE,EVERCORE,KIRK MATERNE,OUTPERFORM,OUTPERFORM,725,700
+6/17/2022,Adobe Systems Inc,ADBE,EVERCORE,KIRK MATERNE,                             ,OUTPERFORM                   ,650,475
+9/16/2022,Adobe Systems Inc,ADBE,EVERCORE,KIRK MATERNE,                             ,OUTPERFORM                   ,475,350
+12/16/2022,Adobe Systems Inc,ADBE,EVERCORE,KIRK MATERNE,                             ,OUTPERFORM                   ,350,425
+9/15/2023,Adobe Systems Inc,ADBE,EVERCORE,KIRK MATERNE,                             ,OUTPERFORM                   ,590,605
+3/22/2022,Adobe Systems Inc,ADBE,EVERCORE,KIRK MATERNE,,OUTPERFORM                   ,,700
+3/13/2025,Adobe Systems Inc,ADBE,EVERCORE,KIRK MATERNE,OUTPERFORM,OUTPERFORM,650,550
+3/15/2024,Adobe Systems Inc,ADBE,EVERCORE,KIRK MATERNE,OUTPERFORM,OUTPERFORM,700,650
+6/12/2023,Adobe Systems Inc,ADBE,EVERCORE,KIRK MATERNE,Outperform,Outperform,475,475
+3/27/2024,Adobe Systems Inc,ADBE,EVERCORE,KIRK MATERNE,Outperform,Outperform,650,650
+6/7/2024,Adobe Systems Inc,ADBE,EVERCORE,KIRK MATERNE,Outperform,Outperform,650,650
+6/13/2025,Adobe Systems Inc,ADBE,,KIRK MATERNE,Outperform,Outperform,475,475
+1/23/2018,Adobe Systems Inc,ADBE,BERNSTEIN,MARK MOERDLER,                             ,                             ,208,223
+12/16/2016,Adobe Systems Inc,ADBE,BERNSTEIN,MARK MOERDLER,                             ,                             ,123,124
+9/23/2022,Adobe Systems Inc,ADBE,BERNSTEIN,MARK MOERDLER,                             ,                             ,500,345
+6/12/2020,Adobe Systems Inc,ADBE,BERNSTEIN,MARK MOERDLER,                             ,OUTPERFORM                   ,363,424
+3/16/2023,Adobe Systems Inc,ADBE,BERNSTEIN,MARK MOERDLER,                             ,OUTPERFORM                   ,394,431
+3/24/2021,Adobe Systems Inc,ADBE,BERNSTEIN,MARK MOERDLER,                             ,OUTPERFORM                   ,571,577
+11/9/2023,Adobe Systems Inc,ADBE,BERNSTEIN,MARK MOERDLER,                             ,OUTPERFORM                   ,627,660
+12/15/2023,Adobe Systems Inc,ADBE,BERNSTEIN,MARK MOERDLER,                             ,OUTPERFORM                   ,660,667
+6/17/2024,Adobe Systems Inc,ADBE,,MARK MOERDLER,Outperform,Outperform,660,660
+9/13/2024,Adobe Systems Inc,ADBE,,MARK MOERDLER,Outperform,Outperform,644,644
+3/16/2023,Adobe Systems Inc,ADBE,JPMORGAN,MARK MURPHY,                             ,NEUTRAL                      ,365,380
+3/15/2024,Adobe Systems Inc,ADBE,JPMORGAN,MARK MURPHY,                             ,NEUTRAL                      ,600,570
+9/13/2023,Adobe Systems Inc,ADBE,JPMORGAN,MARK MURPHY,                             ,NEUTRAL                      ,490,530
+12/12/2023,Adobe Systems Inc,ADBE,JPMORGAN,MARK MURPHY,                             ,NEUTRAL                      ,530,600
+3/13/2025,Adobe Systems Inc,ADBE,JPMORGAN,MARK MURPHY,                             ,OVERWEIGHT                   ,580,540
+6/14/2024,Adobe Systems Inc,ADBE,JPMORGAN,MARK MURPHY,NEUTRAL,OVERWEIGHT,570,580
+6/19/2019,Adobe Systems Inc,ADBE,RBC,MATTHEW HEDBERG,,OUTPERFORM                   ,,295
+3/24/2021,Adobe Systems Inc,ADBE,RBC,MATTHEW HEDBERG,OUTPERFORM,POSITIVE,,575
+3/24/2010,Adobe Systems Inc,ADBE,RBC,MATTHEW HEDBERG,OUTPERFORM,OUTPERFORM,43,46
+8/11/2015,Adobe Systems Inc,ADBE,,MATTHEW HEDBERG,Outperform                   ,Outperform                   ,105,105
+8/12/2011,Adobe Systems Inc,ADBE,,MATTHEW HEDBERG,Sec,r Perform to Underperform,,
+12/11/2015,Adobe Systems Inc,ADBE,,MATTHEW HEDBERG,Outperform                   ,Outperform                   ,112,112
+12/12/2014,Adobe Systems Inc,ADBE,,MATTHEW HEDBERG,Sector Perform               ,Sector Perform               ,83,83
+12/13/2010,Adobe Systems Inc,ADBE,,MATTHEW HEDBERG,Sector Perform               ,Sector Perform               ,32,32
+12/14/2012,Adobe Systems Inc,ADBE,,MATTHEW HEDBERG,Outperform                   ,Outperform                   ,42,42
+2/8/2017,Adobe Systems Inc,ADBE,,MATTHEW HEDBERG,Outperform                   ,Outperform                   ,125,125
+6/12/2015,Adobe Systems Inc,ADBE,,MATTHEW HEDBERG,Sector Perform               ,Sector Perform               ,88,88
+6/12/2020,Adobe Systems Inc,ADBE,RBC,MATTHEW HEDBERG,Outperform                   ,Outperform                   ,425,425
+6/18/2014,Adobe Systems Inc,ADBE,,MATTHEW HEDBERG,Outperform                   ,Outperform                   ,85,85
+3/17/2014,Adobe Systems Inc,ADBE,,MATTHEW HEDBERG,Outperform                   ,Outperform                   ,75,75
+3/17/2017,Adobe Systems Inc,ADBE,,MATTHEW HEDBERG,Outperform                   ,Outperform                   ,140,140
+3/18/2016,Adobe Systems Inc,ADBE,,MATTHEW HEDBERG,Outperform                   ,Outperform                   ,104,104
+3/20/2012,Adobe Systems Inc,ADBE,,MATTHEW HEDBERG,Underperform,Sector Perform,,
+3/20/2013,Adobe Systems Inc,ADBE,,MATTHEW HEDBERG,Outperform                   ,Outperform                   ,52,52
+5/25/2017,Adobe Systems Inc,ADBE,,MATTHEW HEDBERG,Outperform                   ,Outperform                   ,157,157
+5/26/2010,Adobe Systems Inc,ADBE,,MATTHEW HEDBERG,Outperform,Sector Perform,,
+10/2/2015,Adobe Systems Inc,ADBE,,MATTHEW HEDBERG,Outperform                   ,Outperform                   ,100,100
+9/10/2020,Adobe Systems Inc,ADBE,RBC,MATTHEW HEDBERG,Outperform                   ,Outperform                   ,550,550
+9/13/2019,Adobe Systems Inc,ADBE,RBC,MATTHEW HEDBERG,Outperform                   ,Outperform                   ,,
+9/17/2014,Adobe Systems Inc,ADBE,,MATTHEW HEDBERG,Sector Perform               ,Sector Perform               ,81,81
+9/18/2019,Adobe Systems Inc,ADBE,RBC,MATTHEW HEDBERG,Outperform                   ,Outperform                   ,310,310
+9/20/2012,Adobe Systems Inc,ADBE,,MATTHEW HEDBERG,Sec,r Perform to Outperform,,
+9/21/2016,Adobe Systems Inc,ADBE,,MATTHEW HEDBERG,Outperform                   ,Outperform                   ,120,120
+6/18/2021,Adobe Systems Inc,ADBE,RBC,MATTHEW HEDBERG,                             ,                             ,575,650
+9/15/2023,Adobe Systems Inc,ADBE,,MATTHEW HEDBERG,Outperform,Outperform,615,615
+10/11/2023,Adobe Systems Inc,ADBE,,MATTHEW HEDBERG,Outperform,Outperform,615,615
+12/14/2023,Adobe Systems Inc,ADBE,,MATTHEW HEDBERG,Outperform,Outperform,615,615
+3/27/2024,Adobe Systems Inc,ADBE,,MATTHEW HEDBERG,Outperform,Outperform,630,630
+3/21/2022,Adobe Systems Inc,ADBE,,MATTHEW HEDBERG,Outperform                   ,Outperform                   ,600,600
+6/14/2022,Adobe Systems Inc,ADBE,,MATTHEW HEDBERG,Outperform                   ,Outperform                   ,500,500
+9/16/2022,Adobe Systems Inc,ADBE,,MATTHEW HEDBERG,Outperform                   ,Outperform                   ,425,425
+10/19/2022,Adobe Systems Inc,ADBE,,MATTHEW HEDBERG,Outperform                   ,Outperform                   ,395,395
+3/13/2023,Adobe Systems Inc,ADBE,,MATTHEW HEDBERG,Outperform                   ,Outperform                   ,395,395
+3/22/2023,Adobe Systems Inc,ADBE,,MATTHEW HEDBERG,Outperform                   ,Outperform                   ,415,415
+5/19/2023,Adobe Systems Inc,ADBE,,MATTHEW HEDBERG,Outperform,Outperform,415,415
+6/8/2023,Adobe Systems Inc,ADBE,,MATTHEW HEDBERG,Outperform                   ,Outperform                   ,460,460
+6/16/2023,Adobe Systems Inc,ADBE,,MATTHEW HEDBERG,Outperform,Outperform,555,555
+3/21/2022,Adobe Systems Inc,ADBE,RBC,MATTHEW SWANSON,,OUTPERFORM                   ,,600
+6/14/2022,Adobe Systems Inc,ADBE,RBC,MATTHEW SWANSON,                             ,OUTPERFORM                   ,600,500
+10/19/2022,Adobe Systems Inc,ADBE,RBC,MATTHEW SWANSON,                             ,OUTPERFORM                   ,425,395
+3/13/2023,Adobe Systems Inc,ADBE,RBC,MATTHEW SWANSON,,OUTPERFORM                   ,,395
+3/22/2023,Adobe Systems Inc,ADBE,RBC,MATTHEW SWANSON,                             ,OUTPERFORM                   ,395,415
+3/15/2024,Adobe Systems Inc,ADBE,RBC,MATTHEW SWANSON,                             ,OUTPERFORM                   ,650,630
+12/12/2024,Adobe Systems Inc,ADBE,RBC,MATTHEW SWANSON,OUTPERFORM,OUTPERFORM,610,590
+4/14/2025,Adobe Systems Inc,ADBE,RBC,MATTHEW SWANSON,,OUTPERFORM                   ,,480
+3/13/2025,Adobe Systems Inc,ADBE,RBC,MATTHEW SWANSON,OUTPERFORM,OUTPERFORM,550,530
+3/7/2025,Adobe Systems Inc,ADBE,RBC,MATTHEW SWANSON,OUTPERFORM,OUTPERFORM,590,550
+6/5/2024,Adobe Systems Inc,ADBE,RBC,MATTHEW SWANSON,OUTPERFORM,OUTPERFORM,630,600
+8/1/2024,Adobe Systems Inc,ADBE,RBC,MATTHEW SWANSON,Outperform,Outperform,600,600
+9/13/2024,Adobe Systems Inc,ADBE,RBC,MATTHEW SWANSON,Outperform,Outperform,610,610
+10/15/2024,Adobe Systems Inc,ADBE,RBC,MATTHEW SWANSON,Outperform,Outperform,610,610
+12/5/2024,Adobe Systems Inc,ADBE,RBC,MATTHEW SWANSON,Outperform,Outperform,610,610
+2/13/2025,Adobe Systems Inc,ADBE,RBC,MATTHEW SWANSON,Outperform,Outperform,590,590
+3/19/2025,Adobe Systems Inc,ADBE,RBC,MATTHEW SWANSON,Outperform,Outperform,530,530
+6/5/2025,Adobe Systems Inc,ADBE,,MATTHEW SWANSON,Outperform,Outperform,480,480
+3/17/2017,Adobe Systems Inc,ADBE,CREDIT SUISSE,MICHAEL NEMEROFF,                             ,                             ,105,125
+6/21/2017,Adobe Systems Inc,ADBE,CREDIT SUISSE,MICHAEL NEMEROFF,                             ,                             ,150,160
+9/20/2017,Adobe Systems Inc,ADBE,CREDIT SUISSE,MICHAEL NEMEROFF,                             ,                             ,160,170
+10/19/2017,Adobe Systems Inc,ADBE,CREDIT SUISSE,MICHAEL NEMEROFF,                             ,                             ,170,190
+3/12/2018,Adobe Systems Inc,ADBE,CREDIT SUISSE,MICHAEL NEMEROFF,,OUTPERFORM                   ,,225
+3/16/2018,Adobe Systems Inc,ADBE,CREDIT SUISSE,MICHAEL NEMEROFF,                             ,                             ,225,250
+9/21/2016,Adobe Systems Inc,ADBE,CREDIT SUISSE,MICHAEL NEMEROFF,,NEUTRAL                      ,,105
+3/24/2017,Adobe Systems Inc,ADBE,CREDIT SUISSE,MICHAEL NEMEROFF,                             ,OUTPERFORM                   ,125,150
+12/11/2020,Adobe Systems Inc,ADBE,,MICHAEL NEMEROFF,Outperform                   ,Outperform                   ,575,575
+12/13/2019,Adobe Systems Inc,ADBE,,MICHAEL NEMEROFF,Outperform                   ,Outperform                   ,350 » 358       ,350 » 358
+1/13/2020,Adobe Systems Inc,ADBE,,MICHAEL NEMEROFF,Outperform                   ,Outperform                   ,385,385
+6/12/2020,Adobe Systems Inc,ADBE,,MICHAEL NEMEROFF,Outperform                   ,Outperform                   ,425,425
+3/13/2020,Adobe Systems Inc,ADBE,,MICHAEL NEMEROFF,Outperform                   ,Outperform                   ,370,370
+3/16/2021,Adobe Systems Inc,ADBE,,MICHAEL NEMEROFF,Outperform                   ,Outperform                   ,575,575
+3/23/2022,Adobe Systems Inc,ADBE,,MICHAEL NEMEROFF,Neutral                      ,Neutral                      ,525,525
+5/10/2018,Adobe Systems Inc,ADBE,,MICHAEL NEMEROFF,Outperform                   ,Outperform                   ,250,250
+11/16/2021,Adobe Systems Inc,ADBE,,MICHAEL NEMEROFF,Neutral                      ,Neutral                      ,700,700
+9/14/2018,Adobe Systems Inc,ADBE,,MICHAEL NEMEROFF,Outperform                   ,Outperform                   ,295,295
+9/16/2020,Adobe Systems Inc,ADBE,,MICHAEL NEMEROFF,Outperform                   ,Outperform                   ,560,560
+1/23/2018,Adobe Systems Inc,ADBE,CREDIT SUISSE,MICHAEL NEMEROFF,                             ,OUTPERFORM                   ,200,225
+3/15/2022,Adobe Systems Inc,ADBE,WELLS FARGO,MICHAEL TURRIN,                             ,OVERWEIGHT                   ,725,625
+3/23/2022,Adobe Systems Inc,ADBE,WELLS FARGO,MICHAEL TURRIN,                             ,OVERWEIGHT                   ,625,600
+5/18/2022,Adobe Systems Inc,ADBE,WELLS FARGO,MICHAEL TURRIN,                             ,OVERWEIGHT                   ,600,525
+12/14/2022,Adobe Systems Inc,ADBE,WELLS FARGO,MICHAEL TURRIN,                             ,EQUAL WEIGHT                 ,310,340
+3/16/2023,Adobe Systems Inc,ADBE,WELLS FARGO,MICHAEL TURRIN,                             ,EQUAL WEIGHT                 ,350,360
+6/14/2024,Adobe Systems Inc,ADBE,WELLS FARGO,MICHAEL TURRIN,                             ,OVERWEIGHT                   ,675,700
+4/11/2022,Adobe Systems Inc,ADBE,WELLS FARGO,MICHAEL TURRIN,Overweight                   ,Overweight                   ,770,770
+5/31/2023,Adobe Systems Inc,ADBE,WELLS FARGO,MICHAEL TURRIN,                             ,EQUAL WEIGHT                 ,360,420
+6/16/2023,Adobe Systems Inc,ADBE,WELLS FARGO,MICHAEL TURRIN,                             ,OVERWEIGHT                   ,525,600
+9/15/2023,Adobe Systems Inc,ADBE,WELLS FARGO,MICHAEL TURRIN,                             ,OVERWEIGHT                   ,625,650
+12/11/2023,Adobe Systems Inc,ADBE,WELLS FARGO,MICHAEL TURRIN,,OVERWEIGHT                   ,,690
+9/19/2022,Adobe Systems Inc,ADBE,WELLS FARGO,MICHAEL TURRIN,OVERWEIGHT,EQUAL WEIGHT,,310
+4/22/2025,Adobe Systems Inc,ADBE,WELLS FARGO,MICHAEL TURRIN,                             ,OVERWEIGHT                   ,600,430
+3/7/2025,Adobe Systems Inc,ADBE,WELLS FARGO,MICHAEL TURRIN,                             ,OVERWEIGHT                   ,640,600
+1/7/2025,Adobe Systems Inc,ADBE,WELLS FARGO,MICHAEL TURRIN,                             ,OVERWEIGHT                   ,700,640
+6/13/2025,Adobe Systems Inc,ADBE,WELLS FARGO,MICHAEL TURRIN,                             ,OVERWEIGHT                   ,430,470
+9/21/2021,Adobe Systems Inc,ADBE,,MICHAEL TURRIN,Overweight                   ,Overweight                   ,770,770
+12/17/2021,Adobe Systems Inc,ADBE,,MICHAEL TURRIN,Overweight                   ,Overweight                   ,725,725
+6/17/2022,Adobe Systems Inc,ADBE,WELLS FARGO,MICHAEL TURRIN,Overweight                   ,Overweight                   ,425,425
+6/9/2023,Adobe Systems Inc,ADBE,WELLS FARGO,MICHAEL TURRIN,Equal Weight,Overweight,525,525
+12/8/2015,Adobe Systems Inc,ADBE,DEUTSCHE BANK,NANDAN AMLADI,,                             ,,110
+6/22/2016,Adobe Systems Inc,ADBE,DEUTSCHE BANK,NANDAN AMLADI,OUTPERFORM,BUY,,120
+6/19/2013,Adobe Systems Inc,ADBE,DEUTSCHE BANK,NANDAN AMLADI,BUY,BUY,50,52
+9/18/2013,Adobe Systems Inc,ADBE,DEUTSCHE BANK,NANDAN AMLADI,                             ,BUY                          ,52,58
+12/12/2014,Adobe Systems Inc,ADBE,DEUTSCHE BANK,NANDAN AMLADI,Buy                          ,Buy                          ,90,90
+12/13/2013,Adobe Systems Inc,ADBE,DEUTSCHE BANK,NANDAN AMLADI,Buy                          ,Buy                          ,65,65
+3/23/2016,Adobe Systems Inc,ADBE,DEUTSCHE BANK,NANDAN AMLADI,Buy                          ,Buy                          ,120,120
+6/21/2017,Adobe Systems Inc,ADBE,DEUTSCHE BANK,NANDAN AMLADI,                             ,BUY                          ,140,160
+10/16/2017,Adobe Systems Inc,ADBE,DEUTSCHE BANK,NANDAN AMLADI,BUY,HOLD,,160
+10/7/2015,Adobe Systems Inc,ADBE,DEUTSCHE BANK,NANDAN AMLADI,BUY,BUY,85,90
+1/23/2018,Adobe Systems Inc,ADBE,DEUTSCHE BANK,NANDAN AMLADI,                             ,HOLD                         ,175,200
+3/8/2021,Adobe Systems Inc,ADBE,STIFEL,PARKER LANE,,BUY                          ,,550
+9/15/2023,Adobe Systems Inc,ADBE,STIFEL,PARKER LANE,                             ,BUY                          ,550,600
+12/14/2023,Adobe Systems Inc,ADBE,STIFEL,PARKER LANE,                             ,BUY                          ,600,625
+6/18/2021,Adobe Systems Inc,ADBE,STIFEL,PARKER LANE,                             ,                             ,550,600
+8/20/2021,Adobe Systems Inc,ADBE,STIFEL,PARKER LANE,                             ,BUY                          ,600,675
+6/13/2025,Adobe Systems Inc,ADBE,STIFEL,PARKER LANE,                             ,BUY                          ,525,480
+3/13/2025,Adobe Systems Inc,ADBE,STIFEL,PARKER LANE,                             ,BUY                          ,567,525
+12/12/2024,Adobe Systems Inc,ADBE,STIFEL,PARKER LANE,                             ,BUY                          ,650,600
+2/28/2024,Adobe Systems Inc,ADBE,STIFEL,PARKER LANE,                             ,BUY                          ,625,650
+6/7/2024,Adobe Systems Inc,ADBE,STIFEL,PARKER LANE,Buy,Buy,600,600
+9/6/2024,Adobe Systems Inc,ADBE,STIFEL,PARKER LANE,Buy,Buy,650,650
+9/23/2021,Adobe Systems Inc,ADBE,STIFEL,PARKER LANE,Buy                          ,Buy                          ,750,750
+3/16/2022,Adobe Systems Inc,ADBE,STIFEL,PARKER LANE,Buy                          ,Buy                          ,600,600
+6/17/2022,Adobe Systems Inc,ADBE,STIFEL,PARKER LANE,Buy                          ,Buy                          ,500,500
+9/16/2022,Adobe Systems Inc,ADBE,STIFEL,PARKER LANE,Buy                          ,Buy                          ,375,375
+10/11/2023,Adobe Systems Inc,ADBE,,PARKER LANE,Buy,Buy,600,600
+12/15/2017,Adobe Systems Inc,ADBE,JMP,PATRICK WALRAVENS,                             ,                             ,170,210
+6/20/2012,Adobe Systems Inc,ADBE,JMP,PATRICK WALRAVENS,Mkt Perform,Mkt Underperform,,
+3/19/2014,Adobe Systems Inc,ADBE,JMP,PATRICK WALRAVENS,Mkt Outperform               ,Mkt Outperform               ,78,78
+9/16/2011,Adobe Systems Inc,ADBE,JMP,PATRICK WALRAVENS,Mkt Outperform,Mkt Perform,,
+12/14/2012,Adobe Systems Inc,ADBE,JMP,PATRICK WALRAVENS,OUTPERFORM,UNDERPERFORM,,42
+12/1/2009,Adobe Systems Inc,ADBE,JMP,PATRICK WALRAVENS,,OUTPERFORM                   ,,46
+10/19/2017,Adobe Systems Inc,ADBE,JMP,PATRICK WALRAVENS,OUTPERFORM,OUTPERFORM,157,170
+3/26/2018,Adobe Systems Inc,ADBE,JMP,PATRICK WALRAVENS,OUTPERFORM,MARKETPERFORM,,                  
+9/23/2016,Adobe Systems Inc,ADBE,JMP,PATRICK WALRAVENS,Buy                          ,Buy                          ,,
+9/14/2018,Adobe Systems Inc,ADBE,,PATRICK WALRAVENS,Outperform,Outperform,,
+12/14/2018,Adobe Systems Inc,ADBE,,PATRICK WALRAVENS,Outperform,Outperform,,
+9/18/2019,Adobe Systems Inc,ADBE,,PATRICK WALRAVENS,Outperform                   ,Outperform                   ,,
+10/21/2019,Adobe Systems Inc,ADBE,,PATRICK WALRAVENS,Outperform                   ,Outperform                   ,,
+12/11/2019,Adobe Systems Inc,ADBE,,PATRICK WALRAVENS,Outperform                   ,Outperform                   ,,
+3/28/2024,Adobe Systems Inc,ADBE,,PATRICK WALRAVENS,Market Perform               ,Market Perform               ,,
+6/14/2024,Adobe Systems Inc,ADBE,,PATRICK WALRAVENS,Market Perform               ,Market Perform               ,,
+9/13/2024,Adobe Systems Inc,ADBE,,PATRICK WALRAVENS,Market Perform               ,Market Perform               ,,
+12/12/2024,Adobe Systems Inc,ADBE,,PATRICK WALRAVENS,Market Perform,Market Perform,,
+3/13/2025,Adobe Systems Inc,ADBE,,PATRICK WALRAVENS,Market Perform,Market Perform,,
+3/20/2025,Adobe Systems Inc,ADBE,,PATRICK WALRAVENS,Market Perform,Market Perform,,
+6/23/2025,Adobe Systems Inc,ADBE,,PATRICK WALRAVENS,Market Perform,Market Perform,,
+1/10/2017,Adobe Systems Inc,ADBE,WELLS FARGO,PHIL WINSLOW,,MARKET PERFORM               ,,                  
+9/20/2017,Adobe Systems Inc,ADBE,WELLS FARGO,PHIL WINSLOW,                             ,                             ,127.5,145
+6/19/2019,Adobe Systems Inc,ADBE,WELLS FARGO,PHIL WINSLOW,                             ,                             ,250,275
+11/5/2019,Adobe Systems Inc,ADBE,WELLS FARGO,PHIL WINSLOW,                             ,                             ,275,285
+12/13/2019,Adobe Systems Inc,ADBE,WELLS FARGO,PHIL WINSLOW,                             ,EQUAL WEIGHT                 ,285,315
+1/16/2020,Adobe Systems Inc,ADBE,WELLS FARGO,PHIL WINSLOW,                             ,EQUAL WEIGHT                 ,315,345
+3/13/2020,Adobe Systems Inc,ADBE,WELLS FARGO,PHIL WINSLOW,                             ,EQUAL WEIGHT                 ,345,315
+6/12/2020,Adobe Systems Inc,ADBE,WELLS FARGO,PHIL WINSLOW,                             ,EQUAL WEIGHT                 ,290,375
+9/16/2020,Adobe Systems Inc,ADBE,WELLS FARGO,PHIL WINSLOW,                             ,EQUAL WEIGHT                 ,375,500
+11/16/2021,Adobe Systems Inc,ADBE,CREDIT SUISSE,PHIL WINSLOW,,NEUTRAL                      ,,700
+12/17/2021,Adobe Systems Inc,ADBE,CREDIT SUISSE,PHIL WINSLOW,                             ,NEUTRAL                      ,700,625
+3/23/2022,Adobe Systems Inc,ADBE,CREDIT SUISSE,PHIL WINSLOW,                             ,NEUTRAL                      ,625,525
+6/17/2022,Adobe Systems Inc,ADBE,CREDIT SUISSE,PHIL WINSLOW,                             ,NEUTRAL                      ,525,425
+9/16/2022,Adobe Systems Inc,ADBE,CREDIT SUISSE,PHIL WINSLOW,                             ,NEUTRAL                      ,425,350
+12/12/2014,Adobe Systems Inc,ADBE,CREDIT SUISSE,PHIL WINSLOW,                             ,NEUTRAL                      ,70,75
+1/11/2017,Adobe Systems Inc,ADBE,WELLS FARGO,PHIL WINSLOW,Market Perform               ,Market Perform               ,,
+6/15/2018,Adobe Systems Inc,ADBE,,PHIL WINSLOW,Market Perform               ,Market Perform               ,250,250
+1/14/2022,Adobe Systems Inc,ADBE,CREDIT SUISSE,PHIL WINSLOW,NEUTRAL,NEUTRAL,,625
+3/31/2016,Adobe Systems Inc,ADBE,CANACCORD,RICHARD DAVIS,,BUY                          ,,110
+9/21/2016,Adobe Systems Inc,ADBE,CANACCORD,RICHARD DAVIS,                             ,                             ,110,120
+12/16/2016,Adobe Systems Inc,ADBE,CANACCORD,RICHARD DAVIS,                             ,BUY                          ,120,125
+3/17/2017,Adobe Systems Inc,ADBE,CANACCORD,RICHARD DAVIS,                             ,                             ,125,145
+6/21/2017,Adobe Systems Inc,ADBE,CANACCORD,RICHARD DAVIS,                             ,                             ,145,165
+1/23/2018,Adobe Systems Inc,ADBE,CANACCORD,RICHARD DAVIS,                             ,                             ,195,220
+3/16/2018,Adobe Systems Inc,ADBE,CANACCORD,RICHARD DAVIS,                             ,                             ,220,245
+6/15/2018,Adobe Systems Inc,ADBE,CANACCORD,RICHARD DAVIS,                             ,                             ,245,280
+10/16/2018,Adobe Systems Inc,ADBE,CANACCORD,RICHARD DAVIS,,BUY                          ,,290
+3/15/2019,Adobe Systems Inc,ADBE,CANACCORD,RICHARD DAVIS,                             ,BUY                          ,290,300
+3/27/2019,Adobe Systems Inc,ADBE,CANACCORD,RICHARD DAVIS,,BUY                          ,,300
+6/19/2019,Adobe Systems Inc,ADBE,CANACCORD,RICHARD DAVIS,                             ,                             ,300,320
+6/22/2016,Adobe Systems Inc,ADBE,CANACCORD,RICHARD DAVIS,,BUY                          ,,110
+9/18/2019,Adobe Systems Inc,ADBE,CANACCORD,RICHARD DAVIS,,BUY                          ,,320
+10/19/2017,Adobe Systems Inc,ADBE,CANACCORD,RICHARD DAVIS,BUY,BUY,170,185
+9/14/2018,Adobe Systems Inc,ADBE,CANACCORD,RICHARD DAVIS,                             ,BUY                          ,280,290
+9/20/2017,Adobe Systems Inc,ADBE,CANACCORD,RICHARD DAVIS,                             ,BUY                          ,165,170
+1/12/2017,Adobe Systems Inc,ADBE,CANACCORD,RICHARD DAVIS,Hold                         ,Hold                         ,,
+6/12/2017,Adobe Systems Inc,ADBE,CANACCORD,RICHARD DAVIS,Sell                         ,Sell                         ,,
+1/7/2019,Adobe Systems Inc,ADBE,CANACCORD,RICHARD DAVIS,Hold,Buy,,
+6/21/2017,Adobe Systems Inc,ADBE,BAIRD,ROB OLIVER,                             ,                             ,140,160
+5/22/2018,Adobe Systems Inc,ADBE,BAIRD,ROB OLIVER,                             ,BUY                          ,240,260
+3/15/2019,Adobe Systems Inc,ADBE,BAIRD,ROB OLIVER,                             ,OUTPERFORM                   ,290,300
+6/12/2020,Adobe Systems Inc,ADBE,BAIRD,ROB OLIVER,                             ,OUTPERFORM                   ,345,460
+6/17/2022,Adobe Systems Inc,ADBE,BAIRD,ROB OLIVER,                             ,OUTPERFORM                   ,550,450
+9/16/2022,Adobe Systems Inc,ADBE,BAIRD,ROB OLIVER,NEUTRAL,OUTPERFORM,450,355
+3/15/2024,Adobe Systems Inc,ADBE,BAIRD,ROB OLIVER,                             ,NEUTRAL                      ,590,525
+9/14/2018,Adobe Systems Inc,ADBE,BAIRD,ROB OLIVER,                             ,OUTPERFORM                   ,280,290
+3/12/2020,Adobe Systems Inc,ADBE,BAIRD,ROB OLIVER,                             ,OUTPERFORM                   ,350,346
+3/22/2023,Adobe Systems Inc,ADBE,BAIRD,ROB OLIVER,                             ,NEUTRAL                      ,355,370
+9/15/2023,Adobe Systems Inc,ADBE,BAIRD,ROB OLIVER,                             ,NEUTRAL                      ,500,540
+12/14/2023,Adobe Systems Inc,ADBE,BAIRD,ROB OLIVER,                             ,NEUTRAL                      ,540,590
+3/19/2025,Adobe Systems Inc,ADBE,BAIRD,ROB OLIVER,                             ,NEUTRAL                      ,490,410
+3/13/2025,Adobe Systems Inc,ADBE,BAIRD,ROB OLIVER,                             ,NEUTRAL                      ,500,490
+6/13/2025,Adobe Systems Inc,ADBE,BAIRD,ROB OLIVER,                             ,NEUTRAL                      ,410,425
+6/14/2024,Adobe Systems Inc,ADBE,BAIRD,ROB OLIVER,                             ,NEUTRAL                      ,525,545
+9/16/2014,Adobe Systems Inc,ADBE,CRT CAPITAL,ROBERT BREZA,BUY,BUY,,85
+6/9/2015,Adobe Systems Inc,ADBE,WUNDERLICH,ROBERT BREZA,,HOLD                         ,,90
+12/11/2015,Adobe Systems Inc,ADBE,,ROBERT BREZA,Hold                         ,Hold                         ,94,94
+9/16/2014,Adobe Systems Inc,ADBE,RBC,ROSS MACMILLAN,,                             ,,82
+10/19/2017,Adobe Systems Inc,ADBE,RBC,ROSS MACMILLAN,,                             ,,177
+1/23/2018,Adobe Systems Inc,ADBE,RBC,ROSS MACMILLAN,,OUTPERFORM                   ,,208
+2/28/2018,Adobe Systems Inc,ADBE,RBC,ROSS MACMILLAN,,                             ,,235
+9/14/2018,Adobe Systems Inc,ADBE,RBC,ROSS MACMILLAN,,OUTPERFORM                   ,,288
+10/12/2018,Adobe Systems Inc,ADBE,RBC,ROSS MACMILLAN,,OUTPERFORM                   ,,288
+8/11/2015,Adobe Systems Inc,ADBE,RBC,ROSS MACMILLAN,SECTOR PERFORM,OUTPERFORM,88,105
+12/11/2015,Adobe Systems Inc,ADBE,RBC,ROSS MACMILLAN,Outperform                   ,Outperform                   ,112,112
+12/12/2014,Adobe Systems Inc,ADBE,RBC,ROSS MACMILLAN,Sector Perform               ,Sector Perform               ,83,83
+2/8/2017,Adobe Systems Inc,ADBE,RBC,ROSS MACMILLAN,Outperform                   ,Outperform                   ,125,125
+6/12/2015,Adobe Systems Inc,ADBE,RBC,ROSS MACMILLAN,Sector Perform               ,Sector Perform               ,88,88
+3/17/2017,Adobe Systems Inc,ADBE,RBC,ROSS MACMILLAN,Outperform                   ,Outperform                   ,140,140
+3/18/2016,Adobe Systems Inc,ADBE,RBC,ROSS MACMILLAN,Outperform                   ,Outperform                   ,104,104
+5/25/2017,Adobe Systems Inc,ADBE,RBC,ROSS MACMILLAN,Outperform                   ,Outperform                   ,157,157
+10/2/2015,Adobe Systems Inc,ADBE,RBC,ROSS MACMILLAN,Outperform                   ,Outperform                   ,100,100
+9/21/2016,Adobe Systems Inc,ADBE,RBC,ROSS MACMILLAN,Outperform                   ,Outperform                   ,120,120
+6/15/2018,Adobe Systems Inc,ADBE,RBC,ROSS MACMILLAN,                             ,OUTPERFORM                   ,268,288
+3/15/2019,Adobe Systems Inc,ADBE,RBC,ROSS MACMILLAN,                             ,OUTPERFORM                   ,288,290
+6/11/2018,Adobe Systems Inc,ADBE,RBC,ROSS MACMILLAN,,OUTPERFORM                   ,,268
+3/17/2017,Adobe Systems Inc,ADBE,WUNDERLICH,RYAN MACDONALD,                             ,                             ,115,145
+6/21/2017,Adobe Systems Inc,ADBE,WUNDERLICH,RYAN MACDONALD,                             ,BUY                          ,145,165
+1/23/2018,Adobe Systems Inc,ADBE,BARCLAYS,SAKET KALIA,,                             ,,221
+3/15/2018,Adobe Systems Inc,ADBE,BARCLAYS,SAKET KALIA,,                             ,,250
+6/12/2018,Adobe Systems Inc,ADBE,BARCLAYS,SAKET KALIA,,                             ,,270
+6/19/2019,Adobe Systems Inc,ADBE,BARCLAYS,SAKET KALIA,                             ,OVERWEIGHT                   ,304,330
+12/13/2019,Adobe Systems Inc,ADBE,BARCLAYS,SAKET KALIA,                             ,                             ,330,350
+9/9/2020,Adobe Systems Inc,ADBE,BARCLAYS,SAKET KALIA,                             ,OVERWEIGHT                   ,450,530
+9/16/2020,Adobe Systems Inc,ADBE,BARCLAYS,SAKET KALIA,                             ,OVERWEIGHT                   ,530,600
+6/18/2021,Adobe Systems Inc,ADBE,BARCLAYS,SAKET KALIA,                             ,OVERWEIGHT                   ,605,660
+9/16/2021,Adobe Systems Inc,ADBE,BARCLAYS,SAKET KALIA,                             ,OVERWEIGHT                   ,660,740
+12/17/2021,Adobe Systems Inc,ADBE,BARCLAYS,SAKET KALIA,                             ,OVERWEIGHT                   ,740,665
+3/15/2022,Adobe Systems Inc,ADBE,BARCLAYS,SAKET KALIA,                             ,OVERWEIGHT                   ,665,540
+3/23/2022,Adobe Systems Inc,ADBE,BARCLAYS,SAKET KALIA,                             ,OVERWEIGHT                   ,540,530
+6/17/2022,Adobe Systems Inc,ADBE,BARCLAYS,SAKET KALIA,                             ,OVERWEIGHT                   ,530,445
+9/8/2022,Adobe Systems Inc,ADBE,BARCLAYS,SAKET KALIA,                             ,OVERWEIGHT                   ,445,440
+9/16/2022,Adobe Systems Inc,ADBE,BARCLAYS,SAKET KALIA,EQUAL WEIGHT,OVERWEIGHT,440,340
+12/16/2022,Adobe Systems Inc,ADBE,BARCLAYS,SAKET KALIA,                             ,EQUAL WEIGHT                 ,330,340
+3/16/2023,Adobe Systems Inc,ADBE,BARCLAYS,SAKET KALIA,                             ,EQUAL WEIGHT                 ,340,385
+4/5/2022,Adobe Systems Inc,ADBE,,SAKET KALIA,Overweight                   ,Overweight                   ,736,736
+11/5/2019,Adobe Systems Inc,ADBE,BARCLAYS,SAKET KALIA,Overweight                   ,Overweight                   ,330,330
+10/16/2018,Adobe Systems Inc,ADBE,,SAKET KALIA,Overweight                   ,Overweight                   ,304,304
+10/19/2017,Adobe Systems Inc,ADBE,BARCLAYS,SAKET KALIA,OVERWEIGHT,OVERWEIGHT,167,181
+9/12/2018,Adobe Systems Inc,ADBE,BARCLAYS,SAKET KALIA,                             ,OVERWEIGHT                   ,275,297
+5/2/2017,Adobe Systems Inc,ADBE,BARCLAYS,SAKET KALIA,,OVERWEIGHT                   ,,155
+10/28/2019,Adobe Systems Inc,ADBE,BARCLAYS,SAKET KALIA,,OVERWEIGHT                   ,,325
+9/8/2023,Adobe Systems Inc,ADBE,BARCLAYS,SAKET KALIA,                             ,                             ,540,620
+9/15/2023,Adobe Systems Inc,ADBE,BARCLAYS,SAKET KALIA,                             ,                             ,620,640
+12/18/2023,Adobe Systems Inc,ADBE,BARCLAYS,SAKET KALIA,,OVERWEIGHT                   ,,700
+6/21/2017,Adobe Systems Inc,ADBE,BARCLAYS,SAKET KALIA,                             ,OVERWEIGHT                   ,155,161
+12/15/2017,Adobe Systems Inc,ADBE,BARCLAYS,SAKET KALIA,                             ,OVERWEIGHT                   ,181,193
+10/13/2022,Adobe Systems Inc,ADBE,BARCLAYS,SAKET KALIA,                             ,                             ,340,330
+12/12/2024,Adobe Systems Inc,ADBE,BARCLAYS,SAKET KALIA,                             ,OVERWEIGHT                   ,675,645
+6/14/2024,Adobe Systems Inc,ADBE,BARCLAYS,SAKET KALIA,OVERWEIGHT,OVERWEIGHT,630,650
+6/6/2023,Adobe Systems Inc,ADBE,BARCLAYS,SAKET KALIA,Overweight,Overweight,485,485
+9/4/2024,Adobe Systems Inc,ADBE,BARCLAYS,SAKET KALIA,Overweight,Overweight,675,675
+9/5/2025,Adobe Systems Inc,ADBE,,SAKET KALIA,Overweight,Overweight,460,460
+3/20/2018,Adobe Systems Inc,ADBE,BARCLAYS,SAKET KALIA,Hold,Buy,,
+12/28/2018,Adobe Systems Inc,ADBE,,SAKET KALIA,Hold,Buy,,
+8/10/2016,Adobe Systems Inc,ADBE,STEPHENS,SAMAD SAMANA,,OVERWEIGHT                   ,,125
+12/11/2015,Adobe Systems Inc,ADBE,B. RILEY,SAMAD SAMANA,,MARKET PERFORM               ,,100
+10/7/2015,Adobe Systems Inc,ADBE,B. RILEY,SAMAD SAMANA,MARKET PERFORM,MARKET PERFO,82,87
+3/23/2016,Adobe Systems Inc,ADBE,B. RILEY,SAMAD SAMANA,MARKET PERFORM,MARKET PERFO,,100
+4/12/2016,Adobe Systems Inc,ADBE,B. RILEY,SAMAD SAMANA,MARKET PERFORM,MARKET PERFO,100,115
+3/29/2022,Adobe Systems Inc,ADBE,BNP,STEFAN SLOWINSKI,,OUTPERFORM                   ,,570
+1/10/2023,Adobe Systems Inc,ADBE,BNP,STEFAN SLOWINSKI,OUTPERFORM,NEUTRAL,,325
+3/15/2024,Adobe Systems Inc,ADBE,HSBC,STEPHEN BERSEY,HOLD,HOLD,557,511
+9/13/2024,Adobe Systems Inc,ADBE,HSBC,STEPHEN BERSEY,                             ,HOLD                         ,519,536
+9/29/2023,Adobe Systems Inc,ADBE,,STEPHEN BERSEY,Hold                         ,Hold                         ,519,519
+9/18/2015,Adobe Systems Inc,ADBE,JPMORGAN,STERLING AUTY,OVERWEIGHT,OVERWEIGHT,,91
+10/7/2015,Adobe Systems Inc,ADBE,JPMORGAN,STERLING AUTY,                             ,                             ,91,95
+12/11/2015,Adobe Systems Inc,ADBE,JPMORGAN,STERLING AUTY,,                             ,,100
+3/18/2016,Adobe Systems Inc,ADBE,JPMORGAN,STERLING AUTY,,                             ,,110
+9/21/2016,Adobe Systems Inc,ADBE,JPMORGAN,STERLING AUTY,,                             ,,122
+3/17/2017,Adobe Systems Inc,ADBE,JPMORGAN,STERLING AUTY,,                             ,,145
+9/20/2017,Adobe Systems Inc,ADBE,JPMORGAN,STERLING AUTY,OVERWEIGHT,OVERWEIGHT,,170
+10/19/2017,Adobe Systems Inc,ADBE,JPMORGAN,STERLING AUTY,,                             ,,185
+9/14/2018,Adobe Systems Inc,ADBE,JPMORGAN,STERLING AUTY,                             ,NEUTRAL                      ,260,275
+10/16/2018,Adobe Systems Inc,ADBE,JPMORGAN,STERLING AUTY,NEUTRAL,NEUTRAL,,275
+6/19/2019,Adobe Systems Inc,ADBE,JPMORGAN,STERLING AUTY,                             ,                             ,284,329
+9/18/2019,Adobe Systems Inc,ADBE,JPMORGAN,STERLING AUTY,                             ,NEUTRAL                      ,329,318
+9/16/2020,Adobe Systems Inc,ADBE,JPMORGAN,STERLING AUTY,                             ,OVERWEIGHT                   ,430,550
+6/18/2021,Adobe Systems Inc,ADBE,JPMORGAN,STERLING AUTY,                             ,OVERWEIGHT                   ,595,660
+9/22/2021,Adobe Systems Inc,ADBE,JPMORGAN,STERLING AUTY,                             ,OVERWEIGHT                   ,660,680
+9/22/2022,Adobe Systems Inc,ADBE,LEERINK,STERLING AUTY,,HOLD                         ,,354
+6/22/2016,Adobe Systems Inc,ADBE,JPMORGAN,STERLING AUTY,,OVERWEIGHT                   ,,110
+12/16/2016,Adobe Systems Inc,ADBE,JPMORGAN,STERLING AUTY,,OVERWEIGHT                   ,,124
+6/15/2018,Adobe Systems Inc,ADBE,STIFEL,STERLING AUTY,                             ,NEUTRAL                      ,235,260
+6/21/2017,Adobe Systems Inc,ADBE,JPMORGAN,STERLING AUTY,                             ,OVERWEIGHT                   ,145,170
+12/12/2017,Adobe Systems Inc,ADBE,JPMORGAN,STERLING AUTY,OVERWEIGHT,NEUTRAL,,185
+3/16/2023,Adobe Systems Inc,ADBE,JPMORGAN,STERLING AUTY,                             ,NEUTRAL                      ,365,380
+3/13/2020,Adobe Systems Inc,ADBE,JPMORGAN,STERLING AUTY,NEUTRAL,OVERWEIGHT,322,325
+3/22/2021,Adobe Systems Inc,ADBE,JPMORGAN,STERLING AUTY,,OVERWEIGHT                   ,,585
+3/22/2022,Adobe Systems Inc,ADBE,JPMORGAN,STERLING AUTY,NEUTRAL,NEUTRAL,,                  
+12/15/2021,Adobe Systems Inc,ADBE,JPMORGAN,STERLING AUTY,Overweight,Neutral,680,680
+6/13/2023,Adobe Systems Inc,ADBE,,STERLING AUTY,Neutral,Neutral,450,450
+9/20/2017,Adobe Systems Inc,ADBE,STIFEL,TOM RODERICK,,BUY                          ,,163
+3/16/2018,Adobe Systems Inc,ADBE,STIFEL,TOM RODERICK,                             ,BUY                          ,230,250
+6/15/2018,Adobe Systems Inc,ADBE,STIFEL,TOM RODERICK,,BUY                          ,,275
+9/14/2018,Adobe Systems Inc,ADBE,STIFEL,TOM RODERICK,                             ,BUY                          ,275,325
+12/14/2018,Adobe Systems Inc,ADBE,STIFEL,TOM RODERICK,,BUY                          ,,325
+3/15/2019,Adobe Systems Inc,ADBE,STIFEL,TOM RODERICK,,BUY                          ,,325
+3/13/2020,Adobe Systems Inc,ADBE,STIFEL,TOM RODERICK,                             ,BUY                          ,350,325
+6/12/2020,Adobe Systems Inc,ADBE,STIFEL,TOM RODERICK,                             ,BUY                          ,325,426
+9/16/2020,Adobe Systems Inc,ADBE,STIFEL,TOM RODERICK,                             ,BUY                          ,426,550
+4/14/2022,Adobe Systems Inc,ADBE,,TOM RODERICK,Buy                          ,Buy                          ,765,765
+8/20/2021,Adobe Systems Inc,ADBE,,TOM RODERICK,Buy                          ,Buy                          ,675,675
+1/14/2021,Adobe Systems Inc,ADBE,,TOM RODERICK,Buy                          ,Buy                          ,550,550
+6/18/2021,Adobe Systems Inc,ADBE,,TOM RODERICK,Buy                          ,Buy                          ,640,640
+3/16/2022,Adobe Systems Inc,ADBE,,TOM RODERICK,Buy                          ,Buy                          ,600,600
+11/10/2017,Adobe Systems Inc,ADBE,STIFEL,TOM RODERICK,Buy                          ,Buy                          ,200,200
+9/23/2021,Adobe Systems Inc,ADBE,,TOM RODERICK,Buy                          ,Buy                          ,750,750
+4/1/2020,Adobe Systems Inc,ADBE,STIFEL,TOM RODERICK,,BUY                          ,,325
+9/18/2019,Adobe Systems Inc,ADBE,STIFEL,TOM RODERICK,BUY,SHORT,,325
+10/19/2017,Adobe Systems Inc,ADBE,STIFEL,TOM RODERICK,                             ,BUY                          ,163,175
+6/17/2019,Adobe Systems Inc,ADBE,STIFEL,TOM RODERICK,,BUY                          ,,325
+3/12/2018,Adobe Systems Inc,ADBE,STIFEL,TOM RODERICK,,BUY                          ,,230
+12/13/2019,Adobe Systems Inc,ADBE,STIFEL,TOM RODERICK,                             ,BUY                          ,325,350
+4/11/2017,Adobe Systems Inc,ADBE,STIFEL,TOM RODERICK,,BUY                          ,,150
+6/21/2017,Adobe Systems Inc,ADBE,STIFEL,TOM RODERICK,                             ,BUY                          ,150,163
+11/10/2020,Adobe Systems Inc,ADBE,STIFEL,TOM RODERICK,,BUY                          ,,550
+11/30/2020,Adobe Systems Inc,ADBE,STIFEL,TOM RODERICK,,BUY                          ,,550
+3/24/2021,Adobe Systems Inc,ADBE,CITI,TYLER RADKE,,NEUTRAL                      ,,523
+6/18/2021,Adobe Systems Inc,ADBE,CITI,TYLER RADKE,                             ,NEUTRAL                      ,523,575
+9/20/2021,Adobe Systems Inc,ADBE,CITI,TYLER RADKE,NEUTRAL,IN LINE,,575
+12/20/2021,Adobe Systems Inc,ADBE,CITI,TYLER RADKE,,NEUTRAL                      ,,611
+3/18/2022,Adobe Systems Inc,ADBE,CITI,TYLER RADKE,                             ,NEUTRAL                      ,611,455
+6/14/2022,Adobe Systems Inc,ADBE,CITI,TYLER RADKE,                             ,NEUTRAL                      ,455,425
+9/15/2022,Adobe Systems Inc,ADBE,CITI,TYLER RADKE,                             ,NEUTRAL                      ,380,388
+12/12/2022,Adobe Systems Inc,ADBE,CITI,TYLER RADKE,,NEUTRAL                      ,,337
+9/13/2023,Adobe Systems Inc,ADBE,CITI,TYLER RADKE,                             ,NEUTRAL                      ,544,570
+12/12/2023,Adobe Systems Inc,ADBE,CITI,TYLER RADKE,                             ,NEUTRAL                      ,610,675
+3/14/2025,Adobe Systems Inc,ADBE,CITI,TYLER RADKE,                             ,NEUTRAL                      ,490,430
+6/16/2025,Adobe Systems Inc,ADBE,CITI,TYLER RADKE,NEUTRAL,NEUTRAL,,450
+3/10/2025,Adobe Systems Inc,ADBE,CITI,TYLER RADKE,NEUTRAL,NEUTRAL,,490
+6/10/2025,Adobe Systems Inc,ADBE,CITI,TYLER RADKE,NEUTRAL,NEUTRAL,430,465
+12/19/2022,Adobe Systems Inc,ADBE,CITI,TYLER RADKE,Neutral                      ,Neutral                      ,355,355
+6/9/2023,Adobe Systems Inc,ADBE,CITI,TYLER RADKE,Neutral                      ,Neutral                      ,462,462
+6/14/2024,Adobe Systems Inc,ADBE,CITI,TYLER RADKE,Neutral,Neutral,550,550
+9/13/2024,Adobe Systems Inc,ADBE,CITI,TYLER RADKE,Neutral,Neutral,616,616
+12/9/2024,Adobe Systems Inc,ADBE,CITI,TYLER RADKE,Neutral,Neutral,590,590
+3/18/2016,Adobe Systems Inc,ADBE,CITI,WALTER PRITCHARD,,                             ,,114
+12/16/2016,Adobe Systems Inc,ADBE,CITI,WALTER PRITCHARD,                             ,                             ,117,122
+10/19/2017,Adobe Systems Inc,ADBE,CITI,WALTER PRITCHARD,,                             ,,177
+12/15/2017,Adobe Systems Inc,ADBE,CITI,WALTER PRITCHARD,,                             ,,202
+3/16/2018,Adobe Systems Inc,ADBE,CITI,WALTER PRITCHARD,,                             ,,260
+12/14/2018,Adobe Systems Inc,ADBE,CITI,WALTER PRITCHARD,,                             ,,299
+9/18/2019,Adobe Systems Inc,ADBE,CITI,WALTER PRITCHARD,                             ,                             ,335,322
+11/5/2019,Adobe Systems Inc,ADBE,CITI,WALTER PRITCHARD,                             ,                             ,313,321
+9/16/2020,Adobe Systems Inc,ADBE,CITI,WALTER PRITCHARD,                             ,NEUTRAL                      ,530,523
+10/16/2019,Adobe Systems Inc,ADBE,CITI,WALTER PRITCHARD,BUY,NEUTRAL,322,313
+6/15/2020,Adobe Systems Inc,ADBE,CITI,WALTER PRITCHARD,Neutral                      ,Neutral                      ,413,413
+3/13/2020,Adobe Systems Inc,ADBE,CITI,WALTER PRITCHARD,Neutral                      ,Neutral                      ,293,293
+9/21/2016,Adobe Systems Inc,ADBE,CITI,WALTER PRITCHARD,Buy                          ,Buy                          ,125,125
+6/21/2017,Adobe Systems Inc,ADBE,CITI,WALTER PRITCHARD,                             ,BUY                          ,161,163
+12/2/2019,Adobe Systems Inc,ADBE,CITI,WALTER PRITCHARD,NEUTRAL,POSITIVE,,321
+12/10/2018,Adobe Systems Inc,ADBE,CITI,WALTER PRITCHARD,,BUY                          ,,300
+9/14/2018,Adobe Systems Inc,ADBE,CITI,WALTER PRITCHARD,                             ,BUY                          ,260,309
+6/19/2019,Adobe Systems Inc,ADBE,CITI,WALTER PRITCHARD,                             ,BUY                          ,299,335
+3/17/2017,Adobe Systems Inc,ADBE,CITI,WALTER PRITCHARD,BUY,BUY,,141
+12/13/2019,Adobe Systems Inc,ADBE,CITI,WALTER PRITCHARD,Equal Weight                 ,Equal Weight                 ,,
+6/15/2018,Adobe Systems Inc,ADBE,,WALTER PRITCHARD,Market Perform,Market Perform,,
+1/11/2017,Adobe Systems Inc,ADBE,CITI,WALTER PRITCHARD,Market Perform               ,Market Perform               ,,
