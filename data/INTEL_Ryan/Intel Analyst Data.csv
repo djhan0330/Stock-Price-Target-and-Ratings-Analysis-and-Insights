@@ -1,0 +1,773 @@
+date,company_Name,ticker,broker,analytst,rating_before,rating_after,price_target_before,price_target_after
+7/6/2020,Intel Corp,INTC,,JAMES COVELLO,Neutral, Sell     ,65,54
+4/15/2021,Intel Corp,INTC,,CHRIS CASO,Mkt Perform, Underperf,,
+1/25/2019,Intel Corp,INTC,WELLS FARGO,AARON RAKERS,,OUTPERFORM                   ,,55
+5/9/2019,Intel Corp,INTC,WELLS FARGO,AARON RAKERS,                             ,NEGATIVE                     ,60,55
+4/24/2020,Intel Corp,INTC,WELLS FARGO,AARON RAKERS,                             ,EQUAL WEIGHT                 ,56,60
+7/24/2020,Intel Corp,INTC,WELLS FARGO,AARON RAKERS,                             ,EQUAL WEIGHT                 ,60,55
+10/11/2022,Intel Corp,INTC,WELLS FARGO,AARON RAKERS,                             ,EQUAL WEIGHT                 ,45,32
+8/2/2024,Intel Corp,INTC,WELLS FARGO,AARON RAKERS,                             ,EQUAL WEIGHT                 ,38,28
+4/5/2019,Intel Corp,INTC,,AARON RAKERS,Market Perform               ,Market Perform               ,,
+1/24/2020,Intel Corp,INTC,WELLS FARGO,AARON RAKERS,Equal Weight                 ,Equal Weight                 ,,
+7/23/2021,Intel Corp,INTC,WELLS FARGO,AARON RAKERS,Equal Weight                 ,Equal Weight                 ,70 » 60         ,70 » 60
+3/20/2020,Intel Corp,INTC,WELLS FARGO,AARON RAKERS,Equal Weight                 ,Equal Weight                 ,,
+10/25/2019,Intel Corp,INTC,WELLS FARGO,AARON RAKERS,Market Perform               ,Market Perform               ,53,53
+9/10/2018,Intel Corp,INTC,WELLS FARGO,AARON RAKERS,,OUTPERFORM                   ,,55
+4/28/2023,Intel Corp,INTC,WELLS FARGO,AARON RAKERS,                             ,EQUAL WEIGHT                 ,26,32
+7/28/2023,Intel Corp,INTC,WELLS FARGO,AARON RAKERS,                             ,EQUAL WEIGHT                 ,32,40
+1/3/2024,Intel Corp,INTC,WELLS FARGO,AARON RAKERS,                             ,EQUAL WEIGHT                 ,40,52
+4/28/2025,Intel Corp,INTC,WELLS FARGO,AARON RAKERS,,EQUAL WEIGHT                 ,,22
+1/31/2025,Intel Corp,INTC,WELLS FARGO,AARON RAKERS,                             ,EQUAL WEIGHT                 ,28,25
+4/9/2024,Intel Corp,INTC,WELLS FARGO,AARON RAKERS,                             ,EQUAL WEIGHT                 ,48,43
+4/1/2025,Intel Corp,INTC,WELLS FARGO,AARON RAKERS,,EQUAL WEIGHT                 ,,25
+4/29/2022,Intel Corp,INTC,WELLS FARGO,AARON RAKERS,Equal Weight                 ,Equal Weight                 ,55,55
+1/27/2023,Intel Corp,INTC,WELLS FARGO,AARON RAKERS,Equal Weight                 ,Equal Weight                 ,26,26
+1/26/2024,Intel Corp,INTC,WELLS FARGO,AARON RAKERS,Equal Weight,Equal Weight,48,48
+4/26/2024,Intel Corp,INTC,WELLS FARGO,AARON RAKERS,Equal Weight,Equal Weight,38,38
+6/28/2018,Intel Corp,INTC,RBC,AMIT DARYANANI,SECTOR PERFORM,POSITIVE.,,60
+1/27/2017,Intel Corp,INTC,RBC,AMIT DARYANANI,,SECTOR PERFORM               ,,37
+10/1/2018,Intel Corp,INTC,RBC,AMIT DARYANANI,,SECTOR PERFORM               ,,55
+10/14/2015,Intel Corp,INTC,RBC,AMIT DARYANANI,                             ,SECTOR PERFORM               ,33,34
+1/25/2019,Intel Corp,INTC,RBC,AMIT DARYANANI,                             ,SECTOR PERFORM               ,55,50
+7/26/2019,Intel Corp,INTC,RBC,AMIT DARYANANI,                             ,UNDERPERFORM                 ,41,47
+5/13/2019,Intel Corp,INTC,RBC,AMIT DARYANANI,,UNDERPERFORM                 ,,41
+9/16/2016,Intel Corp,INTC,RBC,AMIT DARYANANI,                             ,                             ,36,38
+10/19/2016,Intel Corp,INTC,RBC,AMIT DARYANANI,SECTOR PERFORM,SECTOR PERFO,38,37
+4/24/2018,Intel Corp,INTC,RBC,AMIT DARYANANI,                             ,SECTOR PERFORM               ,46,54
+3/16/2020,Intel Corp,INTC,THINK EQUITY,ASHOK KUMAR,,BUY                          ,,60
+7/14/2014,Intel Corp,INTC,IMPERIAL CAPITAL,ASHOK KUMAR,,OUTPERFORM                   ,,37
+6/5/2012,Intel Corp,INTC,MAXIM GROUP,ASHOK KUMAR,                             ,                             ,33,29
+11/21/2014,Intel Corp,INTC,IMPERIAL CAPITAL,ASHOK KUMAR,                             ,OUTPERFORM                   ,37,40
+11/13/2017,Intel Corp,INTC,BARCLAYS,BLAYNE CURTIS,,OVERWEIGHT                   ,,55
+4/19/2018,Intel Corp,INTC,BARCLAYS,BLAYNE CURTIS,,                             ,,60
+8/6/2018,Intel Corp,INTC,BARCLAYS,BLAYNE CURTIS,EQUAL WEIGHT,OVERWEIGHT,,53
+1/22/2021,Intel Corp,INTC,BARCLAYS,BLAYNE CURTIS,                             ,UNDERWEIGHT                  ,50,53
+3/23/2021,Intel Corp,INTC,BARCLAYS,BLAYNE CURTIS,                             ,UNDERWEIGHT                  ,53,58
+7/23/2021,Intel Corp,INTC,BARCLAYS,BLAYNE CURTIS,                             ,UNDERWEIGHT                  ,58,50
+10/22/2021,Intel Corp,INTC,BARCLAYS,BLAYNE CURTIS,                             ,UNDERWEIGHT                  ,50,45
+2/18/2022,Intel Corp,INTC,BARCLAYS,BLAYNE CURTIS,                             ,UNDERWEIGHT                  ,50,45
+7/11/2022,Intel Corp,INTC,BARCLAYS,BLAYNE CURTIS,,UNDERWEIGHT                  ,,40
+7/29/2022,Intel Corp,INTC,BARCLAYS,BLAYNE CURTIS,                             ,UNDERWEIGHT                  ,40,35
+10/28/2022,Intel Corp,INTC,BARCLAYS,BLAYNE CURTIS,EQUAL WEIGHT,UNDERWEIGHT,,30
+4/27/2018,Intel Corp,INTC,BARCLAYS,BLAYNE CURTIS,Overweight                   ,Overweight                   ,62,62
+1/13/2022,Intel Corp,INTC,BARCLAYS,BLAYNE CURTIS,Underweight                  ,Underweight                  ,50,50
+10/1/2018,Intel Corp,INTC,BARCLAYS,BLAYNE CURTIS,,UNDERWEIGHT                  ,,38
+1/27/2017,Intel Corp,INTC,BARCLAYS,BLAYNE CURTIS,,OVERWEIGHT                   ,,45
+4/1/2020,Intel Corp,INTC,BARCLAYS,BLAYNE CURTIS,                             ,UNDERWEIGHT                  ,52,58
+7/24/2020,Intel Corp,INTC,BARCLAYS,BLAYNE CURTIS,                             ,UNDERWEIGHT                  ,58,48
+4/28/2023,Intel Corp,INTC,BARCLAYS,BLAYNE CURTIS,                             ,                             ,27,30
+10/26/2018,Intel Corp,INTC,BARCLAYS,BLAYNE CURTIS,                             ,UNDERWEIGHT                  ,38,40
+1/16/2024,Intel Corp,INTC,BARCLAYS,BLAYNE CURTIS,,                             ,,44
+10/25/2019,Intel Corp,INTC,BARCLAYS,BLAYNE CURTIS,                             ,UNDERWEIGHT                  ,40,42
+8/2/2024,Intel Corp,INTC,BARCLAYS,BLAYNE CURTIS,                             ,                             ,40,25
+10/12/2022,Intel Corp,INTC,BARCLAYS,BLAYNE CURTIS,Underweight                  ,Underweight                  ,30,30
+1/27/2023,Intel Corp,INTC,BARCLAYS,BLAYNE CURTIS,Equal Weight                 ,Equal Weight                 ,27,27
+7/28/2023,Intel Corp,INTC,BARCLAYS,BLAYNE CURTIS,Equal Weight,Equal Weight,32,32
+5/13/2024,Intel Corp,INTC,BARCLAYS,BLAYNE CURTIS,Hold,Hold,34,34
+7/17/2018,Intel Corp,INTC,EVERCORE,C J MUSE,In Line                      ,In Line                      ,,
+10/27/2017,Intel Corp,INTC,EVERCORE,C J MUSE,OUTPERFORM,POSITIVE,40,50
+1/13/2021,Intel Corp,INTC,EVERCORE,C J MUSE,                             ,IN LINE                      ,55,68
+10/22/2021,Intel Corp,INTC,EVERCORE,C J MUSE,                             ,UNDERPERFORM                 ,60,55
+1/23/2024,Intel Corp,INTC,,C J MUSE,Neutral                      ,Neutral                      ,50,50
+2/2/2024,Intel Corp,INTC,,C J MUSE,Neutral,Neutral,50,50
+3/11/2024,Intel Corp,INTC,,C J MUSE,Neutral,Neutral,50,50
+4/8/2024,Intel Corp,INTC,,C J MUSE,Neutral,Neutral,45,45
+7/16/2024,Intel Corp,INTC,,C J MUSE,Neutral,Neutral,40,40
+3/26/2018,Intel Corp,INTC,RAYMOND JAMES,CHRIS CASO,UNDERPERFORM,MARKETPERFORM,,                  
+1/27/2023,Intel Corp,INTC,CREDIT SUISSE,CHRIS CASO,                             ,NEUTRAL                      ,28,25
+4/6/2020,Intel Corp,INTC,,CHRIS CASO,Market Perform               ,Market Perform               ,,
+8/24/2015,Intel Corp,INTC,,CHRIS CASO,Neutral                      ,Neutral                      ,30,30
+4/16/2014,Intel Corp,INTC,SUSQUEHANNA,CHRIS CASO,                             ,NEUTRAL                      ,21,23
+9/25/2018,Intel Corp,INTC,RAYMOND JAMES,CHRIS CASO,UNDERPERFORM,MARKETPERFORM,,                  
+6/16/2017,Intel Corp,INTC,RAYMOND JAMES,CHRIS CASO,,UNDERPERFORM                 ,,                  
+7/28/2023,Intel Corp,INTC,,CHRIS CASO,Underperform,Underperform,31,31
+6/21/2017,Intel Corp,INTC,RAYMOND JAMES,CHRIS CASO,Neutral                      ,Neutral                      ,,
+10/27/2017,Intel Corp,INTC,RAYMOND JAMES,CHRIS CASO,Neutral,Buy,,
+3/8/2018,Intel Corp,INTC,RAYMOND JAMES,CHRIS CASO,Buy,Buy,,
+4/18/2018,Intel Corp,INTC,RAYMOND JAMES,CHRIS CASO,Buy,Buy,,
+6/26/2018,Intel Corp,INTC,RAYMOND JAMES,CHRIS CASO,Hold                         ,Hold                         ,,
+7/23/2019,Intel Corp,INTC,,CHRIS CASO,Hold                         ,Hold                         ,,
+2/23/2022,Intel Corp,INTC,,CHRIS CASO,Underperform,Market Perform,,
+11/16/2022,Intel Corp,INTC,,CHRIS CASO,Neutral                      ,Neutral                      ,28,28
+7/20/2023,Intel Corp,INTC,,CHRIS CASO,Underperform                 ,Underperform                 ,27,27
+7/2/2015,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,NEUTRAL,NEUTRAL,,32
+12/15/2015,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,NEUTRAL,NEUTRAL,,34
+1/15/2016,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,NEUTRAL,NEUTRAL,,34
+7/21/2016,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,NOT FOUND,NOT FOUND,,                  
+1/25/2017,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,NEUTRAL,NEUTRAL,,36
+2/12/2018,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,BUY,BUY,,58
+1/11/2019,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,                             ,BUY                          ,50,54
+1/25/2019,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,                             ,                             ,54,50
+3/30/2020,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,,NEUTRAL                      ,,58
+1/14/2021,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,                             ,NEUTRAL                      ,50,55
+1/22/2021,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,NOT FOUND,NOT FOUND,,                  
+3/24/2021,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,POSITIVE,POSITIVE,,65
+5/11/2021,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,NEGATIVE,NEGATIVE,,65
+6/10/2021,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,NEUTRAL,NEUTRAL,,65
+6/21/2021,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,,NEUTRAL                      ,,60
+7/23/2021,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,                             ,NEUTRAL                      ,60,57
+10/22/2021,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,                             ,NEUTRAL                      ,57,52
+1/27/2022,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,                             ,NEUTRAL                      ,58,55
+2/15/2022,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,NEUTRAL,NEUTRAL,,55
+10/31/2022,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,,NEUTRAL                      ,,27
+2/26/2015,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,                             ,                             ,35,34
+7/12/2016,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,,NEUTRAL                      ,,35
+8/17/2016,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,,NEUTRAL                      ,,35
+10/19/2016,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,,NEUTRAL                      ,,38
+4/15/2015,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,Neutral                      ,Neutral                      ,31,31
+4/30/2018,Intel Corp,INTC,,CHRISTOPHER DANELY,Buy                          ,Buy                          ,64,64
+8/8/2014,Intel Corp,INTC,,CHRISTOPHER DANELY,Overweight                   ,Overweight                   ,37,37
+12/18/2014,Intel Corp,INTC,,CHRISTOPHER DANELY,Neutral                      ,Neutral                      ,35,35
+1/14/2014,Intel Corp,INTC,,CHRISTOPHER DANELY,Neutral,Overweight,,
+1/17/2020,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,Neutral                      ,Neutral                      ,60,60
+1/27/2020,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,Neutral                      ,Neutral                      ,67,67
+7/26/2019,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,Neutral                      ,Neutral                      ,50 » 53         ,50 » 53
+6/13/2014,Intel Corp,INTC,,CHRISTOPHER DANELY,Overweight                   ,Overweight                   ,31,31
+3/13/2015,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,Neutral                      ,Neutral                      ,31,31
+9/10/2012,Intel Corp,INTC,,CHRISTOPHER DANELY,Neutral                      ,Neutral                      ,22,22
+9/19/2016,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,Neutral                      ,Neutral                      ,38,38
+1/18/2022,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,,                             ,,58
+2/27/2018,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,BUY,BUY,,                  
+5/11/2018,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,,BUY                          ,,64
+4/24/2018,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,                             ,BUY                          ,58,60
+12/21/2020,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,,NEUTRAL                      ,,50
+10/23/2020,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,                             ,NEUTRAL                      ,53,50
+4/17/2023,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,,NEUTRAL                      ,,32
+5/26/2021,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,,NEUTRAL                      ,,                  
+1/12/2024,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,                             ,NEUTRAL                      ,34,47.5
+11/18/2010,Intel Corp,INTC,JPMORGAN,CHRISTOPHER DANELY,,NEUTRAL                      ,,17
+1/30/2018,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,,BUY                          ,,58
+7/27/2018,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,BUY,NEUTRAL,64,50
+4/11/2019,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,,NEUTRAL                      ,,50
+7/24/2020,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,                             ,NEUTRAL                      ,58,53
+6/30/2021,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,NEUTRAL,NEUTRAL,,60
+4/12/2022,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,,NEUTRAL                      ,,55
+6/8/2022,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,,NEUTRAL                      ,,45
+1/21/2025,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,,NEUTRAL                      ,,21
+11/1/2024,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,NEUTRAL,NEUTRAL,25,22
+4/15/2024,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,,NEUTRAL                      ,,40
+4/28/2023,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,Neutral,Neutral,29.5,29.5
+7/11/2023,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,Neutral,Neutral,29.5,29.5
+7/18/2023,Intel Corp,INTC,CITI,CHRISTOPHER DANELY,Neutral,Neutral,34,34
+7/7/2025,Intel Corp,INTC,,CHRISTOPHER DANELY,Neutral,Neutral,24,24
+9/20/2016,Intel Corp,INTC,SUSQUEHANNA,CHRISTOPHER ROLLAND,,POSITIVE                     ,,42
+10/19/2016,Intel Corp,INTC,SUSQUEHANNA,CHRISTOPHER ROLLAND,,POSITIVE                     ,,42
+7/14/2020,Intel Corp,INTC,SUSQUEHANNA,CHRISTOPHER ROLLAND,,NEUTRAL                      ,,58
+10/21/2020,Intel Corp,INTC,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,NEUTRAL                      ,53,56
+12/15/2020,Intel Corp,INTC,SUSQUEHANNA,CHRISTOPHER ROLLAND,,NEUTRAL                      ,,50
+7/20/2021,Intel Corp,INTC,SUSQUEHANNA,CHRISTOPHER ROLLAND,,NEUTRAL                      ,,60
+7/13/2022,Intel Corp,INTC,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,NEUTRAL                      ,50,45
+1/27/2023,Intel Corp,INTC,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,NEGATIVE                     ,24,23
+3/16/2023,Intel Corp,INTC,SUSQUEHANNA,CHRISTOPHER ROLLAND,NEGATIVE,NEUTRAL,,26
+6/3/2013,Intel Corp,INTC,B. RILEY,CHRISTOPHER ROLLAND,MARKET PERFORM,OUTPERFORM,,28
+6/13/2014,Intel Corp,INTC,B. RILEY,CHRISTOPHER ROLLAND,OUTPERFORM,OUTPERFORM,30,32
+4/16/2014,Intel Corp,INTC,B. RILEY,CHRISTOPHER ROLLAND,Neutral                      ,Neutral                      ,27,27
+1/15/2016,Intel Corp,INTC,,CHRISTOPHER ROLLAND,Buy                          ,Buy                          ,,
+7/1/2015,Intel Corp,INTC,B. RILEY,CHRISTOPHER ROLLAND,Outperform                   ,Outperform                   ,38,38
+7/16/2014,Intel Corp,INTC,B. RILEY,CHRISTOPHER ROLLAND,Buy                          ,Buy                          ,36,36
+3/13/2015,Intel Corp,INTC,B. RILEY,CHRISTOPHER ROLLAND,Outperform                   ,Outperform                   ,35,35
+11/21/2014,Intel Corp,INTC,B. RILEY,CHRISTOPHER ROLLAND,Outperform                   ,Outperform                   ,40,40
+10/15/2014,Intel Corp,INTC,B. RILEY,CHRISTOPHER ROLLAND,Outperform                   ,Outperform                   ,39,39
+1/17/2014,Intel Corp,INTC,B. RILEY,CHRISTOPHER ROLLAND,,OUTPERFORM                   ,,27
+4/21/2020,Intel Corp,INTC,SUSQUEHANNA,CHRISTOPHER ROLLAND,,NEUTRAL                      ,,56
+10/20/2021,Intel Corp,INTC,SUSQUEHANNA,CHRISTOPHER ROLLAND,,NEUTRAL                      ,,60
+7/19/2022,Intel Corp,INTC,SUSQUEHANNA,CHRISTOPHER ROLLAND,NEUTRAL,NEUTRAL,42,40
+1/26/2018,Intel Corp,INTC,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,POSITIVE                     ,48,54
+10/16/2013,Intel Corp,INTC,B. RILEY,CHRISTOPHER ROLLAND,IN LINE,IN LINE,28,27
+1/23/2023,Intel Corp,INTC,SUSQUEHANNA,CHRISTOPHER ROLLAND,,                             ,,24
+8/13/2019,Intel Corp,INTC,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,NEUTRAL                      ,54,52
+7/24/2020,Intel Corp,INTC,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,NEUTRAL                      ,58,53
+7/28/2023,Intel Corp,INTC,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,NEUTRAL                      ,35,37
+10/19/2023,Intel Corp,INTC,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,NEUTRAL                      ,37,38
+1/18/2024,Intel Corp,INTC,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,NEUTRAL                      ,38,42
+4/29/2022,Intel Corp,INTC,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,NEUTRAL                      ,50,52
+1/13/2021,Intel Corp,INTC,SUSQUEHANNA,CHRISTOPHER ROLLAND,NEUTRAL,NEUTRAL.,50,54
+1/22/2021,Intel Corp,INTC,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,NEUTRAL                      ,54,60
+4/20/2023,Intel Corp,INTC,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,                             ,31,33
+7/16/2015,Intel Corp,INTC,B. RILEY,CHRISTOPHER ROLLAND,,OUTPERFORM                   ,,38
+4/27/2018,Intel Corp,INTC,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,POSITIVE                     ,62,64
+7/27/2018,Intel Corp,INTC,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,POSITIVE                     ,64,58
+10/26/2018,Intel Corp,INTC,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,POSITIVE                     ,54,58
+1/25/2019,Intel Corp,INTC,SUSQUEHANNA,CHRISTOPHER ROLLAND,POSITIVE,NEUTRAL,58,50
+4/24/2019,Intel Corp,INTC,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,NEUTRAL                      ,50,54
+10/23/2019,Intel Corp,INTC,SUSQUEHANNA,CHRISTOPHER ROLLAND,,NEUTRAL                      ,,52
+1/24/2020,Intel Corp,INTC,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,NEUTRAL                      ,53,62
+7/29/2022,Intel Corp,INTC,SUSQUEHANNA,CHRISTOPHER ROLLAND,NEUTRAL,NEGATIVE,40,33
+4/17/2024,Intel Corp,INTC,SUSQUEHANNA,CHRISTOPHER ROLLAND,NEUTRAL,NEUTRAL,42,40
+7/19/2023,Intel Corp,INTC,SUSQUEHANNA,CHRISTOPHER ROLLAND,Neutral,Neutral,35,35
+4/4/2024,Intel Corp,INTC,SUSQUEHANNA,CHRISTOPHER ROLLAND,Neutral,Neutral,42,42
+4/26/2024,Intel Corp,INTC,,CHRISTOPHER ROLLAND,Neutral,Neutral,35,35
+8/2/2024,Intel Corp,INTC,,CHRISTOPHER ROLLAND,Neutral,Neutral,26,26
+8/30/2013,Intel Corp,INTC,B. RILEY,CHRISTOPHER ROLLAND,Buy                          ,Buy                          ,,
+1/4/2019,Intel Corp,INTC,SUSQUEHANNA,CHRISTOPHER ROLLAND,Neutral,Buy,,
+7/22/2019,Intel Corp,INTC,SUSQUEHANNA,CHRISTOPHER ROLLAND,Buy                          ,Buy                          ,,
+12/2/2019,Intel Corp,INTC,SUSQUEHANNA,CHRISTOPHER ROLLAND,Buy                          ,Buy                          ,,
+8/12/2019,Intel Corp,INTC,LOOP CAPITAL,CODY ACREE,,HOLD                         ,,50
+1/24/2020,Intel Corp,INTC,LOOP CAPITAL,CODY ACREE,SELL,HOLD,59,50
+7/24/2020,Intel Corp,INTC,LOOP CAPITAL,CODY ACREE,                             ,SELL                         ,59,50
+3/24/2021,Intel Corp,INTC,LOOP CAPITAL,CODY ACREE,                             ,SELL                         ,50,55
+5/28/2021,Intel Corp,INTC,BENCHMARK,CODY ACREE,NOT FOUND,NOT FOUND,,                  
+6/8/2022,Intel Corp,INTC,BENCHMARK,CODY ACREE,HOLD,HOLD,,                  
+7/16/2015,Intel Corp,INTC,,CODY ACREE,Hold                         ,Hold                         ,,
+6/22/2023,Intel Corp,INTC,BENCHMARK,CODY ACREE,BUY,BUY,,39
+4/28/2023,Intel Corp,INTC,BENCHMARK,CODY ACREE,BUY,HOLD,,39
+12/5/2023,Intel Corp,INTC,BENCHMARK,CODY ACREE,                             ,BUY                          ,42,52
+7/16/2014,Intel Corp,INTC,ASCENDIANT,CODY ACREE,                             ,SELL                         ,22,24
+1/26/2024,Intel Corp,INTC,,CODY ACREE,Buy,Buy,62,62
+9/23/2024,Intel Corp,INTC,,CODY ACREE,Hold                         ,Hold                         ,,
+11/1/2024,Intel Corp,INTC,,CODY ACREE,Hold                         ,Hold                         ,,
+1/31/2025,Intel Corp,INTC,,CODY ACREE,Hold,Hold,,
+4/25/2025,Intel Corp,INTC,,CODY ACREE,Hold,Hold,,
+7/25/2025,Intel Corp,INTC,,CODY ACREE,Hold,Hold,,
+1/25/2019,Intel Corp,INTC,NORTHLAND CAPITAL MARKETS,GUS RICHARD,,UNDERPERFORM                 ,,38
+7/26/2019,Intel Corp,INTC,NORTHLAND CAPITAL MARKETS,GUS RICHARD,                             ,UNDERPERFORM                 ,38,48
+10/25/2019,Intel Corp,INTC,NORTHLAND CAPITAL MARKETS,GUS RICHARD,OUTPERFORM,MARKET PERFORM,48,69
+7/24/2020,Intel Corp,INTC,NORTHLAND CAPITAL MARKETS,GUS RICHARD,UNDERPERFORM,MARKET PERFORM,60,48
+12/7/2021,Intel Corp,INTC,NORTHLAND CAPITAL MARKETS,GUS RICHARD,,MARKET PERFORM               ,,49
+1/27/2022,Intel Corp,INTC,NORTHLAND CAPITAL MARKETS,GUS RICHARD,,OUTPERFORM                   ,,62
+4/29/2022,Intel Corp,INTC,NORTHLAND CAPITAL MARKETS,GUS RICHARD,OUTPERFORM,AVOID,,62
+7/29/2022,Intel Corp,INTC,NORTHLAND CAPITAL MARKETS,GUS RICHARD,                             ,OUTPERFORM                   ,62,55
+1/27/2023,Intel Corp,INTC,NORTHLAND CAPITAL MARKETS,GUS RICHARD,                             ,OUTPERFORM                   ,52,45
+1/27/2020,Intel Corp,INTC,NORTHLAND CAPITAL MARKETS,GUS RICHARD,OUTPERFORM,MARKETPERFORM,,70
+8/16/2019,Intel Corp,INTC,NORTHLAND CAPITAL MARKETS,GUS RICHARD,,                             ,,48
+8/31/2015,Intel Corp,INTC,NORTHLAND CAPITAL MARKETS,GUS RICHARD,,                             ,,32
+6/18/2018,Intel Corp,INTC,NORTHLAND CAPITAL MARKETS,GUS RICHARD,MARKET PERFORM,UNDERPERFORM,,45
+2/22/2022,Intel Corp,INTC,NORTHLAND CAPITAL MARKETS,GUS RICHARD,,OUTPERFORM                   ,,62
+1/16/2015,Intel Corp,INTC,NORTHLAND CAPITAL MARKETS,GUS RICHARD,                             ,                             ,34.5,35
+10/21/2019,Intel Corp,INTC,NORTHLAND CAPITAL MARKETS,GUS RICHARD,,MARKET PERFORM               ,,48
+4/22/2019,Intel Corp,INTC,NORTHLAND CAPITAL MARKETS,GUS RICHARD,,UNDERPERFORM                 ,,38
+10/15/2020,Intel Corp,INTC,NORTHLAND CAPITAL MARKETS,GUS RICHARD,,UNDERPERFORM                 ,,48
+12/4/2018,Intel Corp,INTC,NORTHLAND CAPITAL MARKETS,GUS RICHARD,MARKET PERFORM,UNDERPERFORM,46,42
+1/14/2021,Intel Corp,INTC,NORTHLAND CAPITAL MARKETS,GUS RICHARD,,MARKET PERFORM               ,,46
+9/13/2018,Intel Corp,INTC,NORTHLAND CAPITAL MARKETS,GUS RICHARD,UNDERPERFORM,MARKET PERFORM,,46
+11/2/2020,Intel Corp,INTC,NORTHLAND CAPITAL MARKETS,GUS RICHARD,UNDERPERFORM,MARKET PERFORM,,46
+2/1/2021,Intel Corp,INTC,NORTHLAND CAPITAL MARKETS,GUS RICHARD,MARKET PERFORM,UNDERPERFORM,,46
+10/4/2023,Intel Corp,INTC,NORTHLAND CAPITAL MARKETS,GUS RICHARD,                             ,OUTPERFORM                   ,45,56
+7/16/2015,Intel Corp,INTC,NORTHLAND CAPITAL MARKETS,GUS RICHARD,MARKET PERFORM,MARKET PERFO,31,32
+7/27/2018,Intel Corp,INTC,NORTHLAND CAPITAL MARKETS,GUS RICHARD,                             ,UNDERPERFORM                 ,45,46
+11/5/2019,Intel Corp,INTC,NORTHLAND CAPITAL MARKETS,GUS RICHARD,,OUTPERFORM                   ,,69
+10/23/2020,Intel Corp,INTC,NORTHLAND CAPITAL MARKETS,GUS RICHARD,UNDERPERFORM,UNDERPERFORM,48,46
+10/22/2021,Intel Corp,INTC,NORTHLAND CAPITAL MARKETS,GUS RICHARD,,UNDERPERFORM                 ,,42
+11/1/2021,Intel Corp,INTC,NORTHLAND CAPITAL MARKETS,GUS RICHARD,UNDERPERFORM,MARKET PERFORM,,49
+1/5/2022,Intel Corp,INTC,NORTHLAND CAPITAL MARKETS,GUS RICHARD,OUTPERFORM,MARKET PERFORM,,62
+6/24/2022,Intel Corp,INTC,NORTHLAND CAPITAL MARKETS,GUS RICHARD,,OUTPERFORM                   ,,62
+10/28/2022,Intel Corp,INTC,NORTHLAND CAPITAL MARKETS,GUS RICHARD,,OUTPERFORM                   ,,52
+10/7/2014,Intel Corp,INTC,NORTHLAND CAPITAL MARKETS,GUS RICHARD,,MARKET PERFORM               ,,35
+10/10/2022,Intel Corp,INTC,NORTHLAND CAPITAL MARKETS,GUS RICHARD,Outperform                   ,Outperform                   ,52,52
+8/2/2024,Intel Corp,INTC,,GUS RICHARD,Outperform,Outperform,42,42
+1/12/2016,Intel Corp,INTC,JPMORGAN,HARLAN SUR,,OVERWEIGHT                   ,,40
+10/25/2019,Intel Corp,INTC,JPMORGAN,HARLAN SUR,                             ,"""POSITIVE                    ",64,68
+4/24/2020,Intel Corp,INTC,JPMORGAN,HARLAN SUR,OVERWEIGHT,OVERWEIGHT,,80
+10/23/2020,Intel Corp,INTC,JPMORGAN,HARLAN SUR,                             ,OVERWEIGHT                   ,75,70
+1/27/2023,Intel Corp,INTC,JPMORGAN,HARLAN SUR,                             ,UNDERWEIGHT                  ,32,28
+4/20/2016,Intel Corp,INTC,JPMORGAN,HARLAN SUR,Overweight                   ,Overweight                   ,39,39
+9/28/2018,Intel Corp,INTC,JPMORGAN,HARLAN SUR,,OVERWEIGHT                   ,,68
+4/3/2019,Intel Corp,INTC,JPMORGAN,HARLAN SUR,,OVERWEIGHT                   ,,64
+4/28/2023,Intel Corp,INTC,JPMORGAN,HARLAN SUR,                             ,UNDERWEIGHT                  ,28,30
+7/28/2023,Intel Corp,INTC,JPMORGAN,HARLAN SUR,                             ,UNDERWEIGHT                  ,30,35
+10/27/2023,Intel Corp,INTC,JPMORGAN,HARLAN SUR,                             ,UNDERWEIGHT                  ,35,37
+4/26/2024,Intel Corp,INTC,JPMORGAN,HARLAN SUR,                             ,UNDERWEIGHT                  ,37,35
+11/11/2022,Intel Corp,INTC,JPMORGAN,HARLAN SUR,Underweight                  ,Underweight                  ,32,32
+8/2/2024,Intel Corp,INTC,,HARLAN SUR,Underweight,Underweight,26,26
+3/28/2018,Intel Corp,INTC,DZ BANK,INGO WERMANN,,HOLD                         ,,53
+1/15/2021,Intel Corp,INTC,DZ BANK,INGO WERMANN,SELL,HOLD,,62
+12/18/2023,Intel Corp,INTC,DZ BANK,INGO WERMANN,,HOLD                         ,,48
+3/25/2021,Intel Corp,INTC,DZ BANK,INGO WERMANN,HOLD,BUY,60,76
+2/24/2022,Intel Corp,INTC,DZ BANK,INGO WERMANN,HOLD,BUY,,                  
+8/2/2022,Intel Corp,INTC,DZ BANK,INGO WERMANN,HOLD,SELL,,30
+5/1/2024,Intel Corp,INTC,DZ BANK,INGO WERMANN,                             ,HOLD                         ,41,34
+1/29/2024,Intel Corp,INTC,DZ BANK,INGO WERMANN,,HOLD                         ,,44
+5/7/2021,Intel Corp,INTC,TIGRESS PARTNERS,IVAN FEINSETH,,BUY                          ,,68
+1/5/2022,Intel Corp,INTC,,IVAN FEINSETH,Buy                          ,Buy                          ,72,72
+8/4/2023,Intel Corp,INTC,,IVAN FEINSETH,Buy,Buy,46,46
+3/27/2013,Intel Corp,INTC,GOLDMAN SACHS,JAMES COVELLO,SELL,SELL,,16
+4/20/2016,Intel Corp,INTC,,JAMES COVELLO,Neutral                      ,Neutral                      ,33,33
+8/10/2018,Intel Corp,INTC,,JAMES COVELLO,Neutral,Sell,,
+2/3/2016,Intel Corp,INTC,,JAMES COVELLO,Neutral                      ,Neutral                      ,,
+3/24/2020,Intel Corp,INTC,,JAMES COVELLO,Neutral                      ,Neutral                      ,54,54
+10/19/2016,Intel Corp,INTC,,JAMES COVELLO,Neutral                      ,Neutral                      ,,
+11/22/2013,Intel Corp,INTC,GOLDMAN SACHS,JAMES COVELLO,,SELL                         ,,16
+6/12/2015,Intel Corp,INTC,GOLDMAN SACHS,JAMES COVELLO,,SELL                         ,,23
+1/13/2014,Intel Corp,INTC,GOLDMAN SACHS,JAMES COVELLO,,SELL                         ,,16
+7/16/2014,Intel Corp,INTC,GOLDMAN SACHS,JAMES COVELLO,,SELL                         ,,20
+1/16/2015,Intel Corp,INTC,GOLDMAN SACHS,JAMES COVELLO,,SELL                         ,,23
+4/16/2014,Intel Corp,INTC,GOLDMAN SACHS,JAMES COVELLO,,SELL                         ,,17
+1/5/2018,Intel Corp,INTC,ARGUS,JIM KELLEHER,,BUY                          ,,50
+3/25/2020,Intel Corp,INTC,ARGUS,JIM KELLEHER,HOLD,BUY,,65
+7/22/2016,Intel Corp,INTC,ARGUS,JIM KELLEHER,BUY,BUY,,41
+8/23/2017,Intel Corp,INTC,ARGUS,JIM KELLEHER,,                             ,,45
+2/9/2023,Intel Corp,INTC,KEYBANK,JOHN VINH,POSITIVE,POSITIVE,,                  
+5/20/2021,Intel Corp,INTC,KEYBANK,JOHN VINH,OVERWEIGHT,OVERWEIGHT,,70
+1/11/2022,Intel Corp,INTC,KEYBANK,JOHN VINH,Overweight,Sector Weight,,
+1/3/2018,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,,EQUAL WEIGHT                 ,,39
+4/26/2019,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,                             ,                             ,64,63
+10/25/2019,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,,OVERWEIGHT                   ,,65
+4/24/2020,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,OVERWEIGHT,OVERWEIGHT,,61
+11/13/2020,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,,EQUAL WEIGHT                 ,,56
+1/14/2021,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,OVERWEIGHT,EQUAL WEIGHT,60,70
+1/22/2021,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,                             ,OVERWEIGHT                   ,70,72
+4/23/2021,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,,OVERWEIGHT                   ,,72
+2/23/2023,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,EQUAL WEIGHT,UNDERWEIGHT,28,30
+3/30/2023,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,,EQUAL WEIGHT                 ,,28
+5/19/2014,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,UNDERWEIGHT,UNDERWEIGHT,,24
+6/13/2014,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,UNDERWEIGHT,EQUAL WEIGHT,24,28
+7/16/2014,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,                             ,EQUAL WEIGHT                 ,28,30
+9/10/2014,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,EQUAL WEIGHT,EQUAL WEIGHT,,30
+10/19/2016,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,                             ,UNDERWEIGHT                  ,34,35
+1/27/2017,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,UNDERWEIGHT,EQUAL WEIGHT,35,38
+4/27/2018,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,Equal Weight                 ,Equal Weight                 ,,
+12/14/2020,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,Equal Weight                 ,Equal Weight                 ,,
+12/18/2019,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,Overweight                   ,Overweight                   ,66,66
+12/19/2018,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,Equal Weight                 ,Equal Weight                 ,,
+1/26/2018,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,Equal Weight                 ,Equal Weight                 ,,
+7/21/2016,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,Underweight                  ,Underweight                  ,31,31
+7/27/2018,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,Equal Weight                 ,Equal Weight                 ,,
+7/29/2022,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,Underweight                  ,Underweight                  ,35,35
+6/22/2018,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,Equal Weight                 ,Equal Weight                 ,,
+3/10/2020,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,Overweight                   ,Overweight                   ,69,69
+3/18/2020,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,Overweight                   ,Overweight                   ,61,61
+10/8/2021,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,Overweight                   ,Overweight                   ,,
+10/26/2018,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,Equal Weight                 ,Equal Weight                 ,,
+10/15/2014,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,,                             ,,30
+10/23/2017,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,,                             ,,38
+12/30/2020,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,,                             ,,60
+12/7/2021,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,,                             ,,55
+6/16/2020,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,OVERWEIGHT,OVERWEIGHT,65,61
+1/29/2021,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,,OVERWEIGHT                   ,,72
+2/22/2019,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,                             ,                             ,55,64
+7/28/2023,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,                             ,                             ,38,35
+9/19/2018,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,                             ,                             ,56,50
+10/23/2020,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,                             ,                             ,61,56
+6/10/2019,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,,OVERWEIGHT                   ,,61
+7/24/2020,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,                             ,                             ,65,61
+4/28/2023,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,                             ,                             ,28,31
+10/27/2023,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,                             ,                             ,35,39
+7/26/2019,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,                             ,OVERWEIGHT                   ,61,64
+1/24/2020,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,                             ,OVERWEIGHT                   ,66,71
+4/7/2021,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,,OVERWEIGHT                   ,,72
+7/23/2021,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,                             ,                             ,72,70
+10/6/2021,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,                             ,OVERWEIGHT                   ,70,67
+2/18/2022,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,,                             ,,55
+3/3/2022,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,                             ,UNDERWEIGHT                  ,55,47
+1/31/2025,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,                             ,                             ,25.58,25
+1/29/2024,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,,                             ,,48
+10/22/2021,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,Overweight,Equal Weight,55,55
+6/16/2023,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,Equal Weight                 ,Equal Weight                 ,38,38
+4/26/2024,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,Equal Weight,Equal Weight,36,36
+8/2/2024,Intel Corp,INTC,MORGAN STANLEY,JOSEPH MOORE,Equal Weight,Equal Weight,25,25
+10/19/2016,Intel Corp,INTC,STIFEL,KEVIN CASSIDY,,BUY                          ,,39
+7/27/2018,Intel Corp,INTC,STIFEL,KEVIN CASSIDY,                             ,                             ,60,52
+7/16/2014,Intel Corp,INTC,STIFEL,KEVIN CASSIDY,                             ,BUY                          ,31,36
+11/21/2014,Intel Corp,INTC,STIFEL,KEVIN CASSIDY,                             ,BUY                          ,36,39
+1/16/2015,Intel Corp,INTC,STIFEL,KEVIN CASSIDY,                             ,BUY                          ,39,41
+10/27/2017,Intel Corp,INTC,STIFEL,KEVIN CASSIDY,BUY,BUY,,46
+4/27/2018,Intel Corp,INTC,,KEVIN CASSIDY,Hold                         ,Hold                         ,57,57
+1/26/2018,Intel Corp,INTC,STIFEL,KEVIN CASSIDY,Buy                          ,Buy                          ,53,53
+7/29/2022,Intel Corp,INTC,,KEVIN CASSIDY,Sell                         ,Sell                         ,30,30
+10/23/2020,Intel Corp,INTC,,KEVIN CASSIDY,Sell                         ,Sell                         ,40,40
+6/21/2018,Intel Corp,INTC,STIFEL,KEVIN CASSIDY,                             ,HOLD                         ,57,60
+1/15/2016,Intel Corp,INTC,STIFEL,KEVIN CASSIDY,                             ,BUY                          ,36,37
+1/25/2019,Intel Corp,INTC,STIFEL,KEVIN CASSIDY,                             ,HOLD                         ,54,50
+4/2/2018,Intel Corp,INTC,STIFEL,KEVIN CASSIDY,,BUY                          ,,53
+7/28/2017,Intel Corp,INTC,STIFEL,KEVIN CASSIDY,                             ,BUY                          ,39,41
+10/19/2017,Intel Corp,INTC,STIFEL,KEVIN CASSIDY,                             ,BUY                          ,41,46
+1/3/2018,Intel Corp,INTC,STIFEL,KEVIN CASSIDY,NOT FOUND,NOT FOUND,,                  
+6/2/2015,Intel Corp,INTC,STIFEL,KEVIN CASSIDY,Market Perform               ,Market Perform               ,,
+7/26/2019,Intel Corp,INTC,,KEVIN CASSIDY,Buy                          ,Buy                          ,,
+4/25/2025,Intel Corp,INTC,,KEVIN CASSIDY,Sell,Sell,14,14
+4/30/2025,Intel Corp,INTC,,KEVIN CASSIDY,Sell,Sell,14,14
+9/19/2014,Intel Corp,INTC,JEFFERIES,MARK LIPACIS,NOT FOUND,NOT FOUND,,                  
+4/20/2016,Intel Corp,INTC,JEFFERIES,MARK LIPACIS,,                             ,,42
+7/21/2016,Intel Corp,INTC,JEFFERIES,MARK LIPACIS,                             ,                             ,42,44
+1/14/2021,Intel Corp,INTC,JEFFERIES,MARK LIPACIS,,HOLD                         ,,50
+7/18/2012,Intel Corp,INTC,,MARK LIPACIS,Hold                         ,Hold                         ,29,29
+7/27/2018,Intel Corp,INTC,JEFFERIES,MARK LIPACIS,Underperform                 ,Underperform                 ,44,44
+6/10/2013,Intel Corp,INTC,,MARK LIPACIS,Hold                         ,Hold                         ,27,27
+6/18/2021,Intel Corp,INTC,JEFFERIES,MARK LIPACIS,Hold                         ,Hold                         ,54,54
+3/13/2017,Intel Corp,INTC,JEFFERIES,MARK LIPACIS,Buy,Hold,,
+10/17/2012,Intel Corp,INTC,,MARK LIPACIS,Hold                         ,Hold                         ,24,24
+10/21/2015,Intel Corp,INTC,JEFFERIES,MARK LIPACIS,Buy                          ,Buy                          ,38,38
+9/19/2016,Intel Corp,INTC,JEFFERIES,MARK LIPACIS,Buy                          ,Buy                          ,,
+1/21/2020,Intel Corp,INTC,JEFFERIES,MARK LIPACIS,,                             ,,64
+10/12/2005,Intel Corp,INTC,NOMURA,MARK LIPACIS,                             ,                             ,31,20
+9/13/2013,Intel Corp,INTC,JEFFERIES,MARK LIPACIS,"\""BUY\""","\""HOLD\""",,30
+3/13/2015,Intel Corp,INTC,JEFFERIES,MARK LIPACIS,BUY,BUY,50,48
+10/22/2014,Intel Corp,INTC,JEFFERIES,MARK LIPACIS,,BUY                          ,,45
+6/26/2015,Intel Corp,INTC,JEFFERIES,MARK LIPACIS,                             ,BUY                          ,48,45
+11/22/2013,Intel Corp,INTC,JEFFERIES,MARK LIPACIS,                             ,BUY                          ,30,32
+10/14/2015,Intel Corp,INTC,JEFFERIES,MARK LIPACIS,                             ,BUY                          ,36,37
+4/16/2014,Intel Corp,INTC,JEFFERIES,MARK LIPACIS,                             ,BUY                          ,32,35
+7/16/2014,Intel Corp,INTC,JEFFERIES,MARK LIPACIS,                             ,                             ,40,45
+7/29/2022,Intel Corp,INTC,JEFFERIES,MARK LIPACIS,                             ,HOLD                         ,48,37
+7/23/2021,Intel Corp,INTC,JEFFERIES,MARK LIPACIS,                             ,HOLD                         ,54,52
+8/4/2020,Intel Corp,INTC,JEFFERIES,MARK LIPACIS,                             ,HOLD                         ,62,54
+1/22/2021,Intel Corp,INTC,JEFFERIES,MARK LIPACIS,                             ,HOLD                         ,53,57
+4/22/2020,Intel Corp,INTC,JEFFERIES,MARK LIPACIS,BUY,POSITIVE,53,62
+6/2/2015,Intel Corp,INTC,JEFFERIES,MARK LIPACIS,,BUY                          ,,48
+4/13/2015,Intel Corp,INTC,JEFFERIES,MARK LIPACIS,,BUY                          ,,48
+10/21/2013,Intel Corp,INTC,JEFFERIES,MARK LIPACIS,,BUY                          ,,30
+7/10/2017,Intel Corp,INTC,JEFFERIES,MARK LIPACIS,HOLD,UNDERPERFORM,,29
+6/22/2023,Intel Corp,INTC,JEFFERIES,MARK LIPACIS,                             ,HOLD                         ,32,35
+3/24/2021,Intel Corp,INTC,JEFFERIES,MARK LIPACIS,                             ,HOLD                         ,57,59
+1/14/2015,Intel Corp,INTC,JEFFERIES,MARK LIPACIS,                             ,BUY                          ,45,50
+5/27/2015,Intel Corp,INTC,JEFFERIES,MARK LIPACIS,,BUY                          ,,48
+7/15/2015,Intel Corp,INTC,JEFFERIES,MARK LIPACIS,                             ,                             ,45,35
+10/19/2016,Intel Corp,INTC,JEFFERIES,MARK LIPACIS,                             ,BUY                          ,49,46
+2/18/2022,Intel Corp,INTC,JEFFERIES,MARK LIPACIS,HOLD,HOLD,,48
+3/13/2014,Intel Corp,INTC,JEFFERIES,MARK LIPACIS,,BUY                          ,,32
+6/13/2014,Intel Corp,INTC,JEFFERIES,MARK LIPACIS,BUY,POSITIVE,35,40
+9/26/2014,Intel Corp,INTC,JEFFERIES,MARK LIPACIS,,BUY                          ,,45
+10/15/2014,Intel Corp,INTC,JEFFERIES,MARK LIPACIS,,BUY                          ,,45
+4/16/2024,Intel Corp,INTC,,MARK LIPACIS,In Line                      ,In Line                      ,40,40
+1/24/2020,Intel Corp,INTC,WEDBUSH,MATTHEW BRYSON,                             ,                             ,46,52.5
+1/22/2021,Intel Corp,INTC,WEDBUSH,MATTHEW BRYSON,                             ,UNDERPERFORM                 ,48,53
+7/29/2022,Intel Corp,INTC,WEDBUSH,MATTHEW BRYSON,                             ,UNDERPERFORM                 ,44,35
+4/24/2020,Intel Corp,INTC,WEDBUSH,MATTHEW BRYSON,Underperform                 ,Underperform                 ,51,51
+10/22/2021,Intel Corp,INTC,WEDBUSH,MATTHEW BRYSON,Underperform                 ,Underperform                 ,50 » 45         ,50 » 45
+10/25/2019,Intel Corp,INTC,WEDBUSH,MATTHEW BRYSON,Underperform                 ,Underperform                 ,47 » 48         ,47 » 48
+6/26/2019,Intel Corp,INTC,WEDBUSH,MATTHEW BRYSON,,UNDERPERFORM                 ,,37.5
+7/26/2019,Intel Corp,INTC,WEDBUSH,MATTHEW BRYSON,                             ,UNDERPERFORM                 ,37.5,42.9
+1/23/2024,Intel Corp,INTC,WEDBUSH,MATTHEW BRYSON,                             ,NEUTRAL                      ,35,45
+4/28/2023,Intel Corp,INTC,WEDBUSH,MATTHEW BRYSON,UNDERPERFORM,NEUTRAL,20,30
+1/27/2023,Intel Corp,INTC,WEDBUSH,MATTHEW BRYSON,Underperform                 ,Underperform                 ,20,20
+3/30/2023,Intel Corp,INTC,WEDBUSH,MATTHEW BRYSON,Underperform                 ,Underperform                 ,20,20
+7/28/2023,Intel Corp,INTC,WEDBUSH,MATTHEW BRYSON,Neutral,Neutral,35,35
+2/16/2024,Intel Corp,INTC,,MATTHEW BRYSON,Neutral,Neutral,40,40
+4/26/2024,Intel Corp,INTC,,MATTHEW BRYSON,Neutral,Neutral,32.5,32.5
+8/2/2024,Intel Corp,INTC,,MATTHEW BRYSON,Neutral,Neutral,25,25
+1/31/2025,Intel Corp,INTC,,MATTHEW PRISCO,Neutral,Neutral,22,22
+1/27/2017,Intel Corp,INTC,NEEDHAM,QUINN BOLTON,BUY,BUY,42,43
+4/27/2018,Intel Corp,INTC,NEEDHAM,QUINN BOLTON,BUY,BUY,50,62
+1/25/2019,Intel Corp,INTC,NEEDHAM,QUINN BOLTON,OUTPERFORM,SECTORPERFORM,,                  
+10/14/2015,Intel Corp,INTC,NEEDHAM,QUINN BOLTON,BUY,BUY,,37
+2/28/2020,Intel Corp,INTC,NEEDHAM,QUINN BOLTON,HOLD,HOLD,,                  
+7/21/2016,Intel Corp,INTC,NEEDHAM,QUINN BOLTON,BUY,BUY,,38
+1/14/2021,Intel Corp,INTC,NEEDHAM,QUINN BOLTON,HOLD,BUY,,70
+7/16/2015,Intel Corp,INTC,NEEDHAM,QUINN BOLTON,HOLD,BUY,,37
+8/28/2015,Intel Corp,INTC,NEEDHAM,QUINN BOLTON,,BUY                          ,,37
+1/26/2018,Intel Corp,INTC,NEEDHAM,QUINN BOLTON,                             ,BUY                          ,45,50
+10/25/2019,Intel Corp,INTC,NEEDHAM,QUINN BOLTON,HOLD,HOLD,,                  
+10/22/2021,Intel Corp,INTC,,QUINN BOLTON,Buy                          ,Buy                          ,60,60
+4/29/2022,Intel Corp,INTC,,QUINN BOLTON,Buy                          ,Buy                          ,55,55
+2/23/2023,Intel Corp,INTC,,QUINN BOLTON,Buy                          ,Buy                          ,32,32
+4/28/2023,Intel Corp,INTC,,QUINN BOLTON,Buy,Buy,36,36
+6/22/2023,Intel Corp,INTC,,QUINN BOLTON,Buy,Buy,36,36
+7/28/2023,Intel Corp,INTC,,QUINN BOLTON,Buy,Buy,40,40
+10/5/2023,Intel Corp,INTC,,QUINN BOLTON,Buy,Buy,40,40
+4/26/2024,Intel Corp,INTC,,QUINN BOLTON,Hold                         ,Hold                         ,,
+11/1/2024,Intel Corp,INTC,,QUINN BOLTON,Hold                         ,Hold                         ,,
+1/31/2025,Intel Corp,INTC,,QUINN BOLTON,Hold,Hold,,
+4/14/2025,Intel Corp,INTC,,QUINN BOLTON,Hold,Hold,,
+4/25/2025,Intel Corp,INTC,,QUINN BOLTON,Hold,Hold,,
+10/27/2023,Intel Corp,INTC,,QUINN BOLTON,Buy,Buy,40,40
+1/26/2024,Intel Corp,INTC,,QUINN BOLTON,Buy,Hold,,
+4/20/2016,Intel Corp,INTC,DEUTSCHE BANK,ROSS SEYMORE,BUY,BUY,,37
+10/27/2017,Intel Corp,INTC,DEUTSCHE BANK,ROSS SEYMORE,,BUY                          ,,43
+7/27/2018,Intel Corp,INTC,DEUTSCHE BANK,ROSS SEYMORE,BUY,BUY,,64
+4/26/2019,Intel Corp,INTC,DEUTSCHE BANK,ROSS SEYMORE,                             ,BUY                          ,65,62
+1/24/2020,Intel Corp,INTC,DEUTSCHE BANK,ROSS SEYMORE,                             ,                             ,64,72
+7/24/2020,Intel Corp,INTC,DEUTSCHE BANK,ROSS SEYMORE,HOLD,BUY,70,60
+10/23/2020,Intel Corp,INTC,DEUTSCHE BANK,ROSS SEYMORE,                             ,HOLD                         ,60,55
+9/8/2021,Intel Corp,INTC,DEUTSCHE BANK,ROSS SEYMORE,,HOLD                         ,,58
+10/22/2021,Intel Corp,INTC,DEUTSCHE BANK,ROSS SEYMORE,                             ,HOLD                         ,58,55
+7/20/2022,Intel Corp,INTC,DEUTSCHE BANK,ROSS SEYMORE,                             ,HOLD                         ,55,45
+9/8/2022,Intel Corp,INTC,DEUTSCHE BANK,ROSS SEYMORE,                             ,HOLD                         ,38,35
+10/18/2022,Intel Corp,INTC,DEUTSCHE BANK,ROSS SEYMORE,                             ,HOLD                         ,35,32
+1/27/2023,Intel Corp,INTC,DEUTSCHE BANK,ROSS SEYMORE,                             ,HOLD                         ,32,28
+3/30/2023,Intel Corp,INTC,DEUTSCHE BANK,ROSS SEYMORE,                             ,HOLD                         ,28,32
+11/22/2013,Intel Corp,INTC,DEUTSCHE BANK,ROSS SEYMORE,                             ,BUY                          ,26,28
+4/16/2014,Intel Corp,INTC,DEUTSCHE BANK,ROSS SEYMORE,                             ,BUY                          ,28,30
+10/6/2014,Intel Corp,INTC,DEUTSCHE BANK,ROSS SEYMORE,BUY,BUY,,40
+11/11/2015,Intel Corp,INTC,DEUTSCHE BANK,ROSS SEYMORE,,BUY                          ,,37
+4/15/2015,Intel Corp,INTC,DEUTSCHE BANK,ROSS SEYMORE,Buy                          ,Buy                          ,39,39
+1/4/2016,Intel Corp,INTC,DEUTSCHE BANK,ROSS SEYMORE,Buy                          ,Buy                          ,38,38
+1/16/2015,Intel Corp,INTC,DEUTSCHE BANK,ROSS SEYMORE,Buy                          ,Buy                          ,42,42
+7/16/2014,Intel Corp,INTC,DEUTSCHE BANK,ROSS SEYMORE,Buy                          ,Buy                          ,36,36
+7/21/2016,Intel Corp,INTC,DEUTSCHE BANK,ROSS SEYMORE,Buy                          ,Buy                          ,35,35
+6/13/2014,Intel Corp,INTC,DEUTSCHE BANK,ROSS SEYMORE,Buy                          ,Buy                          ,35,35
+3/13/2015,Intel Corp,INTC,DEUTSCHE BANK,ROSS SEYMORE,Buy                          ,Buy                          ,48,48
+5/9/2019,Intel Corp,INTC,DEUTSCHE BANK,ROSS SEYMORE,Buy                          ,Buy                          ,60,60
+10/19/2016,Intel Corp,INTC,DEUTSCHE BANK,ROSS SEYMORE,Buy                          ,Buy                          ,,
+2/26/2019,Intel Corp,INTC,DEUTSCHE BANK,ROSS SEYMORE,                             ,                             ,55,65
+2/3/2020,Intel Corp,INTC,DEUTSCHE BANK,ROSS SEYMORE,,                             ,,72
+1/3/2018,Intel Corp,INTC,DEUTSCHE BANK,ROSS SEYMORE,,BUY                          ,,50
+1/23/2017,Intel Corp,INTC,DEUTSCHE BANK,ROSS SEYMORE,,BUY                          ,,47
+6/15/2015,Intel Corp,INTC,DEUTSCHE BANK,ROSS SEYMORE,,BUY                          ,,37
+8/4/2023,Intel Corp,INTC,DEUTSCHE BANK,ROSS SEYMORE,,HOLD                         ,,38
+12/18/2023,Intel Corp,INTC,DEUTSCHE BANK,ROSS SEYMORE,,HOLD                         ,,42
+7/26/2019,Intel Corp,INTC,DEUTSCHE BANK,ROSS SEYMORE,                             ,BUY                          ,60,62
+3/21/2016,Intel Corp,INTC,DEUTSCHE BANK,ROSS SEYMORE,,BUY                          ,,37
+4/2/2018,Intel Corp,INTC,DEUTSCHE BANK,ROSS SEYMORE,,BUY                          ,,55
+7/29/2022,Intel Corp,INTC,DEUTSCHE BANK,ROSS SEYMORE,Hold                         ,Hold                         ,38,38
+5/31/2023,Intel Corp,INTC,DEUTSCHE BANK,ROSS SEYMORE,Hold,Hold,32,32
+7/28/2023,Intel Corp,INTC,DEUTSCHE BANK,ROSS SEYMORE,Hold,Hold,38,38
+8/2/2024,Intel Corp,INTC,,ROSS SEYMORE,Hold,Hold,27,27
+10/3/2024,Intel Corp,INTC,,ROSS SEYMORE,Hold,Hold,25,25
+5/21/2025,Intel Corp,INTC,,ROSS SEYMORE,Hold                         ,Hold                         ,23,23
+4/3/2014,Intel Corp,INTC,PIPER SANDLER,RUBEN ROY,,                             ,,30
+10/9/2015,Intel Corp,INTC,PIPER SANDLER,RUBEN ROY,POSITIVE,POSITIVE,,37
+1/26/2018,Intel Corp,INTC,ROTH MKM,RUBEN ROY,,BUY                          ,,55
+6/22/2018,Intel Corp,INTC,ROTH MKM,RUBEN ROY,,BUY                          ,,61
+8/24/2018,Intel Corp,INTC,ROTH MKM,RUBEN ROY,,                             ,,58
+11/19/2018,Intel Corp,INTC,ROTH MKM,RUBEN ROY,BUY,POSITIVE,,58
+12/17/2018,Intel Corp,INTC,ROTH MKM,RUBEN ROY,,BUY                          ,,58
+1/25/2019,Intel Corp,INTC,ROTH MKM,RUBEN ROY,,BUY                          ,,58
+4/3/2019,Intel Corp,INTC,ROTH MKM,RUBEN ROY,,BUY                          ,,58
+5/25/2021,Intel Corp,INTC,WESTPARK,RUBEN ROY,,HOLD                         ,,55
+10/26/2018,Intel Corp,INTC,ROTH MKM,RUBEN ROY,Buy                          ,Buy                          ,55,55
+4/16/2014,Intel Corp,INTC,PIPER SANDLER,RUBEN ROY,OVERWEIGHT,IN LINE,,30
+1/16/2015,Intel Corp,INTC,PIPER SANDLER,RUBEN ROY,OVERWEIGHT,OVERWEIGHT,39,41
+2/22/2017,Intel Corp,INTC,ROTH MKM,RUBEN ROY,BUY,BUY,,42
+7/16/2015,Intel Corp,INTC,PIPER SANDLER,RUBEN ROY,                             ,OVERWEIGHT                   ,38,37
+11/18/2014,Intel Corp,INTC,PIPER SANDLER,RUBEN ROY,OVERWEIGHT,OVERWEIGHT,,38
+10/14/2015,Intel Corp,INTC,PIPER SANDLER,RUBEN ROY,,OVERWEIGHT                   ,,37
+7/28/2023,Intel Corp,INTC,STIFEL,RUBEN ROY,                             ,HOLD                         ,28,32
+10/27/2023,Intel Corp,INTC,STIFEL,RUBEN ROY,                             ,HOLD                         ,32,38
+1/2/2024,Intel Corp,INTC,STIFEL,RUBEN ROY,,HOLD                         ,,45
+6/3/2015,Intel Corp,INTC,PIPER SANDLER,RUBEN ROY,,OVERWEIGHT                   ,,38
+7/7/2015,Intel Corp,INTC,PIPER SANDLER,RUBEN ROY,,OVERWEIGHT                   ,,38
+6/13/2014,Intel Corp,INTC,PIPER SANDLER,RUBEN ROY,OVERWEIGHT,POSITIVE,30,31
+7/16/2014,Intel Corp,INTC,PIPER SANDLER,RUBEN ROY,                             ,OVERWEIGHT                   ,31,37
+10/15/2014,Intel Corp,INTC,PIPER SANDLER,RUBEN ROY,OVERWEIGHT,OVERWEIGHT,37,38
+5/8/2024,Intel Corp,INTC,STIFEL,RUBEN ROY,                             ,HOLD                         ,45,34
+9/8/2022,Intel Corp,INTC,,RUBEN ROY,Hold                         ,Hold                         ,32,32
+10/25/2024,Intel Corp,INTC,,RUBEN ROY,Hold,Hold,25,25
+1/31/2025,Intel Corp,INTC,,RUBEN ROY,Hold,Hold,21,21
+1/16/2024,Intel Corp,INTC,,RYAN MACWILLIAMS,Equal Weight,Equal Weight,44,44
+4/26/2024,Intel Corp,INTC,,RYAN MACWILLIAMS,Equal Weight,Equal Weight,40,40
+3/1/2023,Intel Corp,INTC,RAYMOND JAMES,SRINI PAJJURI,,OUTPERFORM                   ,,30
+3/20/2023,Intel Corp,INTC,RAYMOND JAMES,SRINI PAJJURI,,OUTPERFORM                   ,,33
+3/30/2023,Intel Corp,INTC,RAYMOND JAMES,SRINI PAJJURI,                             ,OUTPERFORM                   ,33,35
+4/15/2019,Intel Corp,INTC,MACQUARIE,SRINI PAJJURI,,                             ,,62
+4/26/2019,Intel Corp,INTC,MACQUARIE,SRINI PAJJURI,                             ,OUTPERFORM                   ,62,60
+2/18/2022,Intel Corp,INTC,SMBC NIKKO,SRINI PAJJURI,                             ,OUTPERFORM                   ,68,62
+7/28/2023,Intel Corp,INTC,RAYMOND JAMES,SRINI PAJJURI,                             ,OUTPERFORM                   ,35,42
+4/11/2018,Intel Corp,INTC,MACQUARIE,SRINI PAJJURI,                             ,OUTPERFORM                   ,55,58
+1/13/2021,Intel Corp,INTC,SMBC NIKKO,SRINI PAJJURI,,OUTPERFORM                   ,,65
+10/25/2023,Intel Corp,INTC,,SRINI PAJJURI,Outperform,Outperform,40,40
+12/12/2023,Intel Corp,INTC,,SRINI PAJJURI,Outperform,Outperform,48,48
+1/19/2024,Intel Corp,INTC,,SRINI PAJJURI,Outperform,Outperform,54,54
+1/26/2024,Intel Corp,INTC,,SRINI PAJJURI,Outperform,Outperform,52,52
+8/15/2017,Intel Corp,INTC,BERNSTEIN,STACY RASGON,,UNDERPERFORM                 ,,30
+4/27/2018,Intel Corp,INTC,BERNSTEIN,STACY RASGON,                             ,                             ,38,54
+1/24/2020,Intel Corp,INTC,BERNSTEIN,STACY RASGON,                             ,                             ,42,50
+4/3/2023,Intel Corp,INTC,BERNSTEIN,STACY RASGON,MARKET PERFORM,UNDERPERFORM,,30
+7/14/2015,Intel Corp,INTC,BERNSTEIN,STACY RASGON,                             ,                             ,29,25
+3/21/2016,Intel Corp,INTC,BERNSTEIN,STACY RASGON,SHORT,SHORT,,26
+3/1/2017,Intel Corp,INTC,BERNSTEIN,STACY RASGON,MARKET PERFORM,UNDERPERFORM,36,30
+6/26/2018,Intel Corp,INTC,BERNSTEIN,STACY RASGON,MARKET PERFORM,UNDERPERFORM,54,42
+10/24/2019,Intel Corp,INTC,BERNSTEIN,STACY RASGON,,                             ,,54
+5/10/2017,Intel Corp,INTC,BERNSTEIN,STACY RASGON,,UNDERPERFORM                 ,,30
+2/15/2023,Intel Corp,INTC,BERNSTEIN,STACY RASGON,NEGATIVE,NEGATIVE,,                  
+3/26/2020,Intel Corp,INTC,BERNSTEIN,STACY RASGON,UNDERPERFORM,MARKET PERFORM,,50
+4/24/2020,Intel Corp,INTC,BERNSTEIN,STACY RASGON,                             ,                             ,50,55
+7/1/2019,Intel Corp,INTC,BERNSTEIN,STACY RASGON,,UNDERPERFORM                 ,,39
+1/25/2019,Intel Corp,INTC,BERNSTEIN,STACY RASGON,,UNDERPERFORM                 ,,42
+10/27/2023,Intel Corp,INTC,BERNSTEIN,STACY RASGON,                             ,MARKET PERFORM               ,34,36
+1/4/2024,Intel Corp,INTC,BERNSTEIN,STACY RASGON,                             ,MARKET PERFORM               ,36,42
+7/24/2020,Intel Corp,INTC,BERNSTEIN,STACY RASGON,MARKET PERFORM,UNDERPERFORM,55,45
+4/26/2024,Intel Corp,INTC,,STACY RASGON,Market Perform,Market Perform,35,35
+8/31/2016,Intel Corp,INTC,ROTH MKM,SUJI DESILVA,NOT FOUND,NOT FOUND,,                  
+10/19/2016,Intel Corp,INTC,ROTH MKM,SUJI DESILVA,                             ,                             ,43,40
+1/27/2017,Intel Corp,INTC,ROTH MKM,SUJI DESILVA,                             ,BUY                          ,40,43
+10/27/2017,Intel Corp,INTC,ROTH MKM,SUJI DESILVA,                             ,BUY                          ,43,50
+1/26/2018,Intel Corp,INTC,ROTH MKM,SUJI DESILVA,                             ,BUY                          ,50,57
+4/27/2018,Intel Corp,INTC,ROTH MKM,SUJI DESILVA,                             ,                             ,57,65
+10/26/2018,Intel Corp,INTC,ROTH MKM,SUJI DESILVA,                             ,                             ,65,60
+1/25/2019,Intel Corp,INTC,ROTH MKM,SUJI DESILVA,,BUY                          ,,60
+7/26/2019,Intel Corp,INTC,ROTH MKM,SUJI DESILVA,,BUY                          ,,60
+10/23/2020,Intel Corp,INTC,ROTH MKM,SUJI DESILVA,NEUTRAL,IN LINE,55,50
+1/22/2021,Intel Corp,INTC,ROTH MKM,SUJI DESILVA,                             ,NEUTRAL                      ,50,60
+3/24/2021,Intel Corp,INTC,ROTH MKM,SUJI DESILVA,                             ,NEUTRAL                      ,60,65
+10/22/2021,Intel Corp,INTC,ROTH MKM,SUJI DESILVA,                             ,NEUTRAL                      ,60,53
+7/29/2022,Intel Corp,INTC,ROTH MKM,SUJI DESILVA,                             ,NEUTRAL                      ,48,40
+7/23/2021,Intel Corp,INTC,ROTH MKM,SUJI DESILVA,                             ,NEUTRAL                      ,65,60
+1/24/2020,Intel Corp,INTC,ROTH MKM,SUJI DESILVA,                             ,BUY                          ,60,75
+2/22/2022,Intel Corp,INTC,ROTH MKM,SUJI DESILVA,,NEUTRAL                      ,,48
+7/24/2020,Intel Corp,INTC,ROTH MKM,SUJI DESILVA,BUY,NEUTRAL,75,55
+3/4/2014,Intel Corp,INTC,TOPEKA,SUJI DESILVA,,BUY                          ,,28
+6/13/2014,Intel Corp,INTC,TOPEKA,SUJI DESILVA,                             ,BUY                          ,30,34
+9/22/2023,Intel Corp,INTC,,SUJI DESILVA,Neutral,Neutral,35,35
+10/4/2023,Intel Corp,INTC,,SUJI DESILVA,Neutral,Neutral,35,35
+4/26/2024,Intel Corp,INTC,,SUJI DESILVA,Neutral,Neutral,35,35
+8/2/2024,Intel Corp,INTC,,SUJI DESILVA,Neutral,Neutral,25,25
+4/28/2017,Intel Corp,INTC,TD COWEN,TIMOTHY ARCURI,,MARKET PERFORM               ,,39
+4/5/2018,Intel Corp,INTC,UBS,TIMOTHY ARCURI,,BUY                          ,,70
+4/25/2018,Intel Corp,INTC,UBS,TIMOTHY ARCURI,,BUY                          ,,70
+1/25/2019,Intel Corp,INTC,UBS,TIMOTHY ARCURI,                             ,BUY                          ,60,58
+7/24/2020,Intel Corp,INTC,UBS,TIMOTHY ARCURI,                             ,BUY                          ,70,64
+10/23/2020,Intel Corp,INTC,UBS,TIMOTHY ARCURI,                             ,BUY                          ,67,62
+10/22/2021,Intel Corp,INTC,UBS,TIMOTHY ARCURI,NEUTRAL,BUY,73,58
+1/27/2022,Intel Corp,INTC,UBS,TIMOTHY ARCURI,                             ,NEUTRAL                      ,58,53
+8/2/2024,Intel Corp,INTC,UBS,TIMOTHY ARCURI,                             ,NEUTRAL                      ,37,32
+4/16/2014,Intel Corp,INTC,TD COWEN,TIMOTHY ARCURI,Market Perform               ,Market Perform               ,24,24
+1/22/2021,Intel Corp,INTC,UBS,TIMOTHY ARCURI,Buy                          ,Buy                          ,75,75
+7/11/2016,Intel Corp,INTC,TD COWEN,TIMOTHY ARCURI,Market Perform               ,Market Perform               ,36,36
+7/16/2014,Intel Corp,INTC,TD COWEN,TIMOTHY ARCURI,Market Perform               ,Market Perform               ,33,33
+10/14/2015,Intel Corp,INTC,TD COWEN,TIMOTHY ARCURI,Market Perform               ,Market Perform               ,34,34
+9/16/2016,Intel Corp,INTC,TD COWEN,TIMOTHY ARCURI,Market Perform               ,Market Perform               ,38,38
+11/20/2015,Intel Corp,INTC,TD COWEN,TIMOTHY ARCURI,                             ,MARKET PERFORM               ,34,35
+1/27/2017,Intel Corp,INTC,TD COWEN,TIMOTHY ARCURI,,MARKET PERFORM               ,,39
+3/12/2015,Intel Corp,INTC,TD COWEN,TIMOTHY ARCURI,,MARKET PERFORM               ,,38
+11/18/2014,Intel Corp,INTC,TD COWEN,TIMOTHY ARCURI,,MARKET PERFORM               ,,34
+4/20/2016,Intel Corp,INTC,TD COWEN,TIMOTHY ARCURI,                             ,                             ,33,32
+4/23/2021,Intel Corp,INTC,UBS,TIMOTHY ARCURI,                             ,NEUTRAL                      ,75,73
+7/28/2023,Intel Corp,INTC,UBS,TIMOTHY ARCURI,                             ,NEUTRAL                      ,35,38
+10/25/2019,Intel Corp,INTC,UBS,TIMOTHY ARCURI,                             ,BUY                          ,58,60
+1/24/2020,Intel Corp,INTC,UBS,TIMOTHY ARCURI,                             ,BUY                          ,60,75
+1/16/2015,Intel Corp,INTC,TD COWEN,TIMOTHY ARCURI,,MARKET PERFORM               ,,36
+4/10/2015,Intel Corp,INTC,TD COWEN,TIMOTHY ARCURI,NOT FOUND,NOT FOUND,,                  
+4/15/2015,Intel Corp,INTC,TD COWEN,TIMOTHY ARCURI,                             ,                             ,36,33
+7/13/2015,Intel Corp,INTC,TD COWEN,TIMOTHY ARCURI,,                             ,,32
+1/15/2016,Intel Corp,INTC,TD COWEN,TIMOTHY ARCURI,,MARKET PERFORM               ,,35
+10/14/2020,Intel Corp,INTC,UBS,TIMOTHY ARCURI,                             ,BUY                          ,64,67
+3/24/2021,Intel Corp,INTC,UBS,TIMOTHY ARCURI,BUY,POSITIVE,,75
+2/18/2022,Intel Corp,INTC,UBS,TIMOTHY ARCURI,NEUTRAL,IN LINE,,                  
+3/28/2014,Intel Corp,INTC,TD COWEN,TIMOTHY ARCURI,,MARKET PERFORM               ,,24
+6/13/2014,Intel Corp,INTC,TD COWEN,TIMOTHY ARCURI,                             ,MARKET PERFORM               ,24,27.5
+10/14/2014,Intel Corp,INTC,TD COWEN,TIMOTHY ARCURI,,MARKET PERFORM               ,,33
+4/14/2025,Intel Corp,INTC,UBS,TIMOTHY ARCURI,,NEUTRAL                      ,,22
+11/1/2024,Intel Corp,INTC,UBS,TIMOTHY ARCURI,                             ,NEUTRAL                      ,25,26
+3/7/2024,Intel Corp,INTC,UBS,TIMOTHY ARCURI,                             ,NEUTRAL                      ,38,46
+4/1/2024,Intel Corp,INTC,UBS,TIMOTHY ARCURI,NEUTRAL,NEUTRAL,,50
+4/25/2025,Intel Corp,INTC,,TIMOTHY ARCURI,Neutral,Neutral,21,21
+7/14/2025,Intel Corp,INTC,,TIMOTHY ARCURI,Neutral,Neutral,25,25
+1/21/2025,Intel Corp,INTC,,TIMOTHY ARCURI,Neutral,Neutral,23,23
+7/27/2018,Intel Corp,INTC,,TIMOTHY ARCURI,Buy,Neutral,,
+7/29/2022,Intel Corp,INTC,,TIMOTHY ARCURI,Neutral                      ,Neutral                      ,41,41
+4/26/2024,Intel Corp,INTC,BARCLAYS,TOM O'MALLEY,                             ,EQUAL WEIGHT                 ,44,40
+4/22/2025,Intel Corp,INTC,BARCLAYS,TOM O'MALLEY,                             ,                             ,23,19
+1/17/2025,Intel Corp,INTC,BARCLAYS,TOM O'MALLEY,Equal Weight,Equal Weight,23,23
+2/18/2021,Intel Corp,INTC,GLOBAL EQUITIES,TRIP CHOWDHRY,,OVERWEIGHT                   ,,75
+3/21/2024,Intel Corp,INTC,GLOBAL EQUITIES,TRIP CHOWDHRY,                             ,OVERWEIGHT                   ,65,100
+10/19/2016,Intel Corp,INTC,BAIRD,TRISTAN GERRA,,OUTPERFORM                   ,,42
+11/29/2016,Intel Corp,INTC,BAIRD,TRISTAN GERRA,,OUTPERFORM                   ,,42
+2/26/2018,Intel Corp,INTC,BAIRD,TRISTAN GERRA,,OUTPERFORM                   ,,60
+4/24/2020,Intel Corp,INTC,BAIRD,TRISTAN GERRA,,OUTPERFORM                   ,,85
+3/24/2021,Intel Corp,INTC,BAIRD,TRISTAN GERRA,,OUTPERFORM                   ,,85
+10/22/2021,Intel Corp,INTC,BAIRD,TRISTAN GERRA,                             ,OUTPERFORM                   ,85,60
+7/29/2022,Intel Corp,INTC,BAIRD,TRISTAN GERRA,NEUTRAL,OUTPERFORM,60,40
+10/31/2022,Intel Corp,INTC,BAIRD,TRISTAN GERRA,,NEUTRAL                      ,,34
+1/27/2023,Intel Corp,INTC,BAIRD,TRISTAN GERRA,                             ,NEUTRAL                      ,34,32
+3/28/2017,Intel Corp,INTC,BAIRD,TRISTAN GERRA,,OUTPERFORM                   ,,42
+6/13/2014,Intel Corp,INTC,BAIRD,TRISTAN GERRA,POSITIVE,NEUTRAL,26,29
+9/4/2019,Intel Corp,INTC,BAIRD,TRISTAN GERRA,,OUTPERFORM                   ,,65
+1/25/2019,Intel Corp,INTC,BAIRD,TRISTAN GERRA,                             ,OUTPERFORM                   ,64,60
+1/26/2018,Intel Corp,INTC,BAIRD,TRISTAN GERRA,                             ,OUTPERFORM                   ,50,60
+3/26/2018,Intel Corp,INTC,BAIRD,TRISTAN GERRA,,OUTPERFORM                   ,,62
+7/26/2019,Intel Corp,INTC,BAIRD,TRISTAN GERRA,                             ,OUTPERFORM                   ,60,65
+1/24/2020,Intel Corp,INTC,BAIRD,TRISTAN GERRA,                             ,OUTPERFORM                   ,70,85
+3/3/2016,Intel Corp,INTC,BAIRD,TRISTAN GERRA,NEUTRAL,OUTPERFORM,33,38
+11/6/2019,Intel Corp,INTC,BAIRD,TRISTAN GERRA,,OUTPERFORM                   ,,70
+7/27/2020,Intel Corp,INTC,BAIRD,TRISTAN GERRA,,OUTPERFORM                   ,,65
+7/28/2023,Intel Corp,INTC,BAIRD,TRISTAN GERRA,                             ,NEUTRAL                      ,32,40
+7/21/2016,Intel Corp,INTC,BAIRD,TRISTAN GERRA,,OUTPERFORM                   ,,38
+9/16/2016,Intel Corp,INTC,BAIRD,TRISTAN GERRA,                             ,OUTPERFORM                   ,40,42
+1/27/2017,Intel Corp,INTC,BAIRD,TRISTAN GERRA,,OUTPERFORM                   ,,42
+10/27/2017,Intel Corp,INTC,BAIRD,TRISTAN GERRA,                             ,OUTPERFORM                   ,45,50
+12/5/2019,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,BUY,BUY,,                  
+1/24/2020,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,                             ,                             ,64,71
+10/23/2020,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,                             ,BUY                          ,63,60
+11/13/2020,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,BUY,BUY,,60
+2/25/2021,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,                             ,BUY                          ,68,70
+7/23/2021,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,                             ,BUY                          ,72,70
+10/22/2021,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,NEUTRAL,BUY,70,55
+1/27/2022,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,                             ,NEUTRAL                      ,55,53
+11/22/2022,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,,NEUTRAL                      ,,32
+1/27/2023,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,                             ,NEUTRAL                      ,32,29
+12/26/2017,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,Buy                          ,Buy                          ,47,47
+7/21/2016,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,Buy                          ,Buy                          ,35,35
+9/21/2015,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,Neutral                      ,Neutral                      ,31,31
+1/18/2013,Intel Corp,INTC,CRT CAPITAL,VIJAY RAKESH,,NEUTRAL                      ,,18
+7/11/2019,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,                             ,                             ,52,56
+1/25/2019,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,                             ,BUY                          ,58,56
+5/10/2019,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,BUY,BUY,58,56
+7/26/2019,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,                             ,BUY                          ,52,58
+1/22/2021,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,BUY,BUY,60,68
+9/19/2016,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,BUY,BUY,,42
+2/22/2023,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,,NEUTRAL                      ,,29
+1/12/2016,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,NEUTRAL,BUY,,37
+4/28/2023,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,                             ,NEUTRAL                      ,29,30
+7/24/2023,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,,NEUTRAL                      ,,33
+7/28/2023,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,                             ,NEUTRAL                      ,33,36
+10/27/2023,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,                             ,NEUTRAL                      ,36,37
+1/5/2024,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,                             ,BUY                          ,50,58
+7/14/2015,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,,NEUTRAL                      ,,32
+10/6/2015,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,,NEUTRAL                      ,,31
+4/20/2016,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,,BUY                          ,,36
+1/27/2017,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,BUY,BUY,,42
+4/10/2017,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,,BUY                          ,,42
+10/9/2017,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,,BUY                          ,,45
+10/27/2017,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,OUTPERFORM,OUTPERFORM,45,47
+1/26/2018,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,                             ,BUY                          ,47,52
+11/18/2019,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,,BUY                          ,,60
+7/24/2020,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,                             ,BUY                          ,67,63
+3/24/2021,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,BUY,BUY,70,72
+1/10/2025,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,                             ,NEUTRAL                      ,23,21
+4/25/2025,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,                             ,NEUTRAL                      ,23,22
+11/1/2024,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,                             ,NEUTRAL                      ,22,23
+2/24/2025,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,NEUTRAL,NEUTRAL,,23
+3/30/2023,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,Neutral                      ,Neutral                      ,29,29
+6/22/2023,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,Neutral,Neutral,30,30
+11/16/2023,Intel Corp,INTC,MIZUHO,VIJAY RAKESH,Neutral,Buy,50,50
+1/26/2024,Intel Corp,INTC,,VIJAY RAKESH,Buy,Buy,55,55
+4/26/2024,Intel Corp,INTC,,VIJAY RAKESH,Buy,Buy,45,45
+8/8/2024,Intel Corp,INTC,,VIJAY RAKESH,Outperform,Neutral,22,22
+3/7/2016,Intel Corp,INTC,BAML,VIVEK ARYA,,                             ,,36
+7/27/2018,Intel Corp,INTC,BAML,VIVEK ARYA,NEUTRAL,BUY,62,56
+12/2/2019,Intel Corp,INTC,BAML,VIVEK ARYA,,                             ,,70
+1/24/2020,Intel Corp,INTC,BAML,VIVEK ARYA,                             ,BUY                          ,70,75
+7/24/2020,Intel Corp,INTC,BAML,VIVEK ARYA,NEUTRAL,BUY,70,62
+2/18/2022,Intel Corp,INTC,BAML,VIVEK ARYA,,UNDERPERFORM                 ,,52
+6/29/2022,Intel Corp,INTC,BAML,VIVEK ARYA,                             ,UNDERPERFORM                 ,47,39
+10/27/2017,Intel Corp,INTC,BAML,VIVEK ARYA,NEUTRAL,BUY,42,49
+1/4/2019,Intel Corp,INTC,BAML,VIVEK ARYA,NEUTRAL,BUY,52,60
+6/22/2020,Intel Corp,INTC,BAML,VIVEK ARYA,,BUY                          ,,70
+5/7/2021,Intel Corp,INTC,BAML,VIVEK ARYA,,UNDERPERFORM                 ,,62
+1/25/2019,Intel Corp,INTC,BAML,VIVEK ARYA,                             ,BUY                          ,60,57
+12/8/2021,Intel Corp,INTC,BAML,VIVEK ARYA,                             ,UNDERPERFORM                 ,45,50
+4/2/2019,Intel Corp,INTC,BAML,VIVEK ARYA,                             ,BUY                          ,57,62
+3/18/2021,Intel Corp,INTC,BAML,VIVEK ARYA,,UNDERPERFORM                 ,,58
+10/22/2021,Intel Corp,INTC,BAML,VIVEK ARYA,                             ,                             ,52,45
+8/17/2020,Intel Corp,INTC,BAML,VIVEK ARYA,,                             ,,55
+5/10/2023,Intel Corp,INTC,BAML,VIVEK ARYA,                             ,UNDERPERFORM                 ,25,28
+10/10/2023,Intel Corp,INTC,BAML,VIVEK ARYA,                             ,UNDERPERFORM                 ,32,35
+1/26/2018,Intel Corp,INTC,BAML,VIVEK ARYA,                             ,BUY                          ,49,52
+3/8/2018,Intel Corp,INTC,BAML,VIVEK ARYA,                             ,BUY                          ,52,61
+1/19/2021,Intel Corp,INTC,BAML,VIVEK ARYA,,UNDERPERFORM                 ,,58
+1/27/2022,Intel Corp,INTC,BAML,VIVEK ARYA,                             ,UNDERPERFORM                 ,55,52
+6/8/2022,Intel Corp,INTC,BAML,VIVEK ARYA,,UNDERPERFORM                 ,,47
+6/13/2014,Intel Corp,INTC,BAML,VIVEK ARYA,                             ,BUY                          ,30,34
+4/12/2024,Intel Corp,INTC,BAML,VIVEK ARYA,                             ,NEUTRAL                      ,50,44
+1/27/2023,Intel Corp,INTC,BAML,VIVEK ARYA,Underperform                 ,Underperform                 ,25,25
+12/15/2023,Intel Corp,INTC,BAML,VIVEK ARYA,Underperform,Neutral,50,50
+8/2/2024,Intel Corp,INTC,,VIVEK ARYA,Neutral,Underperform,23,23
+12/3/2024,Intel Corp,INTC,,VIVEK ARYA,Underperform,Underperform,21,21
+10/27/2017,Intel Corp,INTC,TRUIST,WILLIAM STEIN,HOLD,HOLD,39,43
+1/26/2018,Intel Corp,INTC,TRUIST,WILLIAM STEIN,HOLD,HOLD,,50
+4/27/2018,Intel Corp,INTC,TRUIST,WILLIAM STEIN,,                             ,,57
+1/24/2020,Intel Corp,INTC,TRUIST,WILLIAM STEIN,,                             ,,70
+10/23/2020,Intel Corp,INTC,TRUIST,WILLIAM STEIN,                             ,HOLD                         ,61,51
+7/23/2021,Intel Corp,INTC,TRUIST,WILLIAM STEIN,                             ,HOLD                         ,69,60
+10/22/2021,Intel Corp,INTC,TRUIST,WILLIAM STEIN,                             ,HOLD                         ,60,52
+4/8/2022,Intel Corp,INTC,TRUIST,WILLIAM STEIN,                             ,HOLD                         ,53,49
+7/29/2022,Intel Corp,INTC,TRUIST,WILLIAM STEIN,                             ,HOLD                         ,49,40
+1/23/2023,Intel Corp,INTC,TRUIST,WILLIAM STEIN,HOLD,POSITIVE,,33
+1/27/2023,Intel Corp,INTC,TRUIST,WILLIAM STEIN,                             ,HOLD                         ,33,29
+2/22/2023,Intel Corp,INTC,TRUIST,WILLIAM STEIN,,HOLD                         ,,29
+4/24/2020,Intel Corp,INTC,TRUIST,WILLIAM STEIN,Hold                         ,Hold                         ,59,59
+1/22/2021,Intel Corp,INTC,TRUIST,WILLIAM STEIN,Hold                         ,Hold                         ,64,64
+10/25/2019,Intel Corp,INTC,TRUIST,WILLIAM STEIN,Hold                         ,Hold                         ,58 » 60         ,58 » 60
+4/23/2021,Intel Corp,INTC,TRUIST,WILLIAM STEIN,                             ,HOLD                         ,73,69
+4/28/2023,Intel Corp,INTC,TRUIST,WILLIAM STEIN,                             ,HOLD                         ,29,32
+7/28/2023,Intel Corp,INTC,TRUIST,WILLIAM STEIN,                             ,HOLD                         ,32,37
+10/27/2023,Intel Corp,INTC,TRUIST,WILLIAM STEIN,                             ,HOLD                         ,37,38
+1/5/2024,Intel Corp,INTC,TRUIST,WILLIAM STEIN,                             ,HOLD                         ,38,47
+1/25/2019,Intel Corp,INTC,TRUIST,WILLIAM STEIN,                             ,HOLD                         ,50,53
+7/26/2019,Intel Corp,INTC,TRUIST,WILLIAM STEIN,                             ,HOLD                         ,54,58
+3/24/2021,Intel Corp,INTC,TRUIST,WILLIAM STEIN,                             ,HOLD                         ,64,73
+8/2/2024,Intel Corp,INTC,TRUIST,WILLIAM STEIN,                             ,HOLD                         ,33,25
+1/26/2024,Intel Corp,INTC,TRUIST,WILLIAM STEIN,                             ,HOLD                         ,47,45
+10/28/2022,Intel Corp,INTC,,WILLIAM STEIN,Hold                         ,Hold                         ,29,29
+4/26/2024,Intel Corp,INTC,TRUIST,WILLIAM STEIN,Hold,Hold,33,33
+11/1/2024,Intel Corp,INTC,,WILLIAM STEIN,Hold,Hold,26,26
