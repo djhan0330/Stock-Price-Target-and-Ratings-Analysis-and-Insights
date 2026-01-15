@@ -1,0 +1,1007 @@
+date,company_Name,ticker,broker,analyst,rating_before,rating_after,price_target_before,price_target_after
+2013-11-18,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,,UNDERWEIGHT                  ,,0.32
+2014-02-13,Nvidia Corp,NVDA,SUSQUEHANNA,CHRIS CASO,                             ,NEUTRAL                      ,0.35,0.37
+2014-02-13,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,,UNDERWEIGHT                  ,,0.32
+2014-03-19,Nvidia Corp,NVDA,STIFEL,KEVIN CASSIDY,BUY,BUY,0.47,0.52
+2014-03-24,Nvidia Corp,NVDA,B. RILEY,CHRISTOPHER ROLLAND,,MARKET PERFORM               ,,0.42
+2014-05-06,Nvidia Corp,NVDA,SUSQUEHANNA,CHRIS CASO,,NEUTRAL                      ,,0.4
+2014-05-09,Nvidia Corp,NVDA,STIFEL,KEVIN CASSIDY,Buy                          ,Buy                          ,22.0,22.0
+2014-06-19,Nvidia Corp,NVDA,BAML,VIVEK ARYA,NEUTRAL,UNDERPERFORM,,0.47
+2014-08-08,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,                             ,UNDERPERFORM                 ,0.35,0.37
+2014-08-08,Nvidia Corp,NVDA,B. RILEY,CHRISTOPHER ROLLAND,MARKET PERFORM,MARKET PERFO,,0.5
+2014-11-04,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,,HOLD                         ,,0.42
+2014-11-07,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,                             ,HOLD                         ,0.47,0.52
+2014-11-07,Nvidia Corp,NVDA,STIFEL,KEVIN CASSIDY,                             ,BUY                          ,0.55,0.6
+2015-02-12,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,Hold                         ,Hold                         ,23.0,23.0
+2015-02-12,Nvidia Corp,NVDA,,KEVIN CASSIDY,Buy                          ,Buy                          ,27.0,27.0
+2015-02-12,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,Hold                         ,Hold                         ,23.0,23.0
+2015-02-12,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,UNDERWEIGHT,UNDERWEIGHT,0.42,0.5
+2015-03-10,Nvidia Corp,NVDA,BAML,VIVEK ARYA,NEUTRAL,BUY,0.6,0.7
+2015-05-06,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,,UNDERWEIGHT                  ,,0.5
+2015-05-08,Nvidia Corp,NVDA,,KEVIN CASSIDY,Buy                          ,Buy                          ,25.0,25.0
+2015-08-07,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,Underweight                  ,Underweight                  ,21.0,21.0
+2015-08-07,Nvidia Corp,NVDA,SUSQUEHANNA,CHRIS CASO,                             ,NEUTRAL                      ,0.47,0.5
+2015-08-07,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,Hold                         ,Hold                         ,24.0,24.0
+2015-08-07,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,Hold                         ,Hold                         ,24.0,24.0
+2015-08-07,Nvidia Corp,NVDA,,KEVIN CASSIDY,Buy                          ,Buy                          ,26.0,26.0
+2015-08-07,Nvidia Corp,NVDA,B. RILEY,CHRISTOPHER ROLLAND,MARKET PERFORM,MARKET PERFO,0.57,0.6
+2015-09-17,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,BUY,HOLD,0.57,0.75
+2015-10-30,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,Equal Weight                 ,Equal Weight                 ,,
+2015-11-06,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,Equal Weight                 ,Equal Weight                 ,,
+2015-11-06,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,Hold                         ,Hold                         ,32.0,32.0
+2015-11-06,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,                             ,BUY                          ,0.85,0.95
+2016-02-17,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,BUY,BUY,,0.95
+2016-02-18,Nvidia Corp,NVDA,,CHRISTOPHER ROLLAND,Buy                          ,Buy                          ,,
+2016-02-18,Nvidia Corp,NVDA,SUSQUEHANNA,CHRIS CASO,                             ,NEUTRAL                      ,0.62,0.65
+2016-02-18,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,Hold                         ,Hold                         ,26.0,26.0
+2016-04-04,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,Buy                          ,Buy                          ,42.0,42.0
+2016-04-06,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,Hold                         ,Hold                         ,30.0,30.0
+2016-04-06,Nvidia Corp,NVDA,,KEVIN CASSIDY,Buy,Hold,,
+2016-05-13,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,,                             ,,
+2016-05-13,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,Hold                         ,Hold                         ,32.0,32.0
+2016-07-14,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,BUY,BUY,,1.5
+2016-08-08,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,,                             ,,1.72
+2016-08-12,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,                             ,BUY                          ,1.72,1.82
+2016-08-12,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,,HOLD                         ,,1.27
+2016-08-12,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,Buy                          ,Buy                          ,70.0,70.0
+2016-09-19,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,,NEUTRAL                      ,,1.47
+2016-09-20,Nvidia Corp,NVDA,,CHRISTOPHER ROLLAND,Neutral                      ,Neutral                      ,,
+2016-10-03,Nvidia Corp,NVDA,BAML,VIVEK ARYA,,                             ,,2.0
+2016-11-02,Nvidia Corp,NVDA,CITI,ATIF MALIK,,BUY                          ,,2.25
+2016-11-11,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,Buy                          ,Buy                          ,97.0,97.0
+2016-11-11,Nvidia Corp,NVDA,BARCLAYS,BLAYNE CURTIS,                             ,                             ,1.35,1.8
+2016-11-11,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,                             ,BUY                          ,2.0,2.37
+2016-11-11,Nvidia Corp,NVDA,CITI,ATIF MALIK,,                             ,,2.5
+2016-11-23,Nvidia Corp,NVDA,CITI,ATIF MALIK,BUY,BUY,,2.5
+2016-12-12,Nvidia Corp,NVDA,CITI,ATIF MALIK,,                             ,,2.75
+2016-12-12,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,,                             ,,
+2016-12-14,Nvidia Corp,NVDA,EVERCORE,C J MUSE,BUY,BUY,,3.0
+2016-12-20,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,Buy                          ,Buy                          ,115.0,115.0
+2016-12-28,Nvidia Corp,NVDA,ARGUS,JIM KELLEHER,                             ,BUY                          ,2.37,3.25
+2017-01-04,Nvidia Corp,NVDA,CITI,ATIF MALIK,BUY,BUY,,3.0
+2017-01-06,Nvidia Corp,NVDA,B. RILEY,CRAIG ELLIS,,BUY                          ,,2.5
+2017-01-09,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,,BUY                          ,,3.12
+2017-02-03,Nvidia Corp,NVDA,CLSA,CHRIS CASO,,UNDERPERFORM                 ,,2.87
+2017-02-06,Nvidia Corp,NVDA,BAML,VIVEK ARYA,TOPPICK,TOPPICK,,3.12
+2017-02-07,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,,                             ,,1.87
+2017-02-10,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,                             ,BUY                          ,2.87,3.25
+2017-02-10,Nvidia Corp,NVDA,CITI,ATIF MALIK,,                             ,,3.62
+2017-02-10,Nvidia Corp,NVDA,STIFEL,KEVIN CASSIDY,,HOLD                         ,,
+2017-02-10,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,                             ,BUY                          ,3.12,3.5
+2017-02-22,Nvidia Corp,NVDA,ROTH MKM,RUBEN ROY,,NEUTRAL                      ,,2.5
+2017-04-05,Nvidia Corp,NVDA,CITI,ATIF MALIK,SELL,SELL,,3.62
+2017-05-10,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,                             ,                             ,2.87,3.12
+2017-05-10,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,BUY,BUY,,3.5
+2017-05-10,Nvidia Corp,NVDA,ROTH MKM,RUBEN ROY,                             ,NEUTRAL                      ,2.5,2.65
+2017-05-18,Nvidia Corp,NVDA,BERNSTEIN,STACY RASGON,,OUTPERFORM                   ,,4.12
+2017-05-22,Nvidia Corp,NVDA,BAML,VIVEK ARYA,BUY,BUY,,3.87
+2017-05-30,Nvidia Corp,NVDA,CITI,ATIF MALIK,BUY,BUY,,
+2017-06-09,Nvidia Corp,NVDA,BAML,VIVEK ARYA,BUY,POSITIVE,3.87,4.62
+2017-06-09,Nvidia Corp,NVDA,ARGUS,JIM KELLEHER,                             ,BUY                          ,3.5,4.37
+2017-06-15,Nvidia Corp,NVDA,RAYMOND JAMES,CHRIS CASO,,OUTPERFORM                   ,,4.37
+2017-06-28,Nvidia Corp,NVDA,,CHRISTOPHER ROLLAND,Positive                     ,Positive                     ,170.0,170.0
+2017-06-28,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,                             ,BUY                          ,3.62,4.25
+2017-07-06,Nvidia Corp,NVDA,BAML,VIVEK ARYA,,BUY                          ,,4.62
+2017-07-10,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,,BUY                          ,,4.5
+2017-07-12,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,HOLD,BUY,3.1,4.42
+2017-08-09,Nvidia Corp,NVDA,CITI,ATIF MALIK,,                             ,,4.5
+2017-08-11,Nvidia Corp,NVDA,ROTH MKM,RUBEN ROY,NEUTRAL,NEUTRAL,2.65,3.0
+2017-08-11,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,,BUY                          ,,4.5
+2017-08-11,Nvidia Corp,NVDA,BARCLAYS,BLAYNE CURTIS,                             ,                             ,2.62,3.5
+2017-08-11,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,                             ,BUY                          ,4.25,4.5
+2017-09-14,Nvidia Corp,NVDA,,CHRISTOPHER ROLLAND,Neutral                      ,Neutral                      ,155.0,155.0
+2017-09-15,Nvidia Corp,NVDA,EVERCORE,C J MUSE,Outperform                   ,Outperform                   ,250.0,250.0
+2017-09-18,Nvidia Corp,NVDA,BAML,VIVEK ARYA,,BUY                          ,,5.25
+2017-09-29,Nvidia Corp,NVDA,CITI,ATIF MALIK,                             ,BUY                          ,4.62,5.25
+2017-10-02,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,,BUY                          ,,5.0
+2017-10-04,Nvidia Corp,NVDA,BARCLAYS,BLAYNE CURTIS,                             ,                             ,3.5,5.0
+2017-10-11,Nvidia Corp,NVDA,B. RILEY,CRAIG ELLIS,BUY,BUY,,5.0
+2017-10-16,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,,                             ,,5.5
+2017-10-23,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,,BUY                          ,,5.75
+2017-11-06,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,,                             ,,5.25
+2017-11-10,Nvidia Corp,NVDA,CITI,ATIF MALIK,,                             ,,6.0
+2017-11-10,Nvidia Corp,NVDA,BARCLAYS,BLAYNE CURTIS,                             ,                             ,5.0,5.62
+2017-11-10,Nvidia Corp,NVDA,JPMORGAN,HARLAN SUR,,                             ,,5.17
+2017-11-10,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,,BUY                          ,,6.32
+2017-11-10,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,                             ,BUY                          ,5.75,6.0
+2017-11-10,Nvidia Corp,NVDA,STIFEL,KEVIN CASSIDY,HOLD,HOLD,2.75,4.6
+2017-11-10,Nvidia Corp,NVDA,BAML,VIVEK ARYA,                             ,BUY                          ,5.25,6.27
+2017-11-10,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,                             ,BUY                          ,5.5,5.62
+2017-11-10,Nvidia Corp,NVDA,ROTH MKM,RUBEN ROY,                             ,NEUTRAL                      ,3.0,4.65
+2017-11-10,Nvidia Corp,NVDA,BERNSTEIN,STACY RASGON,                             ,OUTPERFORM                   ,4.5,6.25
+2017-11-10,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,                             ,HOLD                         ,4.75,5.12
+2017-11-10,Nvidia Corp,NVDA,B. RILEY,CRAIG ELLIS,                             ,                             ,6.25,6.75
+2017-11-10,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,                             ,                             ,5.25,5.55
+2018-01-12,Nvidia Corp,NVDA,CITI,ATIF MALIK,BUY,BUY,,6.0
+2018-01-16,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,,BUY                          ,,6.0
+2018-01-19,Nvidia Corp,NVDA,BAML,VIVEK ARYA,                             ,BUY                          ,6.27,6.87
+2018-02-09,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,Equal Weight                 ,Equal Weight                 ,,
+2018-02-09,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,Hold                         ,Hold                         ,230.0,230.0
+2018-02-09,Nvidia Corp,NVDA,STIFEL,KEVIN CASSIDY,                             ,HOLD                         ,4.6,5.5
+2018-02-09,Nvidia Corp,NVDA,CITI,ATIF MALIK,,                             ,,6.75
+2018-02-09,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,,BUY                          ,,7.62
+2018-02-09,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,,                             ,,7.5
+2018-02-09,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,NEUTRAL                      ,5.0,5.37
+2018-02-09,Nvidia Corp,NVDA,BAML,VIVEK ARYA,BUY,TOP PICK,6.87,7.5
+2018-02-09,Nvidia Corp,NVDA,B. RILEY,CRAIG ELLIS,Buy                          ,Buy                          ,270.0,270.0
+2018-02-09,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,BUY,BUY,6.0,6.62
+2018-03-19,Nvidia Corp,NVDA,B. RILEY,CRAIG ELLIS,BUY,BUY,,7.25
+2018-03-22,Nvidia Corp,NVDA,ARGUS,JIM KELLEHER,,BUY                          ,,7.0
+2018-03-27,Nvidia Corp,NVDA,B. RILEY,CRAIG ELLIS,BUY,BUY,,7.25
+2018-03-28,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,,BUY                          ,,7.62
+2018-03-28,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,BUY,BUY,,7.5
+2018-03-28,Nvidia Corp,NVDA,ROTH MKM,RUBEN ROY,,NEUTRAL                      ,,6.12
+2018-04-03,Nvidia Corp,NVDA,BAML,VIVEK ARYA,BUY,BUY,,7.5
+2018-04-04,Nvidia Corp,NVDA,EVERCORE,C J MUSE,NOT FOUND,NOT FOUND,,
+2018-04-09,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,,OVERWEIGHT                   ,,6.45
+2018-05-03,Nvidia Corp,NVDA,BARCLAYS,BLAYNE CURTIS,EQUAL WEIGHT,OVERWEIGHT,6.62,7.0
+2018-05-07,Nvidia Corp,NVDA,BAML,VIVEK ARYA,BUY,POSITIVE,,7.5
+2018-05-08,Nvidia Corp,NVDA,ROTH MKM,RUBEN ROY,,NEUTRAL                      ,,6.12
+2018-05-11,Nvidia Corp,NVDA,JPMORGAN,HARLAN SUR,,                             ,,6.37
+2018-05-11,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,                             ,                             ,6.0,6.5
+2018-05-11,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,,BUY                          ,,7.9
+2018-05-11,Nvidia Corp,NVDA,,KEVIN CASSIDY,Hold                         ,Hold                         ,243.0,243.0
+2018-05-11,Nvidia Corp,NVDA,CITI,ATIF MALIK,                             ,BUY                          ,6.75,7.5
+2018-05-11,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,,                             ,,7.0
+2018-05-11,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,,                             ,,6.82
+2018-05-11,Nvidia Corp,NVDA,BARCLAYS,BLAYNE CURTIS,,                             ,,7.5
+2018-05-11,Nvidia Corp,NVDA,B. RILEY,CRAIG ELLIS,,                             ,,7.5
+2018-06-18,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,,NEUTRAL                      ,,7.12
+2018-06-26,Nvidia Corp,NVDA,FBN,SHELBY SEYRAFI,,OUTPERFORM                   ,,7.5
+2018-06-27,Nvidia Corp,NVDA,RAYMOND JAMES,CHRIS CASO,,OUTPERFORM                   ,,7.5
+2018-07-03,Nvidia Corp,NVDA,BAML,VIVEK ARYA,,BUY                          ,,8.5
+2018-08-10,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,BUY,BUY,,8.0
+2018-08-13,Nvidia Corp,NVDA,ROTH MKM,RUBEN ROY,,NEUTRAL                      ,,6.37
+2018-08-14,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,OUTPERFORM,UNDERPERFORM,3.5,7.87
+2018-08-17,Nvidia Corp,NVDA,ROTH MKM,RUBEN ROY,                             ,NEUTRAL                      ,6.37,6.45
+2018-08-17,Nvidia Corp,NVDA,BAML,VIVEK ARYA,,                             ,,8.5
+2018-08-17,Nvidia Corp,NVDA,MACQUARIE,SRINI PAJJURI,                             ,NEUTRAL                      ,6.25,6.0
+2018-08-17,Nvidia Corp,NVDA,STIFEL,KEVIN CASSIDY,                             ,HOLD                         ,6.07,6.25
+2018-08-17,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,,BUY                          ,,7.9
+2018-08-17,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,BUY,BUY,,8.0
+2018-08-17,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,,OVERWEIGHT                   ,,6.82
+2018-08-17,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,,OUTPERFORM                   ,,7.75
+2018-08-17,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,,HOLD                         ,,6.5
+2018-08-17,Nvidia Corp,NVDA,JPMORGAN,HARLAN SUR,,NEUTRAL                      ,,6.62
+2018-08-21,Nvidia Corp,NVDA,STIFEL,KEVIN CASSIDY,,HOLD                         ,,6.25
+2018-08-27,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,,OVERWEIGHT                   ,,6.82
+2018-09-13,Nvidia Corp,NVDA,CITI,ATIF MALIK,,BUY                          ,,7.5
+2018-09-18,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,                             ,BUY                          ,7.0,7.37
+2018-09-20,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,,OVERWEIGHT                   ,,6.82
+2018-09-20,Nvidia Corp,NVDA,BENCHMARK,GARY MOBLEY,,BUY                          ,,7.75
+2018-09-24,Nvidia Corp,NVDA,BAML,VIVEK ARYA,,BUY                          ,,8.5
+2018-09-28,Nvidia Corp,NVDA,EVERCORE,C J MUSE,                             ,OUTPERFORM                   ,7.5,10.0
+2018-10-23,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,NEUTRAL,NEUTRAL,7.12,6.5
+2018-10-30,Nvidia Corp,NVDA,JPMORGAN,HARLAN SUR,OVERWEIGHT,NEUTRAL,6.37,6.62
+2018-11-08,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,                             ,OVERWEIGHT                   ,6.82,6.5
+2018-11-13,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,NEUTRAL,POSITIVE,5.75,6.25
+2018-11-16,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,                             ,OUTPERFORM                   ,7.87,5.87
+2018-11-16,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,,                             ,,5.92
+2018-11-16,Nvidia Corp,NVDA,B. RILEY,CRAIG ELLIS,BUY,NEUTRAL,6.0,4.75
+2018-11-16,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,                             ,BUY                          ,8.0,6.15
+2018-11-16,Nvidia Corp,NVDA,STIFEL,KEVIN CASSIDY,                             ,                             ,6.25,5.0
+2018-11-16,Nvidia Corp,NVDA,JPMORGAN,HARLAN SUR,                             ,OVERWEIGHT                   ,6.37,6.12
+2018-11-16,Nvidia Corp,NVDA,BENCHMARK,GARY MOBLEY,                             ,                             ,7.75,6.0
+2018-11-16,Nvidia Corp,NVDA,BARCLAYS,BLAYNE CURTIS,                             ,OVERWEIGHT                   ,7.5,6.25
+2018-11-16,Nvidia Corp,NVDA,RAYMOND JAMES,CHRIS CASO,Outperform                   ,Outperform                   ,250.0,250.0
+2018-11-16,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,                             ,OVERWEIGHT                   ,5.5,6.5
+2018-11-16,Nvidia Corp,NVDA,FBN,SHELBY SEYRAFI,                             ,OUTPERFORM                   ,7.5,5.25
+2018-11-16,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,BUY,BUY,7.37,6.12
+2018-11-16,Nvidia Corp,NVDA,ROTH MKM,RUBEN ROY,,NEUTRAL                      ,,5.87
+2018-11-16,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,,OUTPERFORM                   ,,6.25
+2018-11-16,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,                             ,NEUTRAL                      ,6.5,4.75
+2018-11-16,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,                             ,HOLD                         ,6.5,4.75
+2018-11-21,Nvidia Corp,NVDA,DAIWA,LOUIS MISCIOSCIA,                             ,BUY                          ,7.5,5.07
+2018-11-26,Nvidia Corp,NVDA,JPMORGAN,HARLAN SUR,Outperform                   ,Outperform                   ,,
+2018-11-29,Nvidia Corp,NVDA,BERNSTEIN,STACY RASGON,,                             ,,6.25
+2018-12-13,Nvidia Corp,NVDA,CITI,ATIF MALIK,BUY,BUY,,6.1
+2018-12-17,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,,NEUTRAL                      ,,4.75
+2019-01-07,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,OVERWEIGHT,OVERWEIGHT,,
+2019-01-09,Nvidia Corp,NVDA,BENCHMARK,GARY MOBLEY,,BUY                          ,,6.0
+2019-01-09,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,OUTPERFORM,OUTPERFORM,,6.25
+2019-01-11,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,BUY,BUY,,6.15
+2019-01-25,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,,BUY                          ,,6.15
+2019-01-28,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,,OUTPERFORM                   ,,4.25
+2019-01-28,Nvidia Corp,NVDA,STIFEL,KEVIN CASSIDY,,HOLD                         ,,3.37
+2019-01-28,Nvidia Corp,NVDA,BENCHMARK,GARY MOBLEY,,                             ,,4.75
+2019-01-28,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,,OUTPERFORM                   ,,
+2019-01-28,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,,HOLD                         ,,3.75
+2019-01-29,Nvidia Corp,NVDA,ROTH MKM,RUBEN ROY,NEUTRAL,NEGATIVE,,3.7
+2019-01-29,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,,NEGATIVE                     ,,4.67
+2019-01-29,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,,                             ,,5.0
+2019-01-29,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,NEUTRAL,BUY,4.5,4.75
+2019-01-29,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,                             ,OVERWEIGHT                   ,5.5,3.7
+2019-01-29,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,,NEGATIVE                     ,,4.62
+2019-02-11,Nvidia Corp,NVDA,BERNSTEIN,STACY RASGON,OUTPERFORM,MARKET PERFORM,,4.25
+2019-02-11,Nvidia Corp,NVDA,CITI,ATIF MALIK,,BUY                          ,,5.0
+2019-02-13,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,,                             ,,4.25
+2019-02-15,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,                             ,BUY                          ,5.0,4.87
+2019-02-15,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,BUY,BUY,,4.5
+2019-02-15,Nvidia Corp,NVDA,JPMORGAN,HARLAN SUR,                             ,OVERWEIGHT                   ,5.0,5.12
+2019-02-15,Nvidia Corp,NVDA,STIFEL,KEVIN CASSIDY,                             ,HOLD                         ,3.37,3.75
+2019-02-15,Nvidia Corp,NVDA,ROTH MKM,RUBEN ROY,,IN LINE                      ,,4.25
+2019-02-15,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,BUY,BUY,,4.62
+2019-02-15,Nvidia Corp,NVDA,RAYMOND JAMES,CHRIS CASO,                             ,OUTPERFORM                   ,4.12,4.5
+2019-03-12,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,,SELL                         ,,3.7
+2019-03-13,Nvidia Corp,NVDA,CITI,ATIF MALIK,,BUY                          ,,5.0
+2019-03-14,Nvidia Corp,NVDA,CRAIG HALLUM,RICHARD SHANNON,,HOLD                         ,,4.12
+2019-03-20,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,,BUY                          ,,4.87
+2019-03-20,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,                             ,HOLD                         ,3.75,4.0
+2019-03-20,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,                             ,                             ,4.75,5.0
+2019-03-20,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,,BUY                          ,,4.62
+2019-03-20,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,                             ,BUY                          ,4.5,5.25
+2019-03-26,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,,OVERWEIGHT                   ,,5.0
+2019-04-04,Nvidia Corp,NVDA,BAML,VIVEK ARYA,,                             ,,5.62
+2019-04-12,Nvidia Corp,NVDA,JPMORGAN,HARLAN SUR,Sell                         ,Sell                         ,,
+2019-04-12,Nvidia Corp,NVDA,DZ BANK,INGO WERMANN,BUY,SELL,4.62,4.25
+2019-04-17,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,POSITIVE                     ,4.62,5.37
+2019-04-22,Nvidia Corp,NVDA,BARCLAYS,BLAYNE CURTIS,,OVERWEIGHT                   ,,5.5
+2019-05-10,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,OUTPERFORM,IN LINE,,4.75
+2019-05-13,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,,                             ,,4.25
+2019-05-14,Nvidia Corp,NVDA,STIFEL,KEVIN CASSIDY,                             ,                             ,3.75,3.62
+2019-05-16,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,,                             ,,5.25
+2019-05-17,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,                             ,BUY                          ,5.25,4.87
+2019-05-17,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,BUY,BUY,4.87,4.8
+2019-05-17,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,                             ,                             ,5.67,5.25
+2019-05-17,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,,OUTPERFORM                   ,,4.75
+2019-05-17,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,OVERWEIGHT,OVERWEIGHT,,5.0
+2019-05-22,Nvidia Corp,NVDA,STIFEL,KEVIN CASSIDY,                             ,HOLD                         ,3.62,3.5
+2019-06-06,Nvidia Corp,NVDA,BARCLAYS,BLAYNE CURTIS,                             ,                             ,5.5,4.5
+2019-06-13,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,,OUTPERFORM                   ,,4.75
+2019-06-24,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,POSITIVE,NEGATIVE,,4.75
+2019-06-26,Nvidia Corp,NVDA,BERNSTEIN,STACY RASGON,,                             ,,3.75
+2019-06-27,Nvidia Corp,NVDA,,MATT BRYSON,Outperform                   ,Outperform                   ,4.0,4.0
+2019-07-11,Nvidia Corp,NVDA,BAML,VIVEK ARYA,,BUY                          ,,5.62
+2019-07-12,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,OVERWEIGHT,OVERWEIGHT,,5.0
+2019-08-07,Nvidia Corp,NVDA,BERNSTEIN,STACY RASGON,,                             ,,3.75
+2019-08-15,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,BUY,BUY,,5.25
+2019-08-16,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,,OUTPERFORM                   ,,4.75
+2019-08-16,Nvidia Corp,NVDA,CRAIG HALLUM,RICHARD SHANNON,HOLD,IN LINE,4.12,4.25
+2019-08-16,Nvidia Corp,NVDA,BARCLAYS,BLAYNE CURTIS,                             ,OVERWEIGHT                   ,4.5,4.25
+2019-08-16,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,                             ,EQUAL WEIGHT                 ,4.25,4.5
+2019-08-16,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,                             ,BUY                          ,4.8,4.62
+2019-08-16,Nvidia Corp,NVDA,JPMORGAN,HARLAN SUR,                             ,OVERWEIGHT                   ,5.12,5.0
+2019-08-16,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,,BUY                          ,,5.25
+2019-08-16,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,OVERWEIGHT,OVERWEIGHT,,5.0
+2019-08-16,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,,BUY                          ,,4.87
+2019-08-21,Nvidia Corp,NVDA,BENCHMARK,GARY MOBLEY,,BUY                          ,,5.25
+2019-08-21,Nvidia Corp,NVDA,DAIWA,LOUIS MISCIOSCIA,                             ,BUY                          ,4.42,5.0
+2019-09-09,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,,BUY                          ,,4.87
+2019-09-13,Nvidia Corp,NVDA,DZ BANK,INGO WERMANN,SELL,HOLD,,3.95
+2019-09-23,Nvidia Corp,NVDA,JPMORGAN,HARLAN SUR,Buy                          ,Buy                          ,,
+2019-09-23,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,,                             ,,5.4
+2019-10-07,Nvidia Corp,NVDA,EVERCORE,C J MUSE,Outperform                   ,Outperform                   ,217.0,217.0
+2019-10-07,Nvidia Corp,NVDA,,MATT BRYSON,Outperform                   ,Outperform                   ,,
+2019-10-09,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,,                             ,,5.0
+2019-10-15,Nvidia Corp,NVDA,BAML,VIVEK ARYA,                             ,                             ,5.62,6.25
+2019-10-22,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,,POSITIVE                     ,,5.5
+2019-10-22,Nvidia Corp,NVDA,BENCHMARK,GARY MOBLEY,Outperform                   ,Outperform                   ,220.0,220.0
+2019-10-22,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,Outperform                   ,Outperform                   ,,
+2019-11-04,Nvidia Corp,NVDA,CRAIG HALLUM,RICHARD SHANNON,,                             ,,5.0
+2019-11-07,Nvidia Corp,NVDA,RAYMOND JAMES,CHRIS CASO,OUTPERFORM,OUTPERFORM,,4.5
+2019-11-11,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,,HOLD                         ,,4.75
+2019-11-11,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,Buy                          ,Buy                          ,240.0,240.0
+2019-11-12,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,                             ,                             ,4.75,6.25
+2019-11-13,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,,                             ,,5.1
+2019-11-15,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,                             ,                             ,5.5,6.0
+2019-11-15,Nvidia Corp,NVDA,JPMORGAN,HARLAN SUR,Overweight                   ,Overweight                   ,225.0,225.0
+2019-11-15,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,                             ,                             ,4.5,5.42
+2019-11-15,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,                             ,POSITIVE                     ,5.0,5.75
+2019-11-15,Nvidia Corp,NVDA,BENCHMARK,RUBEN ROY,                             ,                             ,5.25,6.0
+2019-11-15,Nvidia Corp,NVDA,FBN,SHELBY SEYRAFI,                             ,OUTPERFORM                   ,4.75,5.75
+2019-11-15,Nvidia Corp,NVDA,CRAIG HALLUM,RICHARD SHANNON,BUY,HOLD,5.0,6.37
+2019-11-15,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,,BUY                          ,,6.0
+2019-11-15,Nvidia Corp,NVDA,RAYMOND JAMES,CHRIS CASO,                             ,OUTPERFORM                   ,4.5,6.0
+2019-11-15,Nvidia Corp,NVDA,BAML,VIVEK ARYA,                             ,BUY                          ,6.25,6.87
+2019-11-15,Nvidia Corp,NVDA,CITI,ATIF MALIK,                             ,                             ,5.0,6.12
+2019-11-15,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,                             ,                             ,4.62,5.75
+2019-11-15,Nvidia Corp,NVDA,WEDBUSH,MATT BRYSON,,OUTPERFORM                   ,,6.07
+2019-11-15,Nvidia Corp,NVDA,BARCLAYS,BLAYNE CURTIS,                             ,OVERWEIGHT                   ,4.25,5.62
+2019-11-15,Nvidia Corp,NVDA,BENCHMARK,GARY MOBLEY,Outperform                   ,Outperform                   ,195.0,240.0
+2019-11-15,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,                             ,BUY                          ,5.25,6.25
+2019-11-20,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,,                             ,,6.0
+2019-11-22,Nvidia Corp,NVDA,DAIWA,LOUIS MISCIOSCIA,Buy, Outperfor,,
+2019-11-25,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,EQUAL WEIGHT,OVERWEIGHT,,6.47
+2019-12-13,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,                             ,BUY                          ,6.0,6.82
+2019-12-17,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,                             ,OVERWEIGHT                   ,5.75,6.25
+2019-12-20,Nvidia Corp,NVDA,BENCHMARK,GARY MOBLEY,Overweight                   ,Overweight                   ,240.0,270.0
+2019-12-20,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,                             ,                             ,6.0,6.75
+2019-12-20,Nvidia Corp,NVDA,EDWARD JONES,LOGAN PURK,,HOLD                         ,,
+2019-12-31,Nvidia Corp,NVDA,BENCHMARK,GARY MOBLEY,BUY,BUY,6.0,6.87
+2019-12-31,Nvidia Corp,NVDA,BENCHMARK,RUBEN ROY,                             ,                             ,6.0,6.87
+2020-01-07,Nvidia Corp,NVDA,CITI,ATIF MALIK,,BUY                          ,,6.12
+2020-01-10,Nvidia Corp,NVDA,BAML,VIVEK ARYA,                             ,                             ,6.87,7.5
+2020-01-13,Nvidia Corp,NVDA,CRAIG HALLUM,RICHARD SHANNON,,POSITIVE                     ,,7.5
+2020-01-13,Nvidia Corp,NVDA,ARGUS,JIM KELLEHER,,BUY                          ,,7.5
+2020-01-13,Nvidia Corp,NVDA,EVERCORE,C J MUSE,,OUTPERFORM                   ,,7.5
+2020-01-15,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,                             ,OVERWEIGHT                   ,6.25,6.87
+2020-01-23,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,,OVERWEIGHT                   ,,6.87
+2020-01-23,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,BUY,BUY,6.0,7.5
+2020-02-11,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,                             ,                             ,6.25,7.5
+2020-02-11,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,                             ,OVERWEIGHT                   ,6.75,7.25
+2020-02-12,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,                             ,BUY                          ,6.37,7.87
+2020-02-12,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,                             ,7.12,7.75
+2020-02-13,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,                             ,BUY                          ,6.82,7.85
+2020-02-14,Nvidia Corp,NVDA,WEDBUSH,MATT BRYSON,                             ,OUTPERFORM                   ,7.37,7.77
+2020-02-14,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,                             ,                             ,6.47,7.6
+2020-02-14,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,                             ,BUY                          ,6.75,7.37
+2020-02-14,Nvidia Corp,NVDA,BENCHMARK,GARY MOBLEY,,BUY                          ,,8.0
+2020-02-14,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,Buy                          ,Buy                          ,315.0,315.0
+2020-02-14,Nvidia Corp,NVDA,BAML,VIVEK ARYA,                             ,BUY                          ,7.5,8.75
+2020-02-14,Nvidia Corp,NVDA,RAYMOND JAMES,CHRIS CASO,                             ,OUTPERFORM                   ,6.0,7.5
+2020-02-14,Nvidia Corp,NVDA,CRAIG HALLUM,RICHARD SHANNON,                             ,BUY                          ,7.5,8.12
+2020-02-14,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,                             ,                             ,6.87,8.25
+2020-02-18,Nvidia Corp,NVDA,ARGUS,JIM KELLEHER,,BUY                          ,,8.5
+2020-02-18,Nvidia Corp,NVDA,BERNSTEIN,STACY RASGON,MARKET PERFORM,OUTPERFORM,,9.0
+2020-03-16,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,,BUY                          ,,7.35
+2020-03-18,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,Overweight                   ,Overweight                   ,268.0,268.0
+2020-03-20,Nvidia Corp,NVDA,,GARY MOBLEY,Overweight                   ,Overweight                   ,280.0,280.0
+2020-03-20,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,Overweight                   ,Overweight                   ,280.0,280.0
+2020-03-24,Nvidia Corp,NVDA,WEDBUSH,MATT BRYSON,,OUTPERFORM                   ,,7.77
+2020-03-31,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,POSITIVE                     ,8.0,8.25
+2020-04-13,Nvidia Corp,NVDA,CRAIG HALLUM,RICHARD SHANNON,HOLD,BUY,,7.5
+2020-04-17,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,                             ,BUY                          ,7.62,8.25
+2020-04-28,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,                             ,                             ,6.7,7.05
+2020-05-04,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,,POSITIVE                     ,,8.87
+2020-05-07,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,                             ,OVERWEIGHT                   ,8.25,8.75
+2020-05-07,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,                             ,BUY                          ,7.35,8.17
+2020-05-13,Nvidia Corp,NVDA,WEDBUSH,MATT BRYSON,                             ,                             ,7.77,8.5
+2020-05-15,Nvidia Corp,NVDA,RAYMOND JAMES,CHRIS CASO,                             ,OUTPERFORM                   ,7.5,8.25
+2020-05-15,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,,OVERWEIGHT                   ,,7.05
+2020-05-15,Nvidia Corp,NVDA,BERNSTEIN,STACY RASGON,,OUTPERFORM                   ,,9.0
+2020-05-18,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,,HOLD                         ,,7.5
+2020-05-19,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,POSITIVE,POSITIVE,8.87,10.25
+2020-05-22,Nvidia Corp,NVDA,BERNSTEIN,STACY RASGON,                             ,OUTPERFORM                   ,9.0,10.37
+2020-05-22,Nvidia Corp,NVDA,WEDBUSH,MATT BRYSON,                             ,OUTPERFORM                   ,8.5,10.5
+2020-05-22,Nvidia Corp,NVDA,JPMORGAN,HARLAN SUR,                             ,OVERWEIGHT                   ,7.62,10.12
+2020-05-22,Nvidia Corp,NVDA,CRAIG HALLUM,RICHARD SHANNON,HOLD,IN LINE,7.5,8.37
+2020-05-22,Nvidia Corp,NVDA,RAYMOND JAMES,CHRIS CASO,                             ,OUTPERFORM                   ,8.25,9.25
+2020-05-22,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,                             ,OVERWEIGHT                   ,8.75,9.75
+2020-05-22,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,                             ,                             ,8.17,9.6
+2020-05-22,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,                             ,OVERWEIGHT                   ,9.0,10.75
+2020-05-22,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,                             ,BUY                          ,7.37,10.0
+2020-05-22,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,                             ,OUTPERFORM                   ,8.75,10.0
+2020-05-22,Nvidia Corp,NVDA,,KEVIN CASSIDY,Buy                          ,Buy                          ,400.0,400.0
+2020-05-22,Nvidia Corp,NVDA,,GARY MOBLEY,Overweight                   ,Overweight                   ,390.0,390.0
+2020-05-22,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,                             ,BUY                          ,8.25,10.0
+2020-05-22,Nvidia Corp,NVDA,CITI,ATIF MALIK,                             ,BUY                          ,7.87,9.8
+2020-05-22,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,                             ,HOLD                         ,7.5,7.87
+2020-05-26,Nvidia Corp,NVDA,FBN,SHELBY SEYRAFI,,OUTPERFORM                   ,,10.0
+2020-05-26,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,,OVERWEIGHT                   ,,9.07
+2020-06-16,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,                             ,OVERWEIGHT                   ,9.5,9.05
+2020-06-17,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,                             ,POSITIVE                     ,10.12,10.37
+2020-06-24,Nvidia Corp,NVDA,BAML,VIVEK ARYA,,BUY                          ,,10.5
+2020-06-24,Nvidia Corp,NVDA,BERNSTEIN,STACY RASGON,,OUTPERFORM                   ,,10.37
+2020-06-24,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,OUTPERFORM,OUTPERFORM,,10.0
+2020-06-25,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,                             ,10.5,11.25
+2020-07-10,Nvidia Corp,NVDA,,KEVIN CASSIDY,Buy                          ,Buy                          ,400.0,500.0
+2020-07-15,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,OVERWEIGHT,OVERWEIGHT,,9.75
+2020-07-17,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,                             ,BUY                          ,10.0,12.0
+2020-07-20,Nvidia Corp,NVDA,BARCLAYS,BLAYNE CURTIS,,OVERWEIGHT                   ,,11.25
+2020-08-10,Nvidia Corp,NVDA,BAML,VIVEK ARYA,,BUY                          ,,13.0
+2020-08-13,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,                             ,                             ,7.87,10.12
+2020-08-13,Nvidia Corp,NVDA,RAYMOND JAMES,CHRIS CASO,                             ,OUTPERFORM                   ,9.25,12.5
+2020-08-14,Nvidia Corp,NVDA,WEDBUSH,MATT BRYSON,Outperform                   ,Outperform                   ,500.0,500.0
+2020-08-17,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,,OVERWEIGHT                   ,,12.75
+2020-08-17,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,,POSITIVE                     ,,13.5
+2020-08-17,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,,OUTPERFORM                   ,,12.5
+2020-08-17,Nvidia Corp,NVDA,,GARY MOBLEY,Overweight                   ,Overweight                   ,510.0,510.0
+2020-08-20,Nvidia Corp,NVDA,CITI,ATIF MALIK,                             ,BUY                          ,9.8,13.5
+2020-08-20,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,                             ,BUY                          ,10.0,13.0
+2020-08-20,Nvidia Corp,NVDA,BERNSTEIN,STACY RASGON,                             ,OUTPERFORM                   ,10.37,13.62
+2020-08-20,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,                             ,BUY                          ,10.37,14.25
+2020-08-20,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,                             ,                             ,9.5,12.67
+2020-08-20,Nvidia Corp,NVDA,BARCLAYS,BLAYNE CURTIS,                             ,OVERWEIGHT                   ,11.25,13.12
+2020-08-20,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,                             ,OVERWEIGHT                   ,9.75,13.5
+2020-08-20,Nvidia Corp,NVDA,RAYMOND JAMES,CHRIS CASO,                             ,OUTPERFORM                   ,12.5,13.75
+2020-08-20,Nvidia Corp,NVDA,,KEVIN CASSIDY,Buy                          ,Buy                          ,392.0,540.0
+2020-08-20,Nvidia Corp,NVDA,CRAIG HALLUM,RICHARD SHANNON,                             ,HOLD                         ,8.37,12.0
+2020-08-20,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,                             ,BUY                          ,9.6,13.75
+2020-08-20,Nvidia Corp,NVDA,JPMORGAN,HARLAN SUR,                             ,OVERWEIGHT                   ,10.12,12.75
+2020-08-20,Nvidia Corp,NVDA,WEDBUSH,MATT BRYSON,                             ,OUTPERFORM                   ,12.5,13.12
+2020-08-20,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,                             ,HOLD                         ,10.12,11.25
+2020-08-20,Nvidia Corp,NVDA,BENCHMARK,RUBEN ROY,                             ,BUY                          ,10.25,13.5
+2020-08-20,Nvidia Corp,NVDA,BAML,VIVEK ARYA,                             ,                             ,13.0,15.0
+2020-09-02,Nvidia Corp,NVDA,BAML,VIVEK ARYA,                             ,                             ,15.0,16.25
+2020-09-02,Nvidia Corp,NVDA,CITI,ATIF MALIK,,BUY                          ,,13.5
+2020-09-02,Nvidia Corp,NVDA,BENCHMARK,RUBEN ROY,                             ,BUY                          ,13.5,15.0
+2020-09-02,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,                             ,                             ,13.0,14.37
+2020-09-14,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,,                             ,,17.0
+2020-09-15,Nvidia Corp,NVDA,CRAIG HALLUM,RICHARD SHANNON,Hold                         ,Hold                         ,500.0,500.0
+2020-10-02,Nvidia Corp,NVDA,WEDBUSH,MATT BRYSON,                             ,OUTPERFORM                   ,13.12,15.0
+2020-10-06,Nvidia Corp,NVDA,JPMORGAN,HARLAN SUR,                             ,OVERWEIGHT                   ,12.75,15.12
+2020-10-06,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,,BUY                          ,,15.62
+2020-10-06,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,                             ,OUTPERFORM                   ,13.75,15.0
+2020-10-12,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,,BUY                          ,,15.57
+2020-11-12,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,                             ,HOLD                         ,11.25,12.5
+2020-11-16,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,POSITIVE,POSITIVE,,15.25
+2020-11-16,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,,INLINE                       ,,
+2020-11-17,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,,BUY                          ,,15.57
+2020-11-19,Nvidia Corp,NVDA,CRAIG HALLUM,RICHARD SHANNON,                             ,HOLD                         ,12.5,13.0
+2020-11-19,Nvidia Corp,NVDA,CITI,ATIF MALIK,                             ,BUY                          ,13.5,15.0
+2020-11-19,Nvidia Corp,NVDA,RAYMOND JAMES,CHRIS CASO,                             ,OUTPERFORM                   ,13.75,15.0
+2020-11-19,Nvidia Corp,NVDA,,KEVIN CASSIDY,Buy                          ,Buy                          ,650.0,650.0
+2020-11-19,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,                             ,BUY                          ,15.62,16.25
+2020-11-19,Nvidia Corp,NVDA,BARCLAYS,BLAYNE CURTIS,                             ,OVERWEIGHT                   ,13.12,13.75
+2020-11-19,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,BUY,BUY,14.37,15.12
+2020-12-17,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,                             ,HOLD                         ,12.5,12.87
+2020-12-18,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,                             ,OVERWEIGHT                   ,15.12,15.62
+2021-01-07,Nvidia Corp,NVDA,CITI,ATIF MALIK,BUY,POSITIVE,,15.0
+2021-01-13,Nvidia Corp,NVDA,CITI,ATIF MALIK,,BUY                          ,,15.0
+2021-01-15,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,                             ,BUY                          ,16.07,16.8
+2021-01-15,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,POSITIVE                     ,15.25,15.62
+2021-01-26,Nvidia Corp,NVDA,BARCLAYS,BLAYNE CURTIS,                             ,OVERWEIGHT                   ,13.75,15.0
+2021-02-11,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,,BUY                          ,,15.62
+2021-02-18,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,                             ,                             ,15.0,17.5
+2021-02-22,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,"POSITIVE""","POSITIVE""",,17.5
+2021-02-22,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,,HOLD                         ,,13.75
+2021-02-25,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,                             ,BUY                          ,16.25,16.75
+2021-02-25,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,                             ,BUY                          ,16.8,17.5
+2021-02-25,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,                             ,BUY                          ,15.12,16.25
+2021-02-25,Nvidia Corp,NVDA,JPMORGAN,HARLAN SUR,                             ,OVERWEIGHT                   ,15.12,16.5
+2021-02-25,Nvidia Corp,NVDA,RAYMOND JAMES,CHRIS CASO,                             ,OUTPERFORM                   ,15.0,17.5
+2021-02-25,Nvidia Corp,NVDA,BERNSTEIN,STACY RASGON,                             ,OUTPERFORM                   ,14.37,15.62
+2021-02-25,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,,BUY                          ,,17.0
+2021-02-25,Nvidia Corp,NVDA,CRAIG HALLUM,RICHARD SHANNON,                             ,HOLD                         ,13.0,13.75
+2021-02-25,Nvidia Corp,NVDA,WEDBUSH,MATT BRYSON,                             ,OUTPERFORM                   ,15.0,16.0
+2021-02-25,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,                             ,OVERWEIGHT                   ,14.37,15.62
+2021-03-03,Nvidia Corp,NVDA,BERNSTEIN,STACY RASGON,,OUTPERFORM                   ,,15.62
+2021-04-13,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,                             ,BUY                          ,16.25,16.87
+2021-04-13,Nvidia Corp,NVDA,,KEVIN CASSIDY,Buy                          ,Buy                          ,700.0,800.0
+2021-04-13,Nvidia Corp,NVDA,,GARY MOBLEY,Overweight                   ,Overweight                   ,650.0,650.0
+2021-04-13,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,                             ,HOLD                         ,14.0,14.37
+2021-04-13,Nvidia Corp,NVDA,BARCLAYS,BLAYNE CURTIS,                             ,OVERWEIGHT                   ,15.0,16.25
+2021-04-13,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,                             ,OVERWEIGHT                   ,15.62,17.87
+2021-04-15,Nvidia Corp,NVDA,RAYMOND JAMES,CHRIS CASO,OUTPERFORM,STRONG BUY,17.5,18.75
+2021-05-04,Nvidia Corp,NVDA,BAIRD,TRISTAN GERRA,,OUTPERFORM                   ,,20.0
+2021-05-20,Nvidia Corp,NVDA,KEYBANK,JOHN VINH,,OVERWEIGHT                   ,,17.5
+2021-05-25,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,,POSITIVE                     ,,17.5
+2021-05-27,Nvidia Corp,NVDA,BERNSTEIN,STACY RASGON,                             ,OUTPERFORM                   ,15.62,18.12
+2021-05-27,Nvidia Corp,NVDA,EVERCORE,C J MUSE,                             ,OUTPERFORM                   ,16.87,18.75
+2021-05-27,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,                             ,BUY                          ,16.75,18.37
+2021-05-27,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,                             ,HOLD                         ,14.37,15.0
+2021-05-27,Nvidia Corp,NVDA,KEYBANK,JOHN VINH,                             ,OVERWEIGHT                   ,17.5,19.37
+2021-05-27,Nvidia Corp,NVDA,FBN,SHELBY SEYRAFI,                             ,OUTPERFORM                   ,17.5,18.75
+2021-05-27,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,                             ,BUY                          ,17.5,19.2
+2021-05-27,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,                             ,OVERWEIGHT                   ,15.62,17.25
+2021-05-27,Nvidia Corp,NVDA,WEDBUSH,MATT BRYSON,                             ,OUTPERFORM                   ,16.0,17.5
+2021-05-27,Nvidia Corp,NVDA,BAML,VIVEK ARYA,                             ,BUY                          ,17.5,18.75
+2021-05-27,Nvidia Corp,NVDA,CITI,ATIF MALIK,                             ,BUY                          ,16.5,18.0
+2021-05-27,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,                             ,BUY                          ,17.0,18.5
+2021-05-27,Nvidia Corp,NVDA,CRAIG HALLUM,RICHARD SHANNON,BUY,HOLD,13.75,18.75
+2021-05-27,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,                             ,BUY                          ,16.87,17.75
+2021-06-01,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,,OVERWEIGHT                   ,,17.25
+2021-06-09,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,OUTPERFORM,OUTPERFORM,,
+2021-06-17,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,                             ,                             ,18.5,21.35
+2021-06-18,Nvidia Corp,NVDA,BAML,VIVEK ARYA,                             ,BUY                          ,20.0,22.5
+2021-06-22,Nvidia Corp,NVDA,RAYMOND JAMES,CHRIS CASO,                             ,STRONG BUY                   ,18.75,22.5
+2021-06-23,Nvidia Corp,NVDA,TIGRESS PARTNERS,IVAN FEINSETH,BUY,BUY,,23.0
+2021-06-23,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,,OVERWEIGHT                   ,,21.87
+2021-06-24,Nvidia Corp,NVDA,BAML,VIVEK ARYA,,BUY                          ,,22.5
+2021-07-06,Nvidia Corp,NVDA,KEYBANK,JOHN VINH,,OVERWEIGHT                   ,,23.75
+2021-07-08,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,Outperform                   ,Outperform                   ,700.0,925.0
+2021-07-08,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,BUY,BUY,19.2,22.75
+2021-07-15,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,                             ,BUY                          ,17.75,22.5
+2021-07-21,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,,                             ,,23.5
+2021-07-21,Nvidia Corp,NVDA,BARCLAYS,BLAYNE CURTIS,,OVERWEIGHT                   ,,20.5
+2021-07-22,Nvidia Corp,NVDA,CITI,ATIF MALIK,                             ,BUY                          ,18.0,22.3
+2021-07-23,Nvidia Corp,NVDA,ARGUS,JIM KELLEHER,                             ,BUY                          ,17.5,23.0
+2021-07-27,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,                             ,BUY                          ,22.75,22.9
+2021-08-03,Nvidia Corp,NVDA,BAML,VIVEK ARYA,BUY,SELL,22.5,25.0
+2021-08-04,Nvidia Corp,NVDA,,KEVIN CASSIDY,Buy                          ,Buy                          ,250.0,250.0
+2021-08-12,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,OVERWEIGHT,BUY,21.9,24.5
+2021-08-12,Nvidia Corp,NVDA,EVERCORE,C J MUSE,OUTPERFORM,OUTPERFORM,18.75,25.0
+2021-08-12,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,                             ,BUY                          ,18.4,23.0
+2021-08-12,Nvidia Corp,NVDA,,GARY MOBLEY,Overweight                   ,Overweight                   ,245.0,245.0
+2021-08-16,Nvidia Corp,NVDA,WEDBUSH,MATT BRYSON,,OUTPERFORM                   ,,22.0
+2021-08-16,Nvidia Corp,NVDA,CRAIG HALLUM,RICHARD SHANNON,,BUY                          ,,22.0
+2021-08-19,Nvidia Corp,NVDA,KEYBANK,JOHN VINH,                             ,OVERWEIGHT                   ,23.8,24.5
+2021-08-19,Nvidia Corp,NVDA,BAML,VIVEK ARYA,                             ,BUY                          ,25.0,26.0
+2021-08-19,Nvidia Corp,NVDA,BARCLAYS,BLAYNE CURTIS,                             ,OVERWEIGHT                   ,20.5,22.5
+2021-08-19,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,POSITIVE                     ,18.0,22.0
+2021-08-19,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,                             ,BUY                          ,21.4,22.3
+2021-08-19,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,                             ,OVERWEIGHT                   ,17.25,22.5
+2021-08-19,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,                             ,BUY                          ,22.9,23.0
+2021-08-19,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,                             ,HOLD                         ,15.0,18.5
+2021-08-19,Nvidia Corp,NVDA,,KEVIN CASSIDY,Buy                          ,Buy                          ,235.0,235.0
+2021-08-19,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,                             ,BUY                          ,22.5,23.5
+2021-08-19,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,,BUY                          ,,23.0
+2021-08-20,Nvidia Corp,NVDA,BENCHMARK,DAVID WILLIAMS,,BUY                          ,,23.0
+2021-09-03,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,                             ,BUY                          ,22.3,26.0
+2021-09-17,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,                             ,BUY                          ,23.0,25.7
+2021-09-17,Nvidia Corp,NVDA,BAML,VIVEK ARYA,                             ,BUY                          ,26.0,27.5
+2021-10-01,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,Positive                     ,Positive                     ,25.0,25.0
+2021-10-05,Nvidia Corp,NVDA,KEYBANK,JOHN VINH,                             ,OVERWEIGHT                   ,24.5,26.0
+2021-10-08,Nvidia Corp,NVDA,KEYBANK,JOHN VINH,Overweight                   ,Overweight                   ,,
+2021-10-25,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,,                             ,,26.0
+2021-10-29,Nvidia Corp,NVDA,BAML,VIVEK ARYA,,BUY                          ,,27.5
+2021-11-04,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,                             ,OVERWEIGHT                   ,24.5,32.0
+2021-11-10,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,Overweight                   ,Overweight                   ,320.0,320.0
+2021-11-10,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,                             ,BUY                          ,25.7,36.0
+2021-11-10,Nvidia Corp,NVDA,,GARY MOBLEY,Overweight                   ,Overweight                   ,320.0,320.0
+2021-11-11,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,                             ,                             ,23.5,35.0
+2021-11-11,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,                             ,25.0,36.0
+2021-11-12,Nvidia Corp,NVDA,WEDBUSH,MATT BRYSON,NEUTRAL,OUTPERFORM,30.0,22.0
+2021-11-15,Nvidia Corp,NVDA,BAIRD,TRISTAN GERRA,,OUTPERFORM                   ,,36.0
+2021-11-15,Nvidia Corp,NVDA,CITI,ATIF MALIK,,                             ,,35.0
+2021-11-15,Nvidia Corp,NVDA,BAML,VIVEK ARYA,,BUY                          ,,34.0
+2021-11-16,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,Buy                          ,Buy                          ,350.0,350.0
+2021-11-18,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,                             ,BUY                          ,36.0,38.9
+2021-11-18,Nvidia Corp,NVDA,KEYBANK,JOHN VINH,                             ,OVERWEIGHT                   ,26.0,35.0
+2021-11-18,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,                             ,HOLD                         ,18.5,28.5
+2021-11-18,Nvidia Corp,NVDA,RAYMOND JAMES,CHRIS CASO,                             ,STRONG BUY                   ,22.5,36.5
+2021-11-18,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,                             ,                             ,26.0,35.0
+2021-11-18,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,                             ,BUY                          ,26.0,37.0
+2021-11-18,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,,POSITIVE                     ,,36.0
+2021-11-18,Nvidia Corp,NVDA,BENCHMARK,DAVID WILLIAMS,                             ,BUY                          ,23.0,36.5
+2021-11-19,Nvidia Corp,NVDA,JPMORGAN,HARLAN SUR,Overweight                   ,Overweight                   ,350.0,350.0
+2021-11-19,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,Buy                          ,Buy                          ,33.5,33.5
+2021-12-02,Nvidia Corp,NVDA,TIGRESS PARTNERS,IVAN FEINSETH,                             ,BUY                          ,23.0,40.0
+2021-12-21,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,HOLD,HOLD,,34.65
+2022-01-05,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,,BUY                          ,,37.0
+2022-01-06,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,BUY,BUY,38.9,35.0
+2022-01-06,Nvidia Corp,NVDA,BAML,VIVEK ARYA,,BUY                          ,,37.5
+2022-01-07,Nvidia Corp,NVDA,CITI,ATIF MALIK,,BUY                          ,,35.0
+2022-01-10,Nvidia Corp,NVDA,BAML,VIVEK ARYA,,BUY                          ,,37.5
+2022-02-08,Nvidia Corp,NVDA,CITI,ATIF MALIK,,BUY                          ,,35.0
+2022-02-14,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,,                             ,,35.0
+2022-02-15,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,,OVERWEIGHT                   ,,35.0
+2022-02-17,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,                             ,BUY                          ,33.5,34.5
+2022-02-22,Nvidia Corp,NVDA,BAML,VIVEK ARYA,NOT FOUND,NOT FOUND,,
+2022-03-16,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,,OVERWEIGHT                   ,,
+2022-03-23,Nvidia Corp,NVDA,CITI,ATIF MALIK,,                             ,,35.0
+2022-03-23,Nvidia Corp,NVDA,JPMORGAN,HARLAN SUR,,OVERWEIGHT                   ,,35.0
+2022-03-23,Nvidia Corp,NVDA,BARCLAYS,BLAYNE CURTIS,,OVERWEIGHT                   ,,35.0
+2022-03-29,Nvidia Corp,NVDA,TIGRESS PARTNERS,IVAN FEINSETH,                             ,BUY                          ,40.0,41.0
+2022-03-29,Nvidia Corp,NVDA,BAIRD,TRISTAN GERRA,,OUTPERFORM                   ,,36.0
+2022-04-08,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,                             ,BUY                          ,34.7,29.8
+2022-04-11,Nvidia Corp,NVDA,BAIRD,TRISTAN GERRA,,                             ,,
+2022-04-12,Nvidia Corp,NVDA,,JOHN VINH,Overweight                   ,Overweight                   ,31.0,31.0
+2022-04-20,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,                             ,HOLD                         ,28.5,25.5
+2022-04-20,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,,BUY                          ,,35.0
+2022-04-25,Nvidia Corp,NVDA,BARCLAYS,BLAYNE CURTIS,,OVERWEIGHT                   ,,29.5
+2022-05-03,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,,OVERWEIGHT                   ,,21.7
+2022-05-17,Nvidia Corp,NVDA,BAML,VIVEK ARYA,,BUY                          ,,32.0
+2022-05-18,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,                             ,32.0,28.0
+2022-05-19,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,                             ,                             ,35.0,30.0
+2022-05-20,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,,OVERWEIGHT                   ,,25.0
+2022-05-23,Nvidia Corp,NVDA,BERNSTEIN,STACY RASGON,,OUTPERFORM                   ,,22.5
+2022-05-23,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,,BUY                          ,,28.0
+2022-05-25,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,                             ,OVERWEIGHT                   ,35.0,25.0
+2022-05-26,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,,OUTPERFORM                   ,,30.0
+2022-05-26,Nvidia Corp,NVDA,JPMORGAN,HARLAN SUR,                             ,OVERWEIGHT                   ,35.0,28.5
+2022-05-26,Nvidia Corp,NVDA,BENCHMARK,CODY ACREE,BUY,BUY,,22.8
+2022-05-26,Nvidia Corp,NVDA,RAYMOND JAMES,CHRIS CASO,                             ,STRONG BUY                   ,36.5,25.0
+2022-05-26,Nvidia Corp,NVDA,KEYBANK,JOHN VINH,                             ,OVERWEIGHT                   ,31.0,25.0
+2022-05-26,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,POSITIVE,POSITIVE,28.0,26.0
+2022-05-26,Nvidia Corp,NVDA,CITI,ATIF MALIK,                             ,BUY                          ,35.0,31.5
+2022-05-26,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,"""BUY",BUY,,37.0
+2022-05-26,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,                             ,                             ,21.7,18.2
+2022-05-26,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,                             ,HOLD                         ,25.5,19.0
+2022-05-26,Nvidia Corp,NVDA,,DAVID WILLIAMS,Buy                          ,Buy                          ,315.0,315.0
+2022-05-26,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,                             ,BUY                          ,34.5,29.0
+2022-05-27,Nvidia Corp,NVDA,BAIRD,TRISTAN GERRA,                             ,NEUTRAL                      ,22.5,16.5
+2022-05-31,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,,OVERWEIGHT                   ,,25.0
+2022-06-08,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,,INLINE                       ,,
+2022-06-15,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,,OUTPERFORM                   ,,30.0
+2022-06-29,Nvidia Corp,NVDA,BAML,VIVEK ARYA,                             ,BUY                          ,27.0,22.0
+2022-07-08,Nvidia Corp,NVDA,TIGRESS PARTNERS,IVAN FEINSETH,BUY,BUY,,31.0
+2022-07-11,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,,OVERWEIGHT                   ,,23.5
+2022-07-12,Nvidia Corp,NVDA,KEYBANK,JOHN VINH,                             ,OVERWEIGHT                   ,25.0,23.0
+2022-07-12,Nvidia Corp,NVDA,CITI,ATIF MALIK,                             ,BUY                          ,31.5,28.5
+2022-07-13,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,POSITIVE                     ,26.0,22.0
+2022-07-14,Nvidia Corp,NVDA,BAIRD,TRISTAN GERRA,                             ,NEUTRAL                      ,16.5,15.0
+2022-07-20,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,                             ,HOLD                         ,19.0,17.5
+2022-07-25,Nvidia Corp,NVDA,BARCLAYS,BLAYNE CURTIS,,OVERWEIGHT                   ,,20.0
+2022-08-08,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,,OVERWEIGHT                   ,,23.5
+2022-08-08,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,,OUTPERFORM                   ,,25.0
+2022-08-08,Nvidia Corp,NVDA,CRAIG HALLUM,RICHARD SHANNON,HOLD,BUY,,18.0
+2022-08-09,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,POSITIVE                     ,22.0,21.0
+2022-08-09,Nvidia Corp,NVDA,,MELISSA FAIRBANKS,Strong Buy                   ,Strong Buy                   ,24.0,24.0
+2022-08-09,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,BUY,NEGATIVE,29.0,25.0
+2022-08-09,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,BUY,NEGATIVE,28.3,21.6
+2022-08-09,Nvidia Corp,NVDA,,CHRIS CASO,Strong Buy                   ,Strong Buy                   ,240.0,240.0
+2022-08-25,Nvidia Corp,NVDA,CRAIG HALLUM,RICHARD SHANNON,                             ,HOLD                         ,18.0,16.5
+2022-08-25,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,                             ,BUY                          ,25.0,22.5
+2022-08-25,Nvidia Corp,NVDA,CITI,ATIF MALIK,                             ,BUY                          ,28.5,24.8
+2022-08-25,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,                             ,HOLD                         ,17.5,16.5
+2022-08-25,Nvidia Corp,NVDA,BARCLAYS,BLAYNE CURTIS,                             ,OVERWEIGHT                   ,20.0,19.0
+2022-08-25,Nvidia Corp,NVDA,BAIRD,TRISTAN GERRA,Neutral                      ,Neutral                      ,13.5,13.5
+2022-08-25,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,Buy                          ,Buy                          ,19.8,19.8
+2022-08-25,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,OVERWEIGHT,"IN LINE""",,23.5
+2022-08-25,Nvidia Corp,NVDA,JPMORGAN,HARLAN SUR,                             ,OVERWEIGHT                   ,23.0,22.0
+2022-08-25,Nvidia Corp,NVDA,WEDBUSH,MATT BRYSON,                             ,NEUTRAL                      ,19.0,16.0
+2022-08-25,Nvidia Corp,NVDA,BENCHMARK,CODY ACREE,Buy                          ,Buy                          ,21.5,21.5
+2022-08-25,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,,EQUAL WEIGHT                 ,,18.2
+2022-08-25,Nvidia Corp,NVDA,,CHRIS CASO,Strong Buy                   ,Strong Buy                   ,210.0,210.0
+2022-08-25,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,BUY,BUY,37.0,28.0
+2022-08-25,Nvidia Corp,NVDA,RAYMOND JAMES,MELISSA FAIRBANKS,                             ,STRONG BUY                   ,24.0,21.0
+2022-09-01,Nvidia Corp,NVDA,BERNSTEIN,STACY RASGON,                             ,OUTPERFORM                   ,21.0,18.0
+2022-09-01,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,                             ,OVERWEIGHT                   ,23.5,20.0
+2022-09-02,Nvidia Corp,NVDA,DAIWA,LOUIS MISCIOSCIA,BUY,NEUTRAL,21.5,13.3
+2022-09-02,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,BUY,BUY,,28.0
+2022-09-07,Nvidia Corp,NVDA,STIFEL,RUBEN ROY,,HOLD                         ,,16.5
+2022-09-15,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,                             ,BUY                          ,22.5,20.5
+2022-09-20,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,,OUTPERFORM                   ,,25.0
+2022-09-21,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,POSITIVE                     ,20.0,19.0
+2022-09-21,Nvidia Corp,NVDA,JPMORGAN,HARLAN SUR,,OVERWEIGHT                   ,,22.0
+2022-10-11,Nvidia Corp,NVDA,CITI,ATIF MALIK,,BUY                          ,,21.0
+2022-10-18,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,Hold                         ,Hold                         ,14.0,14.0
+2022-10-24,Nvidia Corp,NVDA,BARCLAYS,BLAYNE CURTIS,,OVERWEIGHT                   ,,14.0
+2022-11-11,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,                             ,OUTPERFORM                   ,25.0,22.5
+2022-11-17,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,POSITIVE                     ,18.0,18.5
+2022-11-17,Nvidia Corp,NVDA,WEDBUSH,MATT BRYSON,                             ,NEUTRAL                      ,16.0,17.5
+2022-11-17,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,                             ,EQUAL WEIGHT                 ,18.2,17.5
+2022-11-17,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,Buy                          ,Buy                          ,20.0,20.0
+2022-11-17,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,,BUY                          ,,22.5
+2022-11-17,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,,BUY                          ,,20.0
+2022-11-17,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,                             ,HOLD                         ,14.0,15.0
+2022-11-17,Nvidia Corp,NVDA,STIFEL,RUBEN ROY,                             ,HOLD                         ,16.5,17.5
+2022-11-17,Nvidia Corp,NVDA,RAYMOND JAMES,MELISSA FAIRBANKS,                             ,STRONG BUY                   ,21.0,19.0
+2022-12-08,Nvidia Corp,NVDA,TIGRESS PARTNERS,IVAN FEINSETH,                             ,BUY                          ,31.0,25.0
+2022-12-14,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,                             ,HOLD                         ,15.0,17.0
+2023-01-11,Nvidia Corp,NVDA,KEYBANK,JOHN VINH,                             ,OVERWEIGHT                   ,23.0,22.0
+2023-01-23,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,BUY,POSITIVE,,23.8
+2023-01-23,Nvidia Corp,NVDA,BARCLAYS,BLAYNE CURTIS,,OVERWEIGHT                   ,,25.0
+2023-02-10,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,BUY,BUY,22.5,27.5
+2023-02-14,Nvidia Corp,NVDA,BAML,VIVEK ARYA,                             ,BUY                          ,21.5,25.5
+2023-02-16,Nvidia Corp,NVDA,DZ BANK,INGO WERMANN,Buy,Sell,19.5,19.5
+2023-02-16,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,POSITIVE                     ,18.5,26.5
+2023-02-17,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,                             ,OUTPERFORM                   ,22.5,25.0
+2023-02-17,Nvidia Corp,NVDA,KEYBANK,JOHN VINH,Overweight                   ,Overweight                   ,28.0,28.0
+2023-02-21,Nvidia Corp,NVDA,,PATRICK SCHOLES,Outperform                   ,Outperform                   ,25.0,25.0
+2023-02-21,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,Equal Weight                 ,Equal Weight                 ,24.6,24.6
+2023-02-21,Nvidia Corp,NVDA,STIFEL,RUBEN ROY,,HOLD                         ,,20.7
+2023-02-22,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,                             ,OVERWEIGHT                   ,20.0,22.5
+2023-02-23,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,BUY,TOP PICK,27.5,30.0
+2023-02-23,Nvidia Corp,NVDA,JPMORGAN,HARLAN SUR,Overweight                   ,Overweight                   ,25.0,25.0
+2023-02-23,Nvidia Corp,NVDA,CITI,ATIF MALIK,                             ,BUY                          ,21.0,24.5
+2023-02-23,Nvidia Corp,NVDA,CRAIG HALLUM,RICHARD SHANNON,                             ,HOLD                         ,16.5,19.0
+2023-02-23,Nvidia Corp,NVDA,BAIRD,TRISTAN GERRA,                             ,NEUTRAL                      ,15.0,23.0
+2023-02-23,Nvidia Corp,NVDA,WEDBUSH,MATT BRYSON,                             ,NEUTRAL                      ,17.5,21.6
+2023-02-23,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,Hold                         ,Hold                         ,20.0,20.0
+2023-02-23,Nvidia Corp,NVDA,CREDIT SUISSE,CHRIS CASO,,OUTPERFORM                   ,,27.5
+2023-02-23,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,                             ,OVERWEIGHT                   ,25.0,27.5
+2023-02-23,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,                             ,OUTPERFORM                   ,25.0,27.5
+2023-02-23,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,                             ,BUY                          ,20.0,23.0
+2023-02-23,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,                             ,BUY                          ,23.8,26.6
+2023-02-23,Nvidia Corp,NVDA,BARCLAYS,BLAYNE CURTIS,                             ,OVERWEIGHT                   ,25.0,27.5
+2023-02-23,Nvidia Corp,NVDA,BAML,VIVEK ARYA,Buy                          ,Buy                          ,27.5,27.5
+2023-03-09,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,Positive                     ,Positive                     ,26.5,26.5
+2023-03-16,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,                             ,OVERWEIGHT                   ,25.5,30.4
+2023-03-16,Nvidia Corp,NVDA,WEDBUSH,MATT BRYSON,Neutral                      ,Neutral                      ,21.6,21.6
+2023-03-17,Nvidia Corp,NVDA,CITI,ATIF MALIK,                             ,                             ,24.5,30.5
+2023-03-20,Nvidia Corp,NVDA,BAIRD,TRISTAN GERRA,,NEUTRAL                      ,,30.0
+2023-03-21,Nvidia Corp,NVDA,BAML,VIVEK ARYA,                             ,BUY                          ,27.5,31.0
+2023-03-22,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,                             ,HOLD                         ,20.0,22.0
+2023-03-22,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,                             ,BUY                          ,23.0,29.0
+2023-03-22,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,                             ,BUY                          ,26.6,28.9
+2023-03-22,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,                             ,OVERWEIGHT                   ,27.5,32.0
+2023-03-22,Nvidia Corp,NVDA,,PATRICK SCHOLES,Outperform                   ,Outperform                   ,30.0,30.0
+2023-03-22,Nvidia Corp,NVDA,CITI,ATIF MALIK,                             ,BUY                          ,24.5,30.5
+2023-03-22,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,                             ,OUTPERFORM                   ,27.5,30.0
+2023-03-27,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,,BUY                          ,,31.5
+2023-03-28,Nvidia Corp,NVDA,BERNSTEIN,STACY RASGON,                             ,OUTPERFORM                   ,26.5,30.0
+2023-03-29,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,                             ,OVERWEIGHT                   ,27.5,30.0
+2023-03-30,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,POSITIVE                     ,26.5,31.0
+2023-03-30,Nvidia Corp,NVDA,TIGRESS PARTNERS,IVAN FEINSETH,,BUY                          ,,32.0
+2023-04-11,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,                             ,OVERWEIGHT                   ,30.0,32.0
+2023-04-11,Nvidia Corp,NVDA,KEYBANK,JOHN VINH,                             ,OVERWEIGHT                   ,28.0,32.0
+2023-04-19,Nvidia Corp,NVDA,BAML,VIVEK ARYA,Buy                          ,Buy                          ,34.0,34.0
+2023-05-10,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,                             ,BUY                          ,28.9,32.2
+2023-05-18,Nvidia Corp,NVDA,,PATRICK SCHOLES,Outperform,Outperform,35.0,35.0
+2023-05-19,Nvidia Corp,NVDA,CFRA,ANGELO ZINO,                             ,HOLD                         ,30.0,35.0
+2023-05-22,Nvidia Corp,NVDA,KEYBANK,JOHN VINH,,OVERWEIGHT                   ,,37.5
+2023-05-25,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,POSITIVE                     ,35.0,45.0
+2023-05-25,Nvidia Corp,NVDA,RAYMOND JAMES,SRINI PAJJURI,                             ,STRONG BUY                   ,29.0,45.0
+2023-05-25,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,                             ,OVERWEIGHT                   ,32.0,45.0
+2023-05-25,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,                             ,BUY                          ,31.5,47.5
+2023-05-25,Nvidia Corp,NVDA,,CHRIS CASO,Strong Buy,Strong Buy,45.0,45.0
+2023-05-25,Nvidia Corp,NVDA,BERNSTEIN,STACY RASGON,                             ,OUTPERFORM                   ,30.0,47.5
+2023-05-25,Nvidia Corp,NVDA,BARCLAYS,BLAYNE CURTIS,                             ,OVERWEIGHT                   ,27.5,50.0
+2023-05-25,Nvidia Corp,NVDA,BAML,VIVEK ARYA,                             ,BUY                          ,34.0,45.0
+2023-05-25,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,Hold,Hold,39.0,39.0
+2023-05-25,Nvidia Corp,NVDA,CITI,ATIF MALIK,                             ,BUY                          ,36.3,42.0
+2023-05-25,Nvidia Corp,NVDA,STIFEL,RUBEN ROY,                             ,HOLD                         ,30.0,37.0
+2023-05-25,Nvidia Corp,NVDA,BENCHMARK,CODY ACREE,                             ,BUY                          ,25.0,47.5
+2023-05-25,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,                             ,BUY                          ,30.0,47.2
+2023-05-25,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,                             ,BUY                          ,32.2,47.0
+2023-05-25,Nvidia Corp,NVDA,BAIRD,TRISTAN GERRA,NEUTRAL,OUTPERFORM,30.0,47.5
+2023-05-25,Nvidia Corp,NVDA,JPMORGAN,HARLAN SUR,Overweight,Overweight,50.0,50.0
+2023-05-25,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,                             ,OVERWEIGHT                   ,30.4,45.0
+2023-05-25,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,                             ,OUTPERFORM                   ,35.0,42.0
+2023-05-25,Nvidia Corp,NVDA,,PATRICK SCHOLES,Outperform,Outperform,42.0,42.0
+2023-05-25,Nvidia Corp,NVDA,CRAIG HALLUM,RICHARD SHANNON,HOLD,BUY,19.0,50.0
+2023-05-25,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,                             ,BUY                          ,29.0,40.0
+2023-05-25,Nvidia Corp,NVDA,CFRA,ANGELO ZINO,                             ,BUY                          ,35.0,41.5
+2023-05-25,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,                             ,OVERWEIGHT                   ,30.0,44.0
+2023-05-25,Nvidia Corp,NVDA,WEDBUSH,MATT BRYSON,NEUTRAL,OUTPERFORM,29.0,49.0
+2023-05-31,Nvidia Corp,NVDA,BAML,VIVEK ARYA,                             ,BUY                          ,45.0,50.0
+2023-06-16,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,                             ,                             ,45.0,50.0
+2023-06-20,Nvidia Corp,NVDA,CFRA,ANGELO ZINO,,BUY                          ,,48.0
+2023-06-20,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,BUY,BUY,,50.0
+2023-06-22,Nvidia Corp,NVDA,,VIJAY RAKESH,Buy,Buy,,
+2023-06-29,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,                             ,                             ,44.0,45.0
+2023-06-30,Nvidia Corp,NVDA,DAIWA,LOUIS MISCIOSCIA,                             ,                             ,40.8,47.5
+2023-06-30,Nvidia Corp,NVDA,RAYMOND JAMES,SRINI PAJJURI,STRONGBUY,STRONGBUY,,
+2023-07-07,Nvidia Corp,NVDA,TIGRESS PARTNERS,IVAN FEINSETH,                             ,BUY                          ,32.0,56.0
+2023-07-11,Nvidia Corp,NVDA,KEYBANK,JOHN VINH,Overweight,Overweight,55.0,55.0
+2023-07-14,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,                             ,BUY                          ,47.0,54.5
+2023-07-17,Nvidia Corp,NVDA,CITI,ATIF MALIK,,                             ,,52.0
+2023-07-18,Nvidia Corp,NVDA,BAML,VIVEK ARYA,BUY,BUY,50.0,55.0
+2023-07-20,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,POSITIVE                     ,45.0,57.5
+2023-07-20,Nvidia Corp,NVDA,BARCLAYS,BLAYNE CURTIS,                             ,OVERWEIGHT                   ,50.0,60.0
+2023-07-24,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,,BUY                          ,,53.0
+2023-08-09,Nvidia Corp,NVDA,STIFEL,RUBEN ROY,                             ,HOLD                         ,37.0,44.0
+2023-08-14,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,,BUY                          ,,51.5
+2023-08-15,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,                             ,OVERWEIGHT                   ,45.0,50.0
+2023-08-15,Nvidia Corp,NVDA,BAIRD,TRISTAN GERRA,                             ,OUTPERFORM                   ,47.0,57.0
+2023-08-15,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,BUY,BUY,47.5,54.0
+2023-08-16,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,                             ,OVERWEIGHT                   ,45.0,50.0
+2023-08-16,Nvidia Corp,NVDA,,CHRIS CASO,Strong Buy,Strong Buy,50.0,50.0
+2023-08-16,Nvidia Corp,NVDA,RAYMOND JAMES,SRINI PAJJURI,STRONG BUY,STRONG BUY,45.0,55.0
+2023-08-17,Nvidia Corp,NVDA,,PATRICK SCHOLES,Outperform,Outperform,50.0,50.0
+2023-08-17,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,                             ,OUTPERFORM                   ,42.0,50.0
+2023-08-21,Nvidia Corp,NVDA,KEYBANK,JOHN VINH,,OVERWEIGHT                   ,,62.0
+2023-08-24,Nvidia Corp,NVDA,BAML,VIVEK ARYA,Buy,Buy,65.0,65.0
+2023-08-24,Nvidia Corp,NVDA,WOLFE,CHRIS CASO,                             ,OUTPERFORM                   ,57.0,63.0
+2023-08-24,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,BUY,BUY,50.0,61.0
+2023-08-24,Nvidia Corp,NVDA,BERNSTEIN,STACY RASGON,                             ,OUTPERFORM                   ,47.5,67.5
+2023-08-24,Nvidia Corp,NVDA,CFRA,ANGELO ZINO,                             ,BUY                          ,50.0,60.0
+2023-08-24,Nvidia Corp,NVDA,BENCHMARK,CODY ACREE,                             ,BUY                          ,47.5,62.5
+2023-08-24,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,                             ,OUTPERFORM                   ,50.0,65.0
+2023-08-24,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,                             ,BUY                          ,54.5,66.8
+2023-08-24,Nvidia Corp,NVDA,BAIRD,TRISTAN GERRA,                             ,OUTPERFORM                   ,57.0,75.0
+2023-08-24,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,POSITIVE                     ,57.5,60.0
+2023-08-24,Nvidia Corp,NVDA,CRAIG HALLUM,RICHARD SHANNON,                             ,BUY                          ,50.0,70.0
+2023-08-24,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,                             ,OVERWEIGHT                   ,50.0,60.0
+2023-08-24,Nvidia Corp,NVDA,ARGUS,JIM KELLEHER,                             ,BUY                          ,45.0,60.0
+2023-08-24,Nvidia Corp,NVDA,WEDBUSH,MATT BRYSON,                             ,OUTPERFORM                   ,49.0,60.0
+2023-08-24,Nvidia Corp,NVDA,JPMORGAN,HARLAN SUR,Overweight,Overweight,60.0,60.0
+2023-08-24,Nvidia Corp,NVDA,RAYMOND JAMES,SRINI PAJJURI,,STRONG BUY                   ,,60.0
+2023-08-24,Nvidia Corp,NVDA,STIFEL,RUBEN ROY,HOLD,BUY,44.0,60.0
+2023-08-24,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,                             ,OVERWEIGHT                   ,50.0,63.0
+2023-08-24,Nvidia Corp,NVDA,CITI,ATIF MALIK,BUY,BUY,52.0,63.0
+2023-08-24,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,                             ,OVERWEIGHT                   ,50.0,62.0
+2023-08-24,Nvidia Corp,NVDA,BARCLAYS,BLAYNE CURTIS,                             ,OVERWEIGHT                   ,60.0,65.0
+2023-08-24,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,                             ,BUY                          ,53.0,59.0
+2023-08-24,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,BUY,BUY,54.0,56.0
+2023-08-24,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,                             ,HOLD                         ,44.0,56.0
+2023-10-03,Nvidia Corp,NVDA,KEYBANK,JOHN VINH,                             ,OVERWEIGHT                   ,67.0,75.0
+2023-10-13,Nvidia Corp,NVDA,BAML,VIVEK ARYA,TOP PICK,BUY,,65.0
+2023-10-18,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,                             ,OVERWEIGHT                   ,63.0,60.0
+2023-10-18,Nvidia Corp,NVDA,CITI,ATIF MALIK,                             ,BUY                          ,63.0,57.5
+2023-10-20,Nvidia Corp,NVDA,KEYBANK,JOHN VINH,                             ,OVERWEIGHT                   ,75.0,65.0
+2023-11-09,Nvidia Corp,NVDA,BERNSTEIN,STACY RASGON,Outperform,Outperform,67.5,67.5
+2023-11-22,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,Positive,Positive,62.5,62.5
+2023-11-22,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,                             ,OVERWEIGHT                   ,60.0,60.3
+2023-11-22,Nvidia Corp,NVDA,BAML,VIVEK ARYA,                             ,BUY                          ,65.0,70.0
+2023-11-22,Nvidia Corp,NVDA,BENCHMARK,CODY ACREE,Buy,Buy,62.5,62.5
+2023-11-22,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,                             ,OVERWEIGHT                   ,60.0,67.5
+2023-11-22,Nvidia Corp,NVDA,STIFEL,RUBEN ROY,                             ,BUY                          ,60.0,66.5
+2023-11-22,Nvidia Corp,NVDA,JPMORGAN,HARLAN SUR,                             ,OVERWEIGHT                   ,60.0,65.0
+2023-11-22,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,                             ,BUY                          ,59.0,62.5
+2023-11-22,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,                             ,BUY                          ,56.0,58.0
+2023-11-22,Nvidia Corp,NVDA,BERNSTEIN,STACY RASGON,                             ,OUTPERFORM                   ,67.5,70.0
+2023-11-22,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,                             ,BUY                          ,66.8,67.4
+2023-11-27,Nvidia Corp,NVDA,DZ BANK,INGO WERMANN,,BUY                          ,,64.0
+2024-01-03,Nvidia Corp,NVDA,D.A. DAVIDSON,GIL LURIA,,NEUTRAL                      ,,41.0
+2024-01-05,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,                             ,BUY                          ,67.4,69.1
+2024-01-16,Nvidia Corp,NVDA,KEYBANK,JOHN VINH,,OVERWEIGHT                   ,,74.0
+2024-01-17,Nvidia Corp,NVDA,TIGRESS PARTNERS,IVAN FEINSETH,,BUY                          ,,79.0
+2024-01-19,Nvidia Corp,NVDA,RAYMOND JAMES,SRINI PAJJURI,Strong Buy,Strong Buy,70.0,70.0
+2024-01-23,Nvidia Corp,NVDA,,C J MUSE,Overweight                   ,Overweight                   ,77.5,77.5
+2024-01-23,Nvidia Corp,NVDA,CFRA,ANGELO ZINO,                             ,BUY                          ,60.0,70.0
+2024-01-29,Nvidia Corp,NVDA,,C J MUSE,Overweight,Overweight,77.5,77.5
+2024-02-02,Nvidia Corp,NVDA,BAML,VIVEK ARYA,BUY,TOP PICK,70.0,80.0
+2024-02-07,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,                             ,                             ,60.3,75.0
+2024-02-12,Nvidia Corp,NVDA,,C J MUSE,Overweight,Overweight,77.5,77.5
+2024-02-13,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,                             ,BUY                          ,75.0,92.0
+2024-02-14,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,POSITIVE                     ,62.5,85.0
+2024-02-16,Nvidia Corp,NVDA,BARCLAYS,TOM O'MALLEY,OVERWEIGHT,OVERWEIGHT,65.0,85.0
+2024-02-16,Nvidia Corp,NVDA,,AARON RAKERS,Overweight,Overweight,84.0,84.0
+2024-02-16,Nvidia Corp,NVDA,BARCLAYS,BLAYNE CURTIS,                             ,OVERWEIGHT                   ,65.0,85.0
+2024-02-16,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,Outperform,Outperform,85.0,85.0
+2024-02-16,Nvidia Corp,NVDA,WEDBUSH,MATT BRYSON,OUTPERFORM,OUTPERFORM,60.0,80.0
+2024-02-20,Nvidia Corp,NVDA,,C J MUSE,Overweight,Overweight,77.5,77.5
+2024-02-22,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,Outperform,Outperform,85.0,85.0
+2024-02-22,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,OVERWEIGHT,OVERWEIGHT,75.0,79.5
+2024-02-22,Nvidia Corp,NVDA,D.A. DAVIDSON,GIL LURIA,NEUTRAL,NEUTRAL,41.0,62.0
+2024-02-22,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,,BUY                          ,,85.0
+2024-02-22,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,                             ,BUY                          ,61.0,78.0
+2024-02-22,Nvidia Corp,NVDA,,HARLAN SUR,Overweight,Overweight,85.0,85.0
+2024-02-22,Nvidia Corp,NVDA,WEDBUSH,MATT BRYSON,Outperform,Outperform,85.0,85.0
+2024-02-22,Nvidia Corp,NVDA,CRAIG HALLUM,RICHARD SHANNON,                             ,BUY                          ,70.0,85.0
+2024-02-22,Nvidia Corp,NVDA,,QUINN BOLTON,Buy,Buy,85.0,85.0
+2024-02-22,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,BUY,BUY,69.1,91.1
+2024-02-22,Nvidia Corp,NVDA,KEYBANK,JOHN VINH,OVERWEIGHT,OVERWEIGHT,74.0,110.0
+2024-02-22,Nvidia Corp,NVDA,CFRA,ANGELO ZINO,                             ,BUY                          ,70.0,84.0
+2024-02-22,Nvidia Corp,NVDA,WOLFE,CHRIS CASO,OUTPERFORM,OUTPERFORM,63.0,90.0
+2024-02-22,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,BUY,BUY.,85.0,80.0
+2024-02-22,Nvidia Corp,NVDA,BAML,VIVEK ARYA,                             ,BUY                          ,80.0,92.5
+2024-02-22,Nvidia Corp,NVDA,BENCHMARK,CODY ACREE,                             ,BUY                          ,62.5,100.0
+2024-02-22,Nvidia Corp,NVDA,BERNSTEIN,STACY RASGON,                             ,OUTPERFORM                   ,70.0,100.0
+2024-02-22,Nvidia Corp,NVDA,ARGUS,JIM KELLEHER,                             ,BUY                          ,60.0,85.0
+2024-02-22,Nvidia Corp,NVDA,STIFEL,RUBEN ROY,                             ,BUY                          ,86.5,91.0
+2024-02-22,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,                             ,HOLD                         ,56.0,72.0
+2024-02-29,Nvidia Corp,NVDA,,IVAN FEINSETH,Buy,Buy,98.5,98.5
+2024-03-05,Nvidia Corp,NVDA,CFRA,ANGELO ZINO,                             ,BUY                          ,84.0,100.0
+2024-03-07,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,Buy,Buy,100.0,100.0
+2024-03-11,Nvidia Corp,NVDA,,C J MUSE,Overweight,Overweight,120.0,120.0
+2024-03-13,Nvidia Corp,NVDA,BAML,VIVEK ARYA,Buy,Buy,110.0,110.0
+2024-03-14,Nvidia Corp,NVDA,WEDBUSH,MATT BRYSON,                             ,OUTPERFORM                   ,85.0,100.0
+2024-03-18,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,BUY,BUY,,117.7
+2024-03-19,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,OVERWEIGHT,OVERWEIGHT,84.0,97.0
+2024-03-19,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,POSITIVE,POSITIVE,85.0,105.0
+2024-03-20,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,                             ,HOLD                         ,72.0,85.0
+2024-03-20,Nvidia Corp,NVDA,CITI,ATIF MALIK,BUY,BUY,82.0,103.0
+2024-03-20,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,                             ,OUTPERFORM                   ,87.5,110.0
+2024-03-20,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,OVERWEIGHT,OVERWEIGHT,85.0,105.0
+2024-03-22,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,NOT FOUND,NOT FOUND,,110.0
+2024-04-04,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,Positive,Positive,105.0,105.0
+2024-04-08,Nvidia Corp,NVDA,KEYBANK,JOHN VINH,OVERWEIGHT,OVERWEIGHT,,120.0
+2024-04-10,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,                             ,OVERWEIGHT                   ,79.5,100.0
+2024-04-11,Nvidia Corp,NVDA,RAYMOND JAMES,SRINI PAJJURI,Strong Buy,Strong Buy,110.0,110.0
+2024-04-30,Nvidia Corp,NVDA,,TIMOTHY ARCURI,Buy,Buy,115.0,115.0
+2024-05-13,Nvidia Corp,NVDA,JEFFERIES,BLAYNE CURTIS,,BUY                          ,,
+2024-05-14,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,                             ,OVERWEIGHT                   ,97.0,115.0
+2024-05-17,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,Outperform,Outperform,110.0,110.0
+2024-05-20,Nvidia Corp,NVDA,BARCLAYS,TOM O'MALLEY,,OVERWEIGHT                   ,,110.0
+2024-05-20,Nvidia Corp,NVDA,BAIRD,TRISTAN GERRA,,OUTPERFORM                   ,,120.0
+2024-05-20,Nvidia Corp,NVDA,STIFEL,RUBEN ROY,,BUY                          ,,108.5
+2024-05-21,Nvidia Corp,NVDA,CFRA,ANGELO ZINO,                             ,BUY                          ,100.0,110.0
+2024-05-23,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,                             ,OVERWEIGHT                   ,100.0,116.0
+2024-05-23,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,Buy,Buy,118.0,118.0
+2024-05-23,Nvidia Corp,NVDA,ARGUS,JIM KELLEHER,                             ,BUY                          ,95.0,110.0
+2024-05-23,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,                             ,OVERWEIGHT                   ,115.0,125.0
+2024-05-23,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,                             ,OVERWEIGHT                   ,105.0,120.0
+2024-05-23,Nvidia Corp,NVDA,KEYBANK,JOHN VINH,Overweight,Overweight,130.0,130.0
+2024-05-23,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,Buy,Buy,128.8,128.8
+2024-05-23,Nvidia Corp,NVDA,BAML,VIVEK ARYA,Buy,Buy,132.0,132.0
+2024-05-23,Nvidia Corp,NVDA,,HARLAN SUR,Overweight,Overweight,115.0,115.0
+2024-05-23,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,Hold,Hold,100.0,100.0
+2024-05-23,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,Outperform,Outperform,110.0,110.0
+2024-05-23,Nvidia Corp,NVDA,,QUINN BOLTON,Buy,Buy,120.0,120.0
+2024-05-23,Nvidia Corp,NVDA,CITI,ATIF MALIK,Buy,Buy,126.0,126.0
+2024-05-23,Nvidia Corp,NVDA,RAYMOND JAMES,SRINI PAJJURI,Strong Buy,Strong Buy,120.0,120.0
+2024-05-23,Nvidia Corp,NVDA,WOLFE,CHRIS CASO,Outperform,Outperform,125.0,125.0
+2024-05-23,Nvidia Corp,NVDA,CRAIG HALLUM,RICHARD SHANNON,BUY,BUY,85.0,125.0
+2024-05-23,Nvidia Corp,NVDA,BENCHMARK,CODY ACREE,Buy,Buy,135.0,135.0
+2024-05-23,Nvidia Corp,NVDA,,C J MUSE,Overweight,Overweight,140.0,140.0
+2024-05-23,Nvidia Corp,NVDA,WEDBUSH,MATT BRYSON,Outperform,Outperform,120.0,120.0
+2024-05-23,Nvidia Corp,NVDA,,STACY RASGON,Outperform,Outperform,130.0,130.0
+2024-05-23,Nvidia Corp,NVDA,BARCLAYS,BLAYNE CURTIS,                             ,OVERWEIGHT                   ,110.0,120.0
+2024-05-23,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,BUY,BUY,115.0,120.0
+2024-05-23,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,Positive,Positive,120.0,120.0
+2024-05-23,Nvidia Corp,NVDA,,MARK LIPACIS,Outperform,Outperform,131.0,131.0
+2024-06-04,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,BUY,BUY,118.0,127.5
+2024-06-10,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,Positive,Positive,145.0,145.0
+2024-06-10,Nvidia Corp,NVDA,BARCLAYS,BLAYNE CURTIS,OVERWEIGHT,OVERWEIGHT,,145.0
+2024-06-10,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,,OVERWEIGHT                   ,,116.0
+2024-06-11,Nvidia Corp,NVDA,,MARK LIPACIS,Outperform,Outperform,145.0,145.0
+2024-06-11,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,,OUTPERFORM                   ,,150.0
+2024-06-11,Nvidia Corp,NVDA,ARGUS,JIM KELLEHER,                             ,BUY                          ,110.0,150.0
+2024-06-18,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,                             ,OVERWEIGHT                   ,125.0,155.0
+2024-06-18,Nvidia Corp,NVDA,,IVAN FEINSETH,Buy,Buy,170.0,170.0
+2024-06-24,Nvidia Corp,NVDA,JEFFERIES,BLAYNE CURTIS,,BUY                          ,,150.0
+2024-06-26,Nvidia Corp,NVDA,,C J MUSE,Overweight,Overweight,175.0,175.0
+2024-06-26,Nvidia Corp,NVDA,CITI,ATIF MALIK,BUY,BUY,126.0,150.0
+2024-06-27,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,BUY,BUY,128.8,140.0
+2024-07-01,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,,OVERWEIGHT                   ,,144.0
+2024-07-08,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,,BUY                          ,,150.0
+2024-07-09,Nvidia Corp,NVDA,KEYBANK,JOHN VINH,                             ,OVERWEIGHT                   ,130.0,180.0
+2024-07-12,Nvidia Corp,NVDA,BENCHMARK,CODY ACREE,BUY,BUY,135.0,170.0
+2024-07-22,Nvidia Corp,NVDA,LOOP CAPITAL,ANANDA BARUAH,,BUY                          ,,175.0
+2024-07-22,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,,OVERWEIGHT                   ,,140.0
+2024-08-05,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,Hold,Hold,100.0,100.0
+2024-08-23,Nvidia Corp,NVDA,,MARK LIPACIS,Outperform,Outperform,150.0,150.0
+2024-08-23,Nvidia Corp,NVDA,WEDBUSH,MATT BRYSON,Outperform,Outperform,138.0,138.0
+2024-08-26,Nvidia Corp,NVDA,LOOP CAPITAL,ANANDA BARUAH,Buy,Buy,175.0,175.0
+2024-08-27,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,BUY,BUY,140.0,145.0
+2024-08-29,Nvidia Corp,NVDA,WEDBUSH,MATT BRYSON,Outperform,Outperform,138.0,138.0
+2024-08-29,Nvidia Corp,NVDA,,CODY ACREE,Buy,Buy,170.0,170.0
+2024-08-29,Nvidia Corp,NVDA,,QUINN BOLTON,Buy,Buy,145.0,145.0
+2024-08-29,Nvidia Corp,NVDA,,C J MUSE,Overweight,Overweight,175.0,175.0
+2024-08-29,Nvidia Corp,NVDA,CRAIG HALLUM,RICHARD SHANNON,BUY,BUY,125.0,165.0
+2024-08-29,Nvidia Corp,NVDA,RAYMOND JAMES,SRINI PAJJURI,Strong Buy,Strong Buy,140.0,140.0
+2024-08-29,Nvidia Corp,NVDA,BAML,VIVEK ARYA,Buy,Buy,165.0,165.0
+2024-08-29,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,OUTPERFORM,OUTPERFORM,132.0,140.0
+2024-08-29,Nvidia Corp,NVDA,D.A. DAVIDSON,GIL LURIA,Neutral,Neutral,90.0,90.0
+2024-08-29,Nvidia Corp,NVDA,BAIRD,TRISTAN GERRA,                             ,OUTPERFORM                   ,120.0,150.0
+2024-08-29,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,Overweight,Overweight,140.0,140.0
+2024-08-29,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,                             ,OVERWEIGHT                   ,144.0,150.0
+2024-08-29,Nvidia Corp,NVDA,JPMORGAN,HARLAN SUR,OVERWEIGHT,OVERWEIGHT,115.0,155.0
+2024-08-29,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,                             ,OVERWEIGHT                   ,155.0,165.0
+2024-09-05,Nvidia Corp,NVDA,BAML,VIVEK ARYA,Buy,Buy,165.0,165.0
+2024-10-08,Nvidia Corp,NVDA,,C J MUSE,Overweight,Overweight,175.0,175.0
+2024-10-08,Nvidia Corp,NVDA,,TIMOTHY ARCURI,Buy,Buy,150.0,150.0
+2024-10-10,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,Overweight,Overweight,150.0,150.0
+2024-10-17,Nvidia Corp,NVDA,BAML,VIVEK ARYA,                             ,BUY                          ,165.0,190.0
+2024-11-11,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,Overweight,Overweight,175.0,175.0
+2024-11-11,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,Overweight,Overweight,160.0,160.0
+2024-11-11,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,BUY,BUY,,185.0
+2024-11-12,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,Outperform,Outperform,165.0,165.0
+2024-11-13,Nvidia Corp,NVDA,,ATIF MALIK,Buy,Buy,170.0,170.0
+2024-11-14,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,POSITIVE                     ,160.0,180.0
+2024-11-14,Nvidia Corp,NVDA,RAYMOND JAMES,SRINI PAJJURI,Strong Buy,Strong Buy,170.0,170.0
+2024-11-14,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,                             ,OUTPERFORM                   ,150.0,175.0
+2024-11-14,Nvidia Corp,NVDA,WEDBUSH,MATT BRYSON,                             ,OUTPERFORM                   ,138.0,160.0
+2024-11-19,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,Buy,Buy,167.0,167.0
+2024-11-19,Nvidia Corp,NVDA,STIFEL,RUBEN ROY,                             ,BUY                          ,165.0,180.0
+2024-11-20,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,                             ,OUTPERFORM                   ,165.0,175.0
+2024-11-20,Nvidia Corp,NVDA,BAIRD,TRISTAN GERRA,                             ,OUTPERFORM                   ,150.0,195.0
+2024-11-20,Nvidia Corp,NVDA,TD COWEN,JOSHUA BUCHALTER,BUY,BUY,165.0,175.0
+2024-11-21,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,                             ,HOLD                         ,115.0,140.0
+2024-11-21,Nvidia Corp,NVDA,BAML,VIVEK ARYA,Buy,Buy,190.0,190.0
+2024-11-21,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,OVERWEIGHT,OVERWEIGHT,160.0,168.0
+2024-11-21,Nvidia Corp,NVDA,,CODY ACREE,Buy,Buy,190.0,190.0
+2024-11-21,Nvidia Corp,NVDA,,BLAYNE CURTIS,Overweight,Overweight,160.0,160.0
+2024-11-21,Nvidia Corp,NVDA,WOLFE,CHRIS CASO,OUTPERFORM,OUTPERFORM,150.0,180.0
+2024-11-21,Nvidia Corp,NVDA,,QUINN BOLTON,Buy,Buy,160.0,160.0
+2024-11-21,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,                             ,OVERWEIGHT                   ,165.0,185.0
+2024-11-21,Nvidia Corp,NVDA,,MARK LIPACIS,Outperform,Outperform,190.0,190.0
+2024-11-21,Nvidia Corp,NVDA,,ATIF MALIK,Buy,Buy,175.0,175.0
+2024-11-21,Nvidia Corp,NVDA,,MATT BRYSON,Outperform,Outperform,175.0,175.0
+2024-11-21,Nvidia Corp,NVDA,,RICK SCHAFER,Outperform,Outperform,175.0,175.0
+2024-11-21,Nvidia Corp,NVDA,,C J MUSE,Overweight,Overweight,175.0,175.0
+2024-11-21,Nvidia Corp,NVDA,CRAIG HALLUM,RICHARD SHANNON,BUY,BUY,165.0,175.0
+2024-11-21,Nvidia Corp,NVDA,D.A. DAVIDSON,GIL LURIA,NEUTRAL,NEUTRAL,90.0,135.0
+2024-11-21,Nvidia Corp,NVDA,,HARLAN SUR,Overweight,Overweight,170.0,170.0
+2024-12-16,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,BUY,BUY,,204.0
+2024-12-20,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,                             ,OVERWEIGHT                   ,168.0,166.0
+2025-01-07,Nvidia Corp,NVDA,,CODY ACREE,Buy,Buy,190.0,190.0
+2025-01-17,Nvidia Corp,NVDA,,BLAYNE CURTIS,Overweight,Overweight,175.0,175.0
+2025-01-27,Nvidia Corp,NVDA,,C J MUSE,Overweight,Overweight,200.0,200.0
+2025-01-28,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,Overweight,Overweight,152.0,152.0
+2025-02-20,Nvidia Corp,NVDA,KEYBANK,JOHN VINH,OVERWEIGHT,OVERWEIGHT,180.0,190.0
+2025-02-27,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,                             ,OVERWEIGHT                   ,152.0,162.0
+2025-02-27,Nvidia Corp,NVDA,,KEVIN CASSIDY,Buy,Buy,220.0,220.0
+2025-02-27,Nvidia Corp,NVDA,D.A. DAVIDSON,GIL LURIA,Neutral,Neutral,135.0,135.0
+2025-02-27,Nvidia Corp,NVDA,BAML,VIVEK ARYA,Buy,Buy,200.0,200.0
+2025-02-27,Nvidia Corp,NVDA,,CODY ACREE,Buy,Buy,190.0,190.0
+2025-02-27,Nvidia Corp,NVDA,,QUINN BOLTON,Buy,Buy,160.0,160.0
+2025-02-27,Nvidia Corp,NVDA,,MATTHEW PRISCO,Overweight,Overweight,200.0,200.0
+2025-02-27,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,BUY,BUY,204.0,205.0
+2025-03-14,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,Outperform,Outperform,168.0,168.0
+2025-03-19,Nvidia Corp,NVDA,,MATTHEW PRISCO,Overweight,Overweight,200.0,200.0
+2025-03-19,Nvidia Corp,NVDA,,QUINN BOLTON,Buy,Buy,160.0,160.0
+2025-03-19,Nvidia Corp,NVDA,,JOHN VINH,Overweight,Overweight,,
+2025-03-19,Nvidia Corp,NVDA,BAML,VIVEK ARYA,Buy,Buy,200.0,200.0
+2025-03-19,Nvidia Corp,NVDA,,KEVIN CASSIDY,Buy,Buy,220.0,220.0
+2025-03-20,Nvidia Corp,NVDA,,CODY ACREE,Buy,Buy,190.0,190.0
+2025-03-20,Nvidia Corp,NVDA,D.A. DAVIDSON,GIL LURIA,NEUTRAL,NEUTRAL,135.0,125.0
+2025-04-09,Nvidia Corp,NVDA,,JOSHUA BUCHALTER,Buy,Buy,140.0,140.0
+2025-04-11,Nvidia Corp,NVDA,,ATIF MALIK,Buy,Buy,150.0,150.0
+2025-04-14,Nvidia Corp,NVDA,,GIL LURIA,Neutral,Neutral,120.0,120.0
+2025-04-16,Nvidia Corp,NVDA,,MATT BRYSON,Outperform,Outperform,175.0,175.0
+2025-04-16,Nvidia Corp,NVDA,,KEVIN CASSIDY,Buy,Buy,200.0,200.0
+2025-04-16,Nvidia Corp,NVDA,BAML,VIVEK ARYA,Buy,Buy,160.0,160.0
+2025-04-16,Nvidia Corp,NVDA,RAYMOND JAMES,SRINI PAJJURI,                             ,STRONG BUY                   ,170.0,150.0
+2025-04-16,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,OVERWEIGHT,OVERWEIGHT,175.0,150.0
+2025-04-17,Nvidia Corp,NVDA,,TIMOTHY ARCURI,Buy,Buy,180.0,180.0
+2025-04-22,Nvidia Corp,NVDA,BARCLAYS,TOM O'MALLEY,                             ,OVERWEIGHT                   ,175.0,155.0
+2025-04-25,Nvidia Corp,NVDA,,JOSEPH MOORE,Overweight,Overweight,160.0,160.0
+2025-05-12,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,BUY,BUY,,175.0
+2025-05-14,Nvidia Corp,NVDA,BAML,VIVEK ARYA,                             ,BUY                          ,150.0,160.0
+2025-05-16,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,,OUTPERFORM                   ,,168.0
+2025-05-22,Nvidia Corp,NVDA,,MATT BRYSON,Outperform,Outperform,175.0,175.0
+2025-05-29,Nvidia Corp,NVDA,,KEVIN CASSIDY,Buy,Buy,200.0,200.0
+2025-05-29,Nvidia Corp,NVDA,BARCLAYS,TOM O'MALLEY,Overweight,Overweight,170.0,170.0
+2025-05-29,Nvidia Corp,NVDA,,ATIF MALIK,Buy,Buy,180.0,180.0
+2025-05-29,Nvidia Corp,NVDA,,JOSEPH MOORE,Overweight,Overweight,170.0,170.0
+2025-05-29,Nvidia Corp,NVDA,,VIJAY RAKESH,Outperform,Outperform,170.0,170.0
+2025-05-29,Nvidia Corp,NVDA,,HARSH KUMAR,Overweight,Overweight,180.0,180.0
+2025-05-29,Nvidia Corp,NVDA,,QUINN BOLTON,Buy,Buy,160.0,160.0
+2025-05-29,Nvidia Corp,NVDA,,GIL LURIA,Neutral,Neutral,135.0,135.0
+2025-06-16,Nvidia Corp,NVDA,,RICK SCHAFER,Outperform,Outperform,175.0,175.0
+2025-06-17,Nvidia Corp,NVDA,BARCLAYS,TOM O'MALLEY,OVERWEIGHT,OVERWEIGHT,170.0,200.0
+2025-06-25,Nvidia Corp,NVDA,LOOP CAPITAL,ANANDA BARUAH,BUY,BUY,175.0,250.0
+2025-07-03,Nvidia Corp,NVDA,,VIJAY RAKESH,Outperform,Outperform,185.0,185.0
+2025-07-07,Nvidia Corp,NVDA,,ATIF MALIK,Buy,Buy,190.0,190.0
+2025-07-16,Nvidia Corp,NVDA,,VIJAY RAKESH,Outperform,Outperform,192.0,192.0
+2025-07-30,Nvidia Corp,NVDA,,JOSEPH MOORE,Overweight,Overweight,200.0,200.0
+2025-08-18,Nvidia Corp,NVDA,,C J MUSE,Overweight,Overweight,240.0,240.0
+2025-08-20,Nvidia Corp,NVDA,,JOHN VINH,Overweight,Overweight,215.0,215.0
+2025-08-22,Nvidia Corp,NVDA,,MARK LIPACIS,Outperform,Outperform,214.0,214.0
+2025-09-08,Nvidia Corp,NVDA,,ATIF MALIK,Buy,Buy,200.0,200.0
+2025-09-11,Nvidia Corp,NVDA,,GIL LURIA,Neutral,Buy,210.0,210.0
